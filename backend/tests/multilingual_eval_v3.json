@@ -1,0 +1,722 @@
+{
+ "overall": {
+  "n": 2548,
+  "accuracy": 0.6185,
+  "auto_share": 0.7115,
+  "auto_accuracy": 0.7402,
+  "review_share": 0.1189,
+  "unclassified_share": 0.1695,
+  "income_recall": 0.3152
+ },
+ "by_split": {
+  "dev": {
+   "n": 1371,
+   "accuracy": 0.6229,
+   "auto_share": 0.6871,
+   "auto_accuracy": 0.707,
+   "review_share": 0.1831,
+   "unclassified_share": 0.1298,
+   "income_recall": 0.2593
+  },
+  "test": {
+   "n": 1177,
+   "accuracy": 0.6134,
+   "auto_share": 0.74,
+   "auto_accuracy": 0.7761,
+   "review_share": 0.0442,
+   "unclassified_share": 0.2158,
+   "income_recall": 0.39
+  }
+ },
+ "by_language": {
+  "en": {
+   "n": 878,
+   "accuracy": 0.9055,
+   "auto_share": 0.828,
+   "auto_accuracy": 0.9904,
+   "review_share": 0.1333,
+   "unclassified_share": 0.0387,
+   "income_recall": 0.8365
+  },
+  "hi": {
+   "n": 320,
+   "accuracy": 0.6438,
+   "auto_share": 0.9,
+   "auto_accuracy": 0.6458,
+   "review_share": 0.0688,
+   "unclassified_share": 0.0312,
+   "income_recall": 0.1781
+  },
+  "hi-Latn": {
+   "n": 285,
+   "accuracy": 0.8105,
+   "auto_share": 0.5298,
+   "auto_accuracy": 0.8675,
+   "review_share": 0.4316,
+   "unclassified_share": 0.0386,
+   "income_recall": 0.0244
+  },
+  "gu": {
+   "n": 521,
+   "accuracy": 0.3685,
+   "auto_share": 0.6967,
+   "auto_accuracy": 0.4766,
+   "review_share": 0.0365,
+   "unclassified_share": 0.2668,
+   "income_recall": 0.0654
+  },
+  "ta": {
+   "n": 544,
+   "accuracy": 0.2794,
+   "auto_share": 0.5221,
+   "auto_accuracy": 0.4648,
+   "review_share": 0.0404,
+   "unclassified_share": 0.4375,
+   "income_recall": 0.0196
+  }
+ },
+ "by_language_test": {
+  "en": {
+   "n": 424,
+   "accuracy": 0.9458,
+   "auto_share": 0.9269,
+   "auto_accuracy": 1.0,
+   "review_share": 0.0189,
+   "unclassified_share": 0.0542,
+   "income_recall": 0.9931
+  },
+  "hi": {
+   "n": 142,
+   "accuracy": 0.7535,
+   "auto_share": 0.8732,
+   "auto_accuracy": 0.7742,
+   "review_share": 0.0915,
+   "unclassified_share": 0.0352,
+   "income_recall": 0.5
+  },
+  "hi-Latn": {
+   "n": 93,
+   "accuracy": 0.8602,
+   "auto_share": 0.8065,
+   "auto_accuracy": 0.96,
+   "review_share": 0.129,
+   "unclassified_share": 0.0645,
+   "income_recall": 0.0
+  },
+  "gu": {
+   "n": 208,
+   "accuracy": 0.4087,
+   "auto_share": 0.6394,
+   "auto_accuracy": 0.5789,
+   "review_share": 0.0385,
+   "unclassified_share": 0.3221,
+   "income_recall": 0.0923
+  },
+  "ta": {
+   "n": 310,
+   "accuracy": 0.1581,
+   "auto_share": 0.471,
+   "auto_accuracy": 0.2603,
+   "review_share": 0.0355,
+   "unclassified_share": 0.4935,
+   "income_recall": 0.0
+  }
+ },
+ "per_category": [
+  {
+   "category": "BANK_CHARGES",
+   "support": 42,
+   "precision": 0.176,
+   "recall": 0.286
+  },
+  {
+   "category": "BOUNCE_RETURN",
+   "support": 4,
+   "precision": 1.0,
+   "recall": 0.5
+  },
+  {
+   "category": "BUSINESS_RECEIPT",
+   "support": 883,
+   "precision": 0.987,
+   "recall": 0.426
+  },
+  {
+   "category": "CARD_PAYMENT",
+   "support": 30,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "category": "CASH_DEPOSIT",
+   "support": 104,
+   "precision": 1.0,
+   "recall": 0.375
+  },
+  {
+   "category": "CASH_WITHDRAWAL",
+   "support": 54,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "category": "GENERAL_EXPENSE",
+   "support": 624,
+   "precision": 0.711,
+   "recall": 0.91
+  },
+  {
+   "category": "INSURANCE",
+   "support": 14,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "category": "INTEREST",
+   "support": 40,
+   "precision": 1.0,
+   "recall": 0.25
+  },
+  {
+   "category": "INTERNAL_TRANSFER",
+   "support": 48,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "category": "INVESTMENT",
+   "support": 36,
+   "precision": 0.778,
+   "recall": 0.389
+  },
+  {
+   "category": "LOAN_DISBURSAL",
+   "support": 2,
+   "precision": 0.667,
+   "recall": 1.0
+  },
+  {
+   "category": "LOAN_EMI",
+   "support": 78,
+   "precision": 0.975,
+   "recall": 1.0
+  },
+  {
+   "category": "OTHER_CREDIT",
+   "support": 3,
+   "precision": 0.008,
+   "recall": 0.667
+  },
+  {
+   "category": "PAYROLL_PAYMENT",
+   "support": 108,
+   "precision": 1.0,
+   "recall": 0.361
+  },
+  {
+   "category": "REFUND_REVERSAL",
+   "support": 20,
+   "precision": 1.0,
+   "recall": 0.6
+  },
+  {
+   "category": "RENT",
+   "support": 78,
+   "precision": 1.0,
+   "recall": 0.295
+  },
+  {
+   "category": "SALARY",
+   "support": 53,
+   "precision": 1.0,
+   "recall": 0.925
+  },
+  {
+   "category": "SUPPLIER_PAYMENT",
+   "support": 123,
+   "precision": null,
+   "recall": 0.0
+  },
+  {
+   "category": "TAX",
+   "support": 12,
+   "precision": 0.857,
+   "recall": 1.0
+  },
+  {
+   "category": "UNCLASSIFIED",
+   "support": 0,
+   "precision": 0.0,
+   "recall": null
+  },
+  {
+   "category": "UTILITIES",
+   "support": 192,
+   "precision": 1.0,
+   "recall": 1.0
+  }
+ ],
+ "top_confusions": [
+  {
+   "gold": "BUSINESS_RECEIPT",
+   "pred": "UNCLASSIFIED",
+   "count": 306,
+   "examples": [
+    "IMPS/700887738367/જયેશ પંડ્યા/માલ વેચાણ",
+    "NEFT/CR/543507333934/રમેશ પટેલ/માલ વેચાણ",
+    "NEFT/CR/011254681277/પટેલ કરિયાણા/માલ વેચાણ"
+   ]
+  },
+  {
+   "gold": "BUSINESS_RECEIPT",
+   "pred": "OTHER_CREDIT",
+   "count": 201,
+   "examples": [
+    "NEFT/CR/161704803064/અંબિકા સ્ટોર્સ/માલ વેચાણ",
+    "UPI/CR/586192128745/પટેલ કરિયાણા/માલ વેચાણ",
+    "UPI/CR/035833856653/પટેલ કરિયાણા/વેચાણ"
+   ]
+  },
+  {
+   "gold": "SUPPLIER_PAYMENT",
+   "pred": "GENERAL_EXPENSE",
+   "count": 80,
+   "examples": [
+    "NEFT/DR/7939939327/FRESH MART/RAW MATERIAL",
+    "NEFT/DR/8683615358/અંબિકા સ્ટોર્સ/કાચો માલ",
+    "NEFT/DR/9544979079/પટેલ કરિયાણા/માલ ખરીદી"
+   ]
+  },
+  {
+   "gold": "PAYROLL_PAYMENT",
+   "pred": "GENERAL_EXPENSE",
+   "count": 69,
+   "examples": [
+    "IMPS/688222172264/જયેશ પંડ્યા/સ્ટાફ પગાર",
+    "IMPS/293359313861/જયેશ પંડ્યા/સ્ટાફ પગાર",
+    "IMPS/149653713072/જયેશ પંડ્યા/સ્ટાફ પગાર"
+   ]
+  },
+  {
+   "gold": "CASH_DEPOSIT",
+   "pred": "UNCLASSIFIED",
+   "count": 60,
+   "examples": [
+    "રોકડ જમા/BR અમદાવાદ",
+    "રોકડ જમા/BR અમદાવાદ",
+    "રોકડ જમા/BR અમદાવાદ"
+   ]
+  },
+  {
+   "gold": "GENERAL_EXPENSE",
+   "pred": "BANK_CHARGES",
+   "count": 56,
+   "examples": [
+    "UPI/DR/271340523285/RAHUL MEHTA/SCHOOL FEES",
+    "UPI/DR/769322464142/FRESH MART/SCHOOL FEES",
+    "UPI/DR/906174306143/RAJ KUMAR/SCHOOL FEES"
+   ]
+  },
+  {
+   "gold": "RENT",
+   "pred": "GENERAL_EXPENSE",
+   "count": 55,
+   "examples": [
+    "IMPS/353720727630/MANOJ TIWARI/KIRAYA",
+    "IMPS/788469609133/SURESH YADAV/MAKAN KIRAYA",
+    "IMPS/061554199678/SURESH YADAV/MAKAN KIRAYA"
+   ]
+  },
+  {
+   "gold": "SUPPLIER_PAYMENT",
+   "pred": "UNCLASSIFIED",
+   "count": 37,
+   "examples": [
+    "NEFT/DR/3906149969/FRESH MART/STOCK PURCHASE",
+    "NEFT/DR/2963624972/FRESH MART/STOCK PURCHASE",
+    "NEFT/DR/5595004879/FRESH MART/STOCK PURCHASE"
+   ]
+  },
+  {
+   "gold": "INTEREST",
+   "pred": "OTHER_CREDIT",
+   "count": 29,
+   "examples": [
+    "ब्याज जमा/Q1",
+    "BYAJ JAMA/Q2",
+    "વ્યાજ જમા/Q1"
+   ]
+  },
+  {
+   "gold": "BANK_CHARGES",
+   "pred": "GENERAL_EXPENSE",
+   "count": 23,
+   "examples": [
+    "એસએમએસ ચાર્જ/Q1",
+    "એસએમએસ ચાર્જ/Q2",
+    "एसएमएस शुल्क/Q1"
+   ]
+  },
+  {
+   "gold": "INVESTMENT",
+   "pred": "UNCLASSIFIED",
+   "count": 22,
+   "examples": [
+    "ACH/DR/BSE STAR MF/म्यूचुअल फंड एसआईपी",
+    "ACH/DR/BSE STAR MF/म्यूचुअल फंड एसआईपी",
+    "ACH/DR/BSE STAR MF/म्यूचुअल फंड एसआईपी"
+   ]
+  },
+  {
+   "gold": "BANK_CHARGES",
+   "pred": "UNCLASSIFIED",
+   "count": 6,
+   "examples": [
+    "SMS CHARGE/Q2",
+    "SMS CHARGE/Q2",
+    "SMS CHARGE/Q1"
+   ]
+  },
+  {
+   "gold": "CASH_DEPOSIT",
+   "pred": "OTHER_CREDIT",
+   "count": 5,
+   "examples": [
+    "રોકડ જમા/BR અમદાવાદ",
+    "રોકડ જમા/BR અમદાવાદ",
+    "ரொக்க வைப்பு/BR சென்னை"
+   ]
+  },
+  {
+   "gold": "REFUND_REVERSAL",
+   "pred": "GENERAL_EXPENSE",
+   "count": 4,
+   "examples": [
+    "UPI/DR/530503029750/MYNTRA/કરિયાણું",
+    "UPI/DR/589578928140/FLIPKART/पेट्रोल",
+    "UPI/DR/472083905629/FLIPKART/દવા"
+   ]
+  },
+  {
+   "gold": "REFUND_REVERSAL",
+   "pred": "OTHER_CREDIT",
+   "count": 4,
+   "examples": [
+    "UPI/CR/530503029750/MYNTRA/રિફંડ",
+    "UPI/CR/589578928140/FLIPKART/धनवापसी",
+    "UPI/CR/472083905629/FLIPKART/પૈસા પરત"
+   ]
+  }
+ ],
+ "statements": [
+  {
+   "id": "ml01",
+   "split": "dev",
+   "name": "Arjun Rao: IT engineer, Bengaluru",
+   "profile_true": "SALARIED",
+   "profile_pred": "SALARIED",
+   "income_true": 12798138,
+   "income_pred": 12798138,
+   "income_method": "median of 6 monthly salary totals over fully covered months",
+   "income_abs_pct_err": 0.0,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml02",
+   "split": "dev",
+   "name": "Hetal Shah: teacher, Ahmedabad",
+   "profile_true": "SALARIED",
+   "profile_pred": "SALARIED",
+   "income_true": 4840729,
+   "income_pred": 4840729,
+   "income_method": "median of 6 monthly salary totals over fully covered months",
+   "income_abs_pct_err": 0.0,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml03",
+   "split": "dev",
+   "name": "Ram Prasad Mishra: clerk, Lucknow",
+   "profile_true": "SALARIED",
+   "profile_pred": "SALARIED",
+   "income_true": 4187624,
+   "income_pred": 4187624,
+   "income_method": "median of 6 monthly salary totals over fully covered months",
+   "income_abs_pct_err": 0.0,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml04",
+   "split": "dev",
+   "name": "Kavitha Raman: nurse, Chennai",
+   "profile_true": "SALARIED",
+   "profile_pred": "SALARIED",
+   "income_true": 4638456,
+   "income_pred": 0,
+   "income_method": "recent 3-month average, because income fell 100% versus the prior 3 months (median ₹23,112.04)",
+   "income_abs_pct_err": 1.0,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [
+    "income_decline"
+   ],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml05",
+   "split": "dev",
+   "name": "Bhavesh Patel: kirana shop, Surat",
+   "profile_true": "SELF_EMPLOYED",
+   "profile_pred": "SELF_EMPLOYED",
+   "income_true": 30499999,
+   "income_pred": 6802847,
+   "income_method": "recent 3-month average, because income fell 25% versus the prior 3 months (median ₹68,644.01)",
+   "income_abs_pct_err": 0.777,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [
+    "income_decline"
+   ],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml06",
+   "split": "dev",
+   "name": "Selvam Textiles: trader, Coimbatore",
+   "profile_true": "SELF_EMPLOYED",
+   "profile_pred": "SELF_EMPLOYED",
+   "income_true": 68499999,
+   "income_pred": 18822567,
+   "income_method": "median of 6 monthly income totals over fully covered months",
+   "income_abs_pct_err": 0.725,
+   "flags_expected": [
+    "income_decline",
+    "large_cash_deposit",
+    "returned_payment"
+   ],
+   "flags_found": [],
+   "flags_missed": [
+    "income_decline",
+    "large_cash_deposit",
+    "returned_payment"
+   ],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml07",
+   "split": "dev",
+   "name": "Imran Khan: cab driver, Delhi",
+   "profile_true": "SELF_EMPLOYED",
+   "profile_pred": "SELF_EMPLOYED",
+   "income_true": 4350000,
+   "income_pred": 460798,
+   "income_method": "median of 6 monthly income totals over fully covered months",
+   "income_abs_pct_err": 0.894,
+   "flags_expected": [
+    "income_decline"
+   ],
+   "flags_found": [],
+   "flags_missed": [
+    "income_decline"
+   ],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml08",
+   "split": "dev",
+   "name": "Mixed-script household, Mumbai",
+   "profile_true": "SALARIED",
+   "profile_pred": "SALARIED",
+   "income_true": 7200364,
+   "income_pred": 7200364,
+   "income_method": "median of 6 monthly salary totals over fully covered months",
+   "income_abs_pct_err": 0.0,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml09",
+   "split": "test",
+   "name": "Pooja Iyer: analyst, Pune",
+   "profile_true": "SALARIED",
+   "profile_pred": "SALARIED",
+   "income_true": 12838598,
+   "income_pred": 12838598,
+   "income_method": "median of 6 monthly salary totals over fully covered months",
+   "income_abs_pct_err": 0.0,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml10",
+   "split": "test",
+   "name": "Jignesh Mehta: bank officer, Rajkot",
+   "profile_true": "SALARIED",
+   "profile_pred": "SALARIED",
+   "income_true": 4829860,
+   "income_pred": 4829860,
+   "income_method": "median of 6 monthly salary totals over fully covered months",
+   "income_abs_pct_err": 0.0,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml11",
+   "split": "test",
+   "name": "Sunita Devi: pensioner, Varanasi",
+   "profile_true": "SALARIED",
+   "profile_pred": "SALARIED",
+   "income_true": 3109236,
+   "income_pred": 3109236,
+   "income_method": "median of 6 monthly salary totals over fully covered months",
+   "income_abs_pct_err": 0.0,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml12",
+   "split": "test",
+   "name": "Dr. Senthil Kumar: clinic, Madurai",
+   "profile_true": "SELF_EMPLOYED",
+   "profile_pred": "SELF_EMPLOYED",
+   "income_true": 44749999,
+   "income_pred": 18581282,
+   "income_method": "median of 6 monthly income totals over fully covered months",
+   "income_abs_pct_err": 0.585,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml13",
+   "split": "test",
+   "name": "Ambika Industries: manufacturer, Rajkot",
+   "profile_true": "SELF_EMPLOYED",
+   "profile_pred": "SELF_EMPLOYED",
+   "income_true": 143000000,
+   "income_pred": 62767224,
+   "income_method": "median of 6 monthly income totals over fully covered months",
+   "income_abs_pct_err": 0.561,
+   "flags_expected": [
+    "large_cash_deposit"
+   ],
+   "flags_found": [],
+   "flags_missed": [
+    "large_cash_deposit"
+   ],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml14",
+   "split": "test",
+   "name": "Murugan Agro: farm trader, Thanjavur",
+   "profile_true": "SELF_EMPLOYED",
+   "profile_pred": "SELF_EMPLOYED",
+   "income_true": 13000000,
+   "income_pred": 3846853,
+   "income_method": "median of 6 monthly income totals over fully covered months",
+   "income_abs_pct_err": 0.704,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml15",
+   "split": "test",
+   "name": "Deepak Saini: stressed borrower, Jaipur",
+   "profile_true": "SALARIED",
+   "profile_pred": "SELF_EMPLOYED",
+   "income_true": 4678376,
+   "income_pred": 0,
+   "income_method": "no confirmed income yet; 5 possible income credit(s) await analyst review",
+   "income_abs_pct_err": 1.0,
+   "flags_expected": [
+    "income_decline",
+    "missed_salary",
+    "returned_payment"
+   ],
+   "flags_found": [
+    "missed_salary",
+    "returned_payment"
+   ],
+   "flags_missed": [
+    "income_decline"
+   ],
+   "flags_unexpected": [],
+   "unmatched_rows": 0
+  },
+  {
+   "id": "ml16",
+   "split": "test",
+   "name": "Freelance designer, Indore",
+   "profile_true": "SELF_EMPLOYED",
+   "profile_pred": "SELF_EMPLOYED",
+   "income_true": 7750000,
+   "income_pred": 0,
+   "income_method": "median of 6 monthly income totals over fully covered months",
+   "income_abs_pct_err": 1.0,
+   "flags_expected": [],
+   "flags_found": [],
+   "flags_missed": [],
+   "flags_unexpected": [
+    "income_decline"
+   ],
+   "unmatched_rows": 0
+  }
+ ],
+ "statement_summary": {
+  "profile_correct": 15,
+  "statements": 16,
+  "income_median_abs_pct_err": 0.573,
+  "income_within_10pct": 7,
+  "flag_recall": "2/8",
+  "unexpected_flags": 3
+ },
+ "efficiency": {
+  "statements": 16,
+  "files": 20,
+  "rows": 2548,
+  "upload_total_s": 59.74,
+  "upload_rows_per_s": 42.7,
+  "classify_total_s": 11.3,
+  "classify_rows_per_s": 225.4,
+  "analysis_total_s": 3.27,
+  "end_to_end_per_statement_s_median": 3.64,
+  "correction_with_recompute_s": 1.55,
+  "correction_case_rows": 323,
+  "peak_python_memory_mb": 3.5
+ }
+}

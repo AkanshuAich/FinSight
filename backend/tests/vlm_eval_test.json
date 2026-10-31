@@ -1,0 +1,176 @@
+{
+ "statements": 120,
+ "label_rows": 7527,
+ "ingested_rows": 7527,
+ "row_mismatch": [],
+ "file_status": {
+  "processed": 120
+ },
+ "recon": {
+  "reconciled": 120
+ },
+ "status": {
+  "auto": 4715,
+  "review": 1525,
+  "unclassified": 1287
+ },
+ "status_nonascii": {
+  "auto": 1445,
+  "unclassified": 547,
+  "review": 398
+ },
+ "category": {
+  "GENERAL_EXPENSE": 3271,
+  "UNCLASSIFIED": 1287,
+  "BUSINESS_RECEIPT": 595,
+  "CASH_WITHDRAWAL": 426,
+  "SALARY": 396,
+  "BANK_CHARGES": 338,
+  "OTHER_CREDIT": 317,
+  "INTERNAL_TRANSFER": 256,
+  "UTILITIES": 241,
+  "RENT": 160,
+  "PAYROLL_PAYMENT": 69,
+  "INVESTMENT": 59,
+  "INTEREST": 48,
+  "INSURANCE": 34,
+  "CARD_PAYMENT": 15,
+  "CASH_DEPOSIT": 15
+ },
+ "profile": {
+  "SELF_EMPLOYED": 111,
+  "SALARIED": 9
+ },
+ "income_found": 17,
+ "flags": {
+  "review_queue": 120,
+  "missed_salary": 36,
+  "negative_net_cash_flow": 13,
+  "missed_obligation": 8,
+  "low_balance": 4
+ },
+ "review_examples": [
+  [
+   "CR CHQ DEP-CTS/#/SELF",
+   155
+  ],
+  [
+   "DR POS/INDIAN OIL/<NUM>",
+   53
+  ],
+  [
+   "DR GPAY-UPI/<UPI>/BILLS",
+   53
+  ],
+  [
+   "DR ATM CASH WDL CHGS+GST",
+   45
+  ],
+  [
+   "DR POS/UGVCL ELECTRIC/<NUM>",
+   40
+  ],
+  [
+   "DR CHQ ISS/#/SELF",
+   34
+  ],
+  [
+   "CR SAVINGS INT CR/Q#FY#",
+   34
+  ],
+  [
+   "DR GPAY-UPI/મનીષ દેસાઈ@AXL/BILLS",
+   21
+  ],
+  [
+   "DR GPAY-UPI/VIKRAM <UPI>/BILLS",
+   20
+  ],
+  [
+   "CR UPI/CREDIT/राज कुमार/REF-<NUM>",
+   20
+  ],
+  [
+   "CR IMPS-CR/<NUM>/DEEPAK SHAH/MOB",
+   19
+  ],
+  [
+   "CR BHIM-UPI/CR/રાજેશ પટેલ@IBL",
+   19
+  ],
+  [
+   "DR PAYTM-UPI/INDIAN OIL/<NUM>",
+   19
+  ],
+  [
+   "CR UPI/CREDIT/SURESH IYER/REF-<NUM>",
+   18
+  ],
+  [
+   "DR BHIM-UPI/DR/JIO <UPI>/PMNT",
+   18
+  ],
+  [
+   "CR BHIM-UPI/CR/નીતા બેન@AXL",
+   18
+  ],
+  [
+   "CR UPI/CREDIT/AMIT PATEL/REF-<NUM>",
+   18
+  ],
+  [
+   "CR UPI/CREDIT/MEERA JOSHI/REF-<NUM>",
+   17
+  ],
+  [
+   "CR UPI/CREDIT/ANJALI NAIR/REF-<NUM>",
+   17
+  ],
+  [
+   "DR GPAY-UPI/सुरेश यादव@IBL/BILLS",
+   17
+  ],
+  [
+   "CR IMPS-CR/<NUM>/RAJESH KUMAR/MOB",
+   16
+  ],
+  [
+   "CR UPI/CREDIT/PRIYA SHARMA/REF-<NUM>",
+   16
+  ],
+  [
+   "CR UPI/CREDIT/ASHISH GUPTA/REF-<NUM>",
+   16
+  ],
+  [
+   "DR IMPS TRANSFER/REF <NUM>",
+   16
+  ],
+  [
+   "CR UPI/CREDIT/રાજેશ પટેલ/REF-<NUM>",
+   16
+  ],
+  [
+   "CR UPI/CREDIT/RAJESH KUMAR/REF-<NUM>",
+   16
+  ],
+  [
+   "DR GPAY-UPI/POOJA <UPI>/BILLS",
+   15
+  ],
+  [
+   "CR BHIM-UPI/CR/MEERA <UPI>",
+   15
+  ],
+  [
+   "DR BHIM-UPI/DR/INDIAN <UPI>/PMNT",
+   15
+  ],
+  [
+   "DR NCSH-एटीएम-विजापुर/CARD-#",
+   15
+  ]
+ ],
+ "errors": [],
+ "seconds": 123.3
+}

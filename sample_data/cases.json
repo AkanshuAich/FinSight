@@ -1,0 +1,12 @@
+{
+  "case_salaried": {
+    "applicant": "Rohan Malhotra",
+    "application_date": "2026-07-10",
+    "profile": "SALARIED"
+  },
+  "case_sme": {
+    "applicant": "Kavya Iyer (Sri Lakshmi Traders)",
+    "application_date": "2026-07-08",
+    "profile": "SELF_EMPLOYED"
+  }
+}

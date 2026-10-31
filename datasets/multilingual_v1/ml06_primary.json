@@ -1,0 +1,1841 @@
+{
+ "bank_name": "SAPTAGIRI GRAMIN BANK",
+ "account_holder": "SELVAM TEXTILES",
+ "account_number": "310000500014",
+ "account_type": "SAVINGS",
+ "statement_period": {
+  "from": "2026-01-01",
+  "to": "2026-06-30"
+ },
+ "opening_balance": 150536.0,
+ "closing_balance": 1344188.94,
+ "transactions": [
+  {
+   "date": "2026-01-01",
+   "description": "NEFT/CR/806160575795/STAR TRADERS/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 21325.53,
+   "balance": 171861.53
+  },
+  {
+   "date": "2026-01-01",
+   "description": "UPI/CR/899257665304/RAHUL MEHTA/SALES",
+   "debit": null,
+   "credit": 36135.23,
+   "balance": 207996.76
+  },
+  {
+   "date": "2026-01-02",
+   "description": "IMPS/531215943839/ANKIT JAIN/STAFF SALARY",
+   "debit": 12106.0,
+   "credit": null,
+   "balance": 195890.76
+  },
+  {
+   "date": "2026-01-02",
+   "description": "IMPS/968973614013/ராஜேஷ் கண்ணன்/ஊழியர் சம்பளம்",
+   "debit": 12583.0,
+   "credit": null,
+   "balance": 183307.76
+  },
+  {
+   "date": "2026-01-02",
+   "description": "IMPS/197382687724/ராஜேஷ் கண்ணன்/ஊழியர் சம்பளம்",
+   "debit": 15240.0,
+   "credit": null,
+   "balance": 168067.76
+  },
+  {
+   "date": "2026-01-02",
+   "description": "IMPS/149716395436/RAHUL MEHTA/STAFF SALARY",
+   "debit": 13104.0,
+   "credit": null,
+   "balance": 154963.76
+  },
+  {
+   "date": "2026-01-03",
+   "description": "UPI/CR/676365351059/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 30151.94,
+   "balance": 185115.7
+  },
+  {
+   "date": "2026-01-03",
+   "description": "IMPS/547528999280/செல்வம் டெக்ஸ்டைல்ஸ்/சொந்த கணக்கிற்கு",
+   "debit": 50000.0,
+   "credit": null,
+   "balance": 135115.7
+  },
+  {
+   "date": "2026-01-04",
+   "description": "UPI/CR/230610802579/ராஜேஷ் கண்ணன்/விற்பனை",
+   "debit": null,
+   "credit": 40236.21,
+   "balance": 175351.91
+  },
+  {
+   "date": "2026-01-04",
+   "description": "NEFT/CR/616586057840/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 37642.61,
+   "balance": 212994.52
+  },
+  {
+   "date": "2026-01-05",
+   "description": "IMPS/295084001171/ஸ்ரீ லட்சுமி ஏஜென்சி/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 40863.05,
+   "balance": 253857.57
+  },
+  {
+   "date": "2026-01-05",
+   "description": "IMPS/781083314206/ராஜேஷ் கண்ணன்/மாத வாடகை",
+   "debit": 42000.0,
+   "credit": null,
+   "balance": 211857.57
+  },
+  {
+   "date": "2026-01-06",
+   "description": "IMPS/893800283467/RAHUL MEHTA/SALES",
+   "debit": null,
+   "credit": 32638.72,
+   "balance": 244496.29
+  },
+  {
+   "date": "2026-01-06",
+   "description": "NEFT/DR/1849063885/FRESH MART/RAW MATERIAL",
+   "debit": 202266.67,
+   "credit": null,
+   "balance": 42229.62
+  },
+  {
+   "date": "2026-01-08",
+   "description": "IMPS/175538369399/FRESH MART/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 32259.37,
+   "balance": 74488.99
+  },
+  {
+   "date": "2026-01-08",
+   "description": "ரொக்க வைப்பு/BR சென்னை",
+   "debit": null,
+   "credit": 37168.0,
+   "balance": 111656.99
+  },
+  {
+   "date": "2026-01-08",
+   "description": "UPI/DR/943904545555/FRESH MART/GROCERY",
+   "debit": 3383.0,
+   "credit": null,
+   "balance": 108273.99
+  },
+  {
+   "date": "2026-01-10",
+   "description": "IMPS/582719553090/ஸ்ரீ லட்சுமி ஏஜென்சி/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 40397.3,
+   "balance": 148671.29
+  },
+  {
+   "date": "2026-01-10",
+   "description": "UPI/CR/173965804446/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 39566.49,
+   "balance": 188237.78
+  },
+  {
+   "date": "2026-01-11",
+   "description": "IMPS/306652173687/FRESH MART/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 25181.18,
+   "balance": 213418.96
+  },
+  {
+   "date": "2026-01-12",
+   "description": "BILLPAY/TATA POWER/ELECTRICITY BILL",
+   "debit": 779.0,
+   "credit": null,
+   "balance": 212639.96
+  },
+  {
+   "date": "2026-01-13",
+   "description": "NEFT/DR/9798846329/FRESH MART/STOCK PURCHASE",
+   "debit": 202266.67,
+   "credit": null,
+   "balance": 10373.29
+  },
+  {
+   "date": "2026-01-14",
+   "description": "IMPS/419500192760/STAR TRADERS/SALES",
+   "debit": null,
+   "credit": 24881.08,
+   "balance": 35254.37
+  },
+  {
+   "date": "2026-01-15",
+   "description": "UPI/CR/137735232467/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 20220.24,
+   "balance": 55474.61
+  },
+  {
+   "date": "2026-01-15",
+   "description": "IMPS/248821892215/கார்த்திக் சுப்பிரமணியன்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 32488.25,
+   "balance": 87962.86
+  },
+  {
+   "date": "2026-01-16",
+   "description": "UPI/DR/180442146179/JIO/BROADBAND BILL",
+   "debit": 239.0,
+   "credit": null,
+   "balance": 87723.86
+  },
+  {
+   "date": "2026-01-17",
+   "description": "IMPS/466774728394/STAR TRADERS/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 43468.04,
+   "balance": 131191.9
+  },
+  {
+   "date": "2026-01-18",
+   "description": "NEFT/CR/623846140610/SAI GENERAL STORE/SALES",
+   "debit": null,
+   "credit": 31449.92,
+   "balance": 162641.82
+  },
+  {
+   "date": "2026-01-18",
+   "description": "IMPS/279864618060/STAR TRADERS/SALES",
+   "debit": null,
+   "credit": 24535.77,
+   "balance": 187177.59
+  },
+  {
+   "date": "2026-01-18",
+   "description": "CASH DEPOSIT/BR MUMBAI",
+   "debit": null,
+   "credit": 11872.0,
+   "balance": 199049.59
+  },
+  {
+   "date": "2026-01-18",
+   "description": "UPI/DR/142323899595/FRESH MART/GROCERY",
+   "debit": 3407.0,
+   "credit": null,
+   "balance": 195642.59
+  },
+  {
+   "date": "2026-01-19",
+   "description": "UPI/CR/659925946832/FRESH MART/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 22797.63,
+   "balance": 218440.22
+  },
+  {
+   "date": "2026-01-20",
+   "description": "IMPS/956536741133/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 33489.62,
+   "balance": 251929.84
+  },
+  {
+   "date": "2026-01-20",
+   "description": "NEFT/DR/4491738716/ஸ்ரீ லட்சுமி ஏஜென்சி/மூலப்பொருள்",
+   "debit": 202266.67,
+   "credit": null,
+   "balance": 49663.17
+  },
+  {
+   "date": "2026-01-20",
+   "description": "NEFT/DR/GSTN/CBIC/ஜிஎஸ்டி செலுத்துதல்",
+   "debit": 24600.0,
+   "credit": null,
+   "balance": 25063.17
+  },
+  {
+   "date": "2026-01-21",
+   "description": "NEFT/CR/312476956366/கார்த்திக் சுப்பிரமணியன்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 44705.59,
+   "balance": 69768.76
+  },
+  {
+   "date": "2026-01-21",
+   "description": "UPI/CR/659487616831/கார்த்திக் சுப்பிரமணியன்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 40323.1,
+   "balance": 110091.86
+  },
+  {
+   "date": "2026-01-21",
+   "description": "UPI/DR/556512748347/முருகன் மளிகை/பெட்ரோல்",
+   "debit": 2275.0,
+   "credit": null,
+   "balance": 107816.86
+  },
+  {
+   "date": "2026-01-23",
+   "description": "NEFT/CR/812993437626/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 24236.47,
+   "balance": 132053.33
+  },
+  {
+   "date": "2026-01-24",
+   "description": "NEFT/CR/615654776960/STAR TRADERS/SALES",
+   "debit": null,
+   "credit": 22387.58,
+   "balance": 154440.91
+  },
+  {
+   "date": "2026-01-24",
+   "description": "UPI/DR/421509056282/முருகன் செல்வம்/பள்ளி கட்டணம்",
+   "debit": 3710.0,
+   "credit": null,
+   "balance": 150730.91
+  },
+  {
+   "date": "2026-01-28",
+   "description": "UPI/CR/059648593978/ராஜேஷ் கண்ணன்/விற்பனை",
+   "debit": null,
+   "credit": 31067.17,
+   "balance": 181798.08
+  },
+  {
+   "date": "2026-01-28",
+   "description": "IMPS/799354139917/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 47551.92,
+   "balance": 229350.0
+  },
+  {
+   "date": "2026-02-02",
+   "description": "IMPS/526589607980/கார்த்திக் சுப்பிரமணியன்/ஊழியர் சம்பளம்",
+   "debit": 12062.0,
+   "credit": null,
+   "balance": 217288.0
+  },
+  {
+   "date": "2026-02-02",
+   "description": "IMPS/585083236898/ANKIT JAIN/STAFF SALARY",
+   "debit": 12318.0,
+   "credit": null,
+   "balance": 204970.0
+  },
+  {
+   "date": "2026-02-02",
+   "description": "IMPS/460010869865/VIKRAM SINGH/STAFF SALARY",
+   "debit": 10355.0,
+   "credit": null,
+   "balance": 194615.0
+  },
+  {
+   "date": "2026-02-02",
+   "description": "IMPS/860479337769/VIKRAM SINGH/STAFF SALARY",
+   "debit": 15087.0,
+   "credit": null,
+   "balance": 179528.0
+  },
+  {
+   "date": "2026-02-03",
+   "description": "NEFT/CR/685187709310/ANKIT JAIN/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 20224.4,
+   "balance": 199752.4
+  },
+  {
+   "date": "2026-02-03",
+   "description": "CASH DEPOSIT/BR MUMBAI",
+   "debit": null,
+   "credit": 42880.0,
+   "balance": 242632.4
+  },
+  {
+   "date": "2026-02-03",
+   "description": "IMPS/055750388426/SELVAM TEXTILES/SELF TRANSFER",
+   "debit": 50000.0,
+   "credit": null,
+   "balance": 192632.4
+  },
+  {
+   "date": "2026-02-04",
+   "description": "IMPS/789825391991/அண்ணாமலை ஸ்டோர்ஸ்/விற்பனை",
+   "debit": null,
+   "credit": 30134.6,
+   "balance": 222767.0
+  },
+  {
+   "date": "2026-02-05",
+   "description": "NEFT/CR/090734221426/SAI GENERAL STORE/SALES",
+   "debit": null,
+   "credit": 42259.6,
+   "balance": 265026.6
+  },
+  {
+   "date": "2026-02-05",
+   "description": "NEFT/CR/280412863207/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 39528.61,
+   "balance": 304555.21
+  },
+  {
+   "date": "2026-02-05",
+   "description": "IMPS/721800675731/ராஜேஷ் கண்ணன்/மாத வாடகை",
+   "debit": 42000.0,
+   "credit": null,
+   "balance": 262555.21
+  },
+  {
+   "date": "2026-02-06",
+   "description": "NEFT/DR/6041700340/FRESH MART/STOCK PURCHASE",
+   "debit": 187466.67,
+   "credit": null,
+   "balance": 75088.54
+  },
+  {
+   "date": "2026-02-07",
+   "description": "NEFT/CR/651185735718/முருகன் செல்வம்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 20323.53,
+   "balance": 95412.07
+  },
+  {
+   "date": "2026-02-08",
+   "description": "NEFT/CR/1873809798/TATA CAPITAL/LOAN DISB",
+   "debit": null,
+   "credit": 600000.0,
+   "balance": 695412.07
+  },
+  {
+   "date": "2026-02-10",
+   "description": "IMPS/657369510554/SAI GENERAL STORE/SALES",
+   "debit": null,
+   "credit": 35243.93,
+   "balance": 730656.0
+  },
+  {
+   "date": "2026-02-11",
+   "description": "NEFT/CR/317888465134/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 23485.63,
+   "balance": 754141.63
+  },
+  {
+   "date": "2026-02-11",
+   "description": "UPI/DR/676644284586/ஸ்ரீ லட்சுமி ஏஜென்சி/பெட்ரோல்",
+   "debit": 1402.0,
+   "credit": null,
+   "balance": 752739.63
+  },
+  {
+   "date": "2026-02-12",
+   "description": "UPI/CR/160986044181/முருகன் செல்வம்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 38708.51,
+   "balance": 791448.14
+  },
+  {
+   "date": "2026-02-12",
+   "description": "UPI/CR/629784123679/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 31846.03,
+   "balance": 823294.17
+  },
+  {
+   "date": "2026-02-12",
+   "description": "BILLPAY/TNEB/தண்ணீர் வரி",
+   "debit": 986.0,
+   "credit": null,
+   "balance": 822308.17
+  },
+  {
+   "date": "2026-02-12",
+   "description": "UPI/DR/679508087590/முருகன் மளிகை/பெட்ரோல்",
+   "debit": 3594.0,
+   "credit": null,
+   "balance": 818714.17
+  },
+  {
+   "date": "2026-02-13",
+   "description": "NEFT/DR/8699456797/ஸ்ரீ லட்சுமி ஏஜென்சி/சரக்கு கொள்முதல்",
+   "debit": 187466.67,
+   "credit": null,
+   "balance": 631247.5
+  },
+  {
+   "date": "2026-02-14",
+   "description": "UPI/CR/480417699690/VIKRAM SINGH/SALES",
+   "debit": null,
+   "credit": 39787.05,
+   "balance": 671034.55
+  },
+  {
+   "date": "2026-02-14",
+   "description": "UPI/DR/638500573326/முருகன் செல்வம்/மளிகை",
+   "debit": 4798.0,
+   "credit": null,
+   "balance": 666236.55
+  },
+  {
+   "date": "2026-02-16",
+   "description": "UPI/DR/009794227113/JIO/BROADBAND BILL",
+   "debit": 299.0,
+   "credit": null,
+   "balance": 665937.55
+  },
+  {
+   "date": "2026-02-18",
+   "description": "IMPS/288212124085/SAI GENERAL STORE/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 24983.22,
+   "balance": 690920.77
+  },
+  {
+   "date": "2026-02-18",
+   "description": "UPI/CR/110291931297/STAR TRADERS/SALES",
+   "debit": null,
+   "credit": 33302.79,
+   "balance": 724223.56
+  },
+  {
+   "date": "2026-02-19",
+   "description": "IMPS/420048147551/முருகன் மளிகை/விற்பனை",
+   "debit": null,
+   "credit": 39722.27,
+   "balance": 763945.83
+  },
+  {
+   "date": "2026-02-19",
+   "description": "UPI/CR/726439672352/ராஜேஷ் கண்ணன்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 30215.53,
+   "balance": 794161.36
+  },
+  {
+   "date": "2026-02-19",
+   "description": "CASH DEPOSIT/BR MUMBAI",
+   "debit": null,
+   "credit": 14499.0,
+   "balance": 808660.36
+  },
+  {
+   "date": "2026-02-20",
+   "description": "NEFT/CR/911412372612/VIKRAM SINGH/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 22995.34,
+   "balance": 831655.7
+  },
+  {
+   "date": "2026-02-20",
+   "description": "NEFT/DR/0355192436/ஸ்ரீ லட்சுமி ஏஜென்சி/சரக்கு கொள்முதல்",
+   "debit": 187466.67,
+   "credit": null,
+   "balance": 644189.03
+  },
+  {
+   "date": "2026-02-20",
+   "description": "NEFT/DR/GSTN/CBIC/ஜிஎஸ்டி செலுத்துதல்",
+   "debit": 24600.0,
+   "credit": null,
+   "balance": 619589.03
+  },
+  {
+   "date": "2026-02-21",
+   "description": "UPI/CR/182781270345/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 40416.51,
+   "balance": 660005.54
+  },
+  {
+   "date": "2026-02-22",
+   "description": "NEFT/CR/992876111999/STAR TRADERS/SALES",
+   "debit": null,
+   "credit": 33205.26,
+   "balance": 693210.8
+  },
+  {
+   "date": "2026-02-22",
+   "description": "IMPS/097927943709/ஸ்ரீ லட்சுமி ஏஜென்சி/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 29626.36,
+   "balance": 722837.16
+  },
+  {
+   "date": "2026-02-24",
+   "description": "IMPS/772045022970/VIKRAM SINGH/SALES",
+   "debit": null,
+   "credit": 35267.81,
+   "balance": 758104.97
+  },
+  {
+   "date": "2026-02-24",
+   "description": "IMPS/484900085372/ANKIT JAIN/SALES",
+   "debit": null,
+   "credit": 32394.74,
+   "balance": 790499.71
+  },
+  {
+   "date": "2026-02-25",
+   "description": "UPI/CR/112712058525/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 31680.03,
+   "balance": 822179.74
+  },
+  {
+   "date": "2026-02-26",
+   "description": "NEFT/CR/361954851070/ஸ்ரீ லட்சுமி ஏஜென்சி/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 32832.82,
+   "balance": 855012.56
+  },
+  {
+   "date": "2026-02-26",
+   "description": "IMPS/375549308878/SAI GENERAL STORE/SALES",
+   "debit": null,
+   "credit": 24199.39,
+   "balance": 879211.95
+  },
+  {
+   "date": "2026-02-27",
+   "description": "UPI/DR/043745777408/SAI GENERAL STORE/SCHOOL FEES",
+   "debit": 659.0,
+   "credit": null,
+   "balance": 878552.95
+  },
+  {
+   "date": "2026-02-28",
+   "description": "UPI/CR/037666074251/முருகன் செல்வம்/விற்பனை",
+   "debit": null,
+   "credit": 27616.02,
+   "balance": 906168.97
+  },
+  {
+   "date": "2026-03-02",
+   "description": "IMPS/672429965125/கார்த்திக் சுப்பிரமணியன்/ஊழியர் சம்பளம்",
+   "debit": 9041.0,
+   "credit": null,
+   "balance": 897127.97
+  },
+  {
+   "date": "2026-03-02",
+   "description": "IMPS/960764640368/ராஜேஷ் கண்ணன்/ஊழியர் சம்பளம்",
+   "debit": 13434.0,
+   "credit": null,
+   "balance": 883693.97
+  },
+  {
+   "date": "2026-03-02",
+   "description": "IMPS/273510439632/VIKRAM SINGH/STAFF SALARY",
+   "debit": 13794.0,
+   "credit": null,
+   "balance": 869899.97
+  },
+  {
+   "date": "2026-03-02",
+   "description": "IMPS/114615991072/ராஜேஷ் கண்ணன்/ஊழியர் சம்பளம்",
+   "debit": 15138.0,
+   "credit": null,
+   "balance": 854761.97
+  },
+  {
+   "date": "2026-03-03",
+   "description": "IMPS/425523056646/SELVAM TEXTILES/SELF TRANSFER",
+   "debit": 50000.0,
+   "credit": null,
+   "balance": 804761.97
+  },
+  {
+   "date": "2026-03-04",
+   "description": "NEFT/CR/737160725153/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 46481.7,
+   "balance": 851243.67
+  },
+  {
+   "date": "2026-03-05",
+   "description": "IMPS/134555513910/முருகன் செல்வம்/வீட்டு வாடகை",
+   "debit": 42000.0,
+   "credit": null,
+   "balance": 809243.67
+  },
+  {
+   "date": "2026-03-05",
+   "description": "UPI/DR/439435829318/SAI GENERAL STORE/GROCERY",
+   "debit": 3867.0,
+   "credit": null,
+   "balance": 805376.67
+  },
+  {
+   "date": "2026-03-06",
+   "description": "NEFT/DR/5569348757/ஸ்ரீ லட்சுமி ஏஜென்சி/சரக்கு கொள்முதல்",
+   "debit": 207200.0,
+   "credit": null,
+   "balance": 598176.67
+  },
+  {
+   "date": "2026-03-07",
+   "description": "NEFT/CR/722351824227/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 23788.03,
+   "balance": 621964.7
+  },
+  {
+   "date": "2026-03-07",
+   "description": "CASH DEPOSIT/BR MUMBAI",
+   "debit": null,
+   "credit": 10453.0,
+   "balance": 632417.7
+  },
+  {
+   "date": "2026-03-08",
+   "description": "NEFT/CR/411370202984/அண்ணாமலை ஸ்டோர்ஸ்/விற்பனை",
+   "debit": null,
+   "credit": 32302.42,
+   "balance": 664720.12
+  },
+  {
+   "date": "2026-03-08",
+   "description": "UPI/CR/638524920080/கார்த்திக் சுப்பிரமணியன்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 50892.98,
+   "balance": 715613.1
+  },
+  {
+   "date": "2026-03-09",
+   "description": "IMPS/474603875772/ராஜேஷ் கண்ணன்/விற்பனை",
+   "debit": null,
+   "credit": 31867.63,
+   "balance": 747480.73
+  },
+  {
+   "date": "2026-03-09",
+   "description": "UPI/DR/400774593914/STAR TRADERS/GROCERY",
+   "debit": 1771.0,
+   "credit": null,
+   "balance": 745709.73
+  },
+  {
+   "date": "2026-03-10",
+   "description": "NACH/DR/TATA CAPITAL/BL7701/INSTALMENT",
+   "debit": 21500.0,
+   "credit": null,
+   "balance": 724209.73
+  },
+  {
+   "date": "2026-03-12",
+   "description": "UPI/CR/316061315830/FRESH MART/SALES",
+   "debit": null,
+   "credit": 30493.95,
+   "balance": 754703.68
+  },
+  {
+   "date": "2026-03-12",
+   "description": "IMPS/155867541996/SAI GENERAL STORE/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 35243.99,
+   "balance": 789947.67
+  },
+  {
+   "date": "2026-03-12",
+   "description": "NEFT/CR/942033089200/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 22549.52,
+   "balance": 812497.19
+  },
+  {
+   "date": "2026-03-12",
+   "description": "UPI/CR/653919466020/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 22664.58,
+   "balance": 835161.77
+  },
+  {
+   "date": "2026-03-12",
+   "description": "BILLPAY/TNEB/மின் கட்டணம்",
+   "debit": 935.0,
+   "credit": null,
+   "balance": 834226.77
+  },
+  {
+   "date": "2026-03-13",
+   "description": "IMPS/450315318887/கார்த்திக் சுப்பிரமணியன்/விற்பனை",
+   "debit": null,
+   "credit": 24946.4,
+   "balance": 859173.17
+  },
+  {
+   "date": "2026-03-13",
+   "description": "NEFT/DR/9360933934/ஸ்ரீ லட்சுமி ஏஜென்சி/சரக்கு கொள்முதல்",
+   "debit": 207200.0,
+   "credit": null,
+   "balance": 651973.17
+  },
+  {
+   "date": "2026-03-14",
+   "description": "UPI/CR/728040201029/அண்ணாமலை ஸ்டோர்ஸ்/விற்பனை",
+   "debit": null,
+   "credit": 26578.87,
+   "balance": 678552.04
+  },
+  {
+   "date": "2026-03-16",
+   "description": "NEFT/CR/453148657585/FRESH MART/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 38439.69,
+   "balance": 716991.73
+  },
+  {
+   "date": "2026-03-16",
+   "description": "UPI/DR/946777414435/JIO/BROADBAND BILL",
+   "debit": 239.0,
+   "credit": null,
+   "balance": 716752.73
+  },
+  {
+   "date": "2026-03-16",
+   "description": "UPI/DR/965011366443/அண்ணாமலை ஸ்டோர்ஸ்/பெட்ரோல்",
+   "debit": 2073.0,
+   "credit": null,
+   "balance": 714679.73
+  },
+  {
+   "date": "2026-03-18",
+   "description": "IMPS/999675313104/RAHUL MEHTA/SALES",
+   "debit": null,
+   "credit": 20346.75,
+   "balance": 735026.48
+  },
+  {
+   "date": "2026-03-18",
+   "description": "NEFT/CR/757921647659/SAI GENERAL STORE/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 50528.5,
+   "balance": 785554.98
+  },
+  {
+   "date": "2026-03-18",
+   "description": "CASH DEPOSIT/BR MUMBAI",
+   "debit": null,
+   "credit": 21715.0,
+   "balance": 807269.98
+  },
+  {
+   "date": "2026-03-19",
+   "description": "IMPS/123236770200/VIKRAM SINGH/SALES",
+   "debit": null,
+   "credit": 29465.11,
+   "balance": 836735.09
+  },
+  {
+   "date": "2026-03-19",
+   "description": "NEFT/CR/828386856668/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 29084.82,
+   "balance": 865819.91
+  },
+  {
+   "date": "2026-03-20",
+   "description": "NEFT/CR/939005264285/STAR TRADERS/SALES",
+   "debit": null,
+   "credit": 32073.39,
+   "balance": 897893.3
+  },
+  {
+   "date": "2026-03-20",
+   "description": "IMPS/850360029691/ANKIT JAIN/SALES",
+   "debit": null,
+   "credit": 35635.7,
+   "balance": 933529.0
+  },
+  {
+   "date": "2026-03-20",
+   "description": "NEFT/DR/3192277381/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு கொள்முதல்",
+   "debit": 207200.0,
+   "credit": null,
+   "balance": 726329.0
+  },
+  {
+   "date": "2026-03-20",
+   "description": "NEFT/DR/GSTN/CBIC/ஜிஎஸ்டி செலுத்துதல்",
+   "debit": 22800.0,
+   "credit": null,
+   "balance": 703529.0
+  },
+  {
+   "date": "2026-03-21",
+   "description": "IMPS/161971311289/அண்ணாமலை ஸ்டோர்ஸ்/விற்பனை",
+   "debit": null,
+   "credit": 20344.0,
+   "balance": 723873.0
+  },
+  {
+   "date": "2026-03-24",
+   "description": "NEFT/CR/033740181123/அண்ணாமலை ஸ்டோர்ஸ்/விற்பனை",
+   "debit": null,
+   "credit": 23332.83,
+   "balance": 747205.83
+  },
+  {
+   "date": "2026-03-24",
+   "description": "UPI/CR/733201981568/முருகன் மளிகை/விற்பனை",
+   "debit": null,
+   "credit": 39346.58,
+   "balance": 786552.41
+  },
+  {
+   "date": "2026-03-25",
+   "description": "IMPS/226485355796/FRESH MART/SALES",
+   "debit": null,
+   "credit": 31415.51,
+   "balance": 817967.92
+  },
+  {
+   "date": "2026-03-25",
+   "description": "NEFT/CR/788952069507/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 37225.99,
+   "balance": 855193.91
+  },
+  {
+   "date": "2026-03-25",
+   "description": "IMPS/671987158137/FRESH MART/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 37887.13,
+   "balance": 893081.04
+  },
+  {
+   "date": "2026-03-25",
+   "description": "UPI/CR/976286231804/SAI GENERAL STORE/SALES",
+   "debit": null,
+   "credit": 28839.61,
+   "balance": 921920.65
+  },
+  {
+   "date": "2026-03-25",
+   "description": "UPI/DR/372668272039/RAHUL MEHTA/FUEL",
+   "debit": 1645.0,
+   "credit": null,
+   "balance": 920275.65
+  },
+  {
+   "date": "2026-03-26",
+   "description": "UPI/CR/948965510545/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 38224.34,
+   "balance": 958499.99
+  },
+  {
+   "date": "2026-03-31",
+   "description": "வட்டி வரவு/Q1",
+   "debit": null,
+   "credit": 2012.0,
+   "balance": 960511.99
+  },
+  {
+   "date": "2026-03-31",
+   "description": "எஸ்எம்எஸ் கட்டணம்/Q1",
+   "debit": 59.0,
+   "credit": null,
+   "balance": 960452.99
+  },
+  {
+   "date": "2026-04-02",
+   "description": "IMPS/913745482660/RAHUL MEHTA/STAFF SALARY",
+   "debit": 14906.0,
+   "credit": null,
+   "balance": 945546.99
+  },
+  {
+   "date": "2026-04-02",
+   "description": "IMPS/340125598202/ANKIT JAIN/STAFF SALARY",
+   "debit": 14940.0,
+   "credit": null,
+   "balance": 930606.99
+  },
+  {
+   "date": "2026-04-02",
+   "description": "IMPS/304000497707/VIKRAM SINGH/STAFF SALARY",
+   "debit": 12064.0,
+   "credit": null,
+   "balance": 918542.99
+  },
+  {
+   "date": "2026-04-02",
+   "description": "IMPS/514243315521/முருகன் செல்வம்/ஊழியர் சம்பளம்",
+   "debit": 14220.0,
+   "credit": null,
+   "balance": 904322.99
+  },
+  {
+   "date": "2026-04-03",
+   "description": "NEFT/CR/341983075384/கார்த்திக் சுப்பிரமணியன்/விற்பனை",
+   "debit": null,
+   "credit": 23842.95,
+   "balance": 928165.94
+  },
+  {
+   "date": "2026-04-03",
+   "description": "IMPS/133825342677/செல்வம் டெக்ஸ்டைல்ஸ்/சொந்த கணக்கிற்கு",
+   "debit": 50000.0,
+   "credit": null,
+   "balance": 878165.94
+  },
+  {
+   "date": "2026-04-04",
+   "description": "UPI/CR/025571953818/ஸ்ரீ லட்சுமி ஏஜென்சி/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 35171.95,
+   "balance": 913337.89
+  },
+  {
+   "date": "2026-04-04",
+   "description": "ரொக்க வைப்பு/BR சென்னை",
+   "debit": null,
+   "credit": 27312.0,
+   "balance": 940649.89
+  },
+  {
+   "date": "2026-04-05",
+   "description": "NEFT/CR/150557320529/முருகன் மளிகை/விற்பனை",
+   "debit": null,
+   "credit": 15648.37,
+   "balance": 956298.26
+  },
+  {
+   "date": "2026-04-05",
+   "description": "IMPS/282235998590/VIKRAM SINGH/HOUSE RENT",
+   "debit": 42000.0,
+   "credit": null,
+   "balance": 914298.26
+  },
+  {
+   "date": "2026-04-05",
+   "description": "UPI/DR/561397246775/ராஜேஷ் கண்ணன்/பெட்ரோல்",
+   "debit": 2312.0,
+   "credit": null,
+   "balance": 911986.26
+  },
+  {
+   "date": "2026-04-06",
+   "description": "NEFT/DR/4330745266/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு கொள்முதல்",
+   "debit": 150466.67,
+   "credit": null,
+   "balance": 761519.59
+  },
+  {
+   "date": "2026-04-08",
+   "description": "IMPS/396341046221/ராஜேஷ் கண்ணன்/விற்பனை",
+   "debit": null,
+   "credit": 24478.68,
+   "balance": 785998.27
+  },
+  {
+   "date": "2026-04-08",
+   "description": "NEFT/CR/217269106415/FRESH MART/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 30938.85,
+   "balance": 816937.12
+  },
+  {
+   "date": "2026-04-09",
+   "description": "UPI/CR/924592797755/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 29109.19,
+   "balance": 846046.31
+  },
+  {
+   "date": "2026-04-09",
+   "description": "IMPS/228264186897/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 18111.26,
+   "balance": 864157.57
+  },
+  {
+   "date": "2026-04-10",
+   "description": "IMPS/670876290077/ஸ்ரீ லட்சுமி ஏஜென்சி/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 28562.04,
+   "balance": 892719.61
+  },
+  {
+   "date": "2026-04-10",
+   "description": "NACH/DR/TATA CAPITAL/BL7701/EMI APR26",
+   "debit": 21500.0,
+   "credit": null,
+   "balance": 871219.61
+  },
+  {
+   "date": "2026-04-11",
+   "description": "CASH DEPOSIT/BR MUMBAI",
+   "debit": null,
+   "credit": 18578.0,
+   "balance": 889797.61
+  },
+  {
+   "date": "2026-04-11",
+   "description": "UPI/DR/879277160307/கார்த்திக் சுப்பிரமணியன்/பள்ளி கட்டணம்",
+   "debit": 871.0,
+   "credit": null,
+   "balance": 888926.61
+  },
+  {
+   "date": "2026-04-12",
+   "description": "BILLPAY/TATA POWER/BROADBAND BILL",
+   "debit": 1018.0,
+   "credit": null,
+   "balance": 887908.61
+  },
+  {
+   "date": "2026-04-13",
+   "description": "NEFT/CR/253062759328/ANKIT JAIN/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 20969.89,
+   "balance": 908878.5
+  },
+  {
+   "date": "2026-04-13",
+   "description": "NEFT/DR/7747005530/ஸ்ரீ லட்சுமி ஏஜென்சி/மூலப்பொருள்",
+   "debit": 150466.67,
+   "credit": null,
+   "balance": 758411.83
+  },
+  {
+   "date": "2026-04-14",
+   "description": "NEFT/CR/602306659942/STAR TRADERS/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 28323.57,
+   "balance": 786735.4
+  },
+  {
+   "date": "2026-04-15",
+   "description": "UPI/CR/655690172659/STAR TRADERS/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 18047.86,
+   "balance": 804783.26
+  },
+  {
+   "date": "2026-04-16",
+   "description": "IMPS/385166220021/ANKIT JAIN/SALES",
+   "debit": null,
+   "credit": 21948.48,
+   "balance": 826731.74
+  },
+  {
+   "date": "2026-04-16",
+   "description": "UPI/CR/671581831001/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 24484.89,
+   "balance": 851216.63
+  },
+  {
+   "date": "2026-04-16",
+   "description": "UPI/DR/966775536969/JIO/BROADBAND BILL",
+   "debit": 299.0,
+   "credit": null,
+   "balance": 850917.63
+  },
+  {
+   "date": "2026-04-17",
+   "description": "NEFT/CR/895119713497/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 16465.25,
+   "balance": 867382.88
+  },
+  {
+   "date": "2026-04-18",
+   "description": "UPI/CR/933775527746/STAR TRADERS/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 36102.74,
+   "balance": 903485.62
+  },
+  {
+   "date": "2026-04-19",
+   "description": "NEFT/CR/360288630332/ANKIT JAIN/SALES",
+   "debit": null,
+   "credit": 17134.3,
+   "balance": 920619.92
+  },
+  {
+   "date": "2026-04-19",
+   "description": "NEFT/CR/870675599335/VIKRAM SINGH/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 27383.18,
+   "balance": 948003.1
+  },
+  {
+   "date": "2026-04-20",
+   "description": "UPI/CR/972985616365/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 19452.36,
+   "balance": 967455.46
+  },
+  {
+   "date": "2026-04-20",
+   "description": "UPI/CR/507401702579/STAR TRADERS/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 29669.39,
+   "balance": 997124.85
+  },
+  {
+   "date": "2026-04-20",
+   "description": "NEFT/DR/2610968963/முருகன் மளிகை/மூலப்பொருள்",
+   "debit": 150466.67,
+   "credit": null,
+   "balance": 846658.18
+  },
+  {
+   "date": "2026-04-20",
+   "description": "NEFT/DR/GSTN/CBIC/ஜிஎஸ்டி செலுத்துதல்",
+   "debit": 25200.0,
+   "credit": null,
+   "balance": 821458.18
+  },
+  {
+   "date": "2026-04-22",
+   "description": "NEFT/CR/178095386911/முருகன் மளிகை/விற்பனை",
+   "debit": null,
+   "credit": 14795.65,
+   "balance": 836253.83
+  },
+  {
+   "date": "2026-04-23",
+   "description": "IMPS/983492569000/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 30532.63,
+   "balance": 866786.46
+  },
+  {
+   "date": "2026-04-23",
+   "description": "UPI/DR/935929536636/முருகன் செல்வம்/பெட்ரோல்",
+   "debit": 671.0,
+   "credit": null,
+   "balance": 866115.46
+  },
+  {
+   "date": "2026-04-24",
+   "description": "UPI/CR/781717849642/SAI GENERAL STORE/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 34220.2,
+   "balance": 900335.66
+  },
+  {
+   "date": "2026-04-25",
+   "description": "NEFT/CR/814555173876/FRESH MART/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 34042.06,
+   "balance": 934377.72
+  },
+  {
+   "date": "2026-04-25",
+   "description": "IMPS/685721552359/STAR TRADERS/SALES",
+   "debit": null,
+   "credit": 30564.26,
+   "balance": 964941.98
+  },
+  {
+   "date": "2026-04-28",
+   "description": "UPI/DR/034315387230/ANKIT JAIN/SCHOOL FEES",
+   "debit": 1778.0,
+   "credit": null,
+   "balance": 963163.98
+  },
+  {
+   "date": "2026-05-02",
+   "description": "UPI/CR/767625276667/SAI GENERAL STORE/SALES",
+   "debit": null,
+   "credit": 18731.61,
+   "balance": 981895.59
+  },
+  {
+   "date": "2026-05-02",
+   "description": "IMPS/928264287154/ANKIT JAIN/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 16967.42,
+   "balance": 998863.01
+  },
+  {
+   "date": "2026-05-02",
+   "description": "IMPS/952845600922/ANKIT JAIN/STAFF SALARY",
+   "debit": 13567.0,
+   "credit": null,
+   "balance": 985296.01
+  },
+  {
+   "date": "2026-05-02",
+   "description": "IMPS/650086345029/கார்த்திக் சுப்பிரமணியன்/ஊழியர் சம்பளம்",
+   "debit": 13376.0,
+   "credit": null,
+   "balance": 971920.01
+  },
+  {
+   "date": "2026-05-02",
+   "description": "IMPS/558470355838/VIKRAM SINGH/STAFF SALARY",
+   "debit": 10135.0,
+   "credit": null,
+   "balance": 961785.01
+  },
+  {
+   "date": "2026-05-02",
+   "description": "IMPS/714255575591/ராஜேஷ் கண்ணன்/ஊழியர் சம்பளம்",
+   "debit": 10264.0,
+   "credit": null,
+   "balance": 951521.01
+  },
+  {
+   "date": "2026-05-02",
+   "description": "ரொக்க வைப்பு/BR சென்னை",
+   "debit": null,
+   "credit": 19436.0,
+   "balance": 970957.01
+  },
+  {
+   "date": "2026-05-03",
+   "description": "IMPS/673755174083/செல்வம் டெக்ஸ்டைல்ஸ்/சொந்த கணக்கிற்கு",
+   "debit": 50000.0,
+   "credit": null,
+   "balance": 920957.01
+  },
+  {
+   "date": "2026-05-04",
+   "description": "IMPS/101502748660/ஸ்ரீ லட்சுமி ஏஜென்சி/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 20186.56,
+   "balance": 941143.57
+  },
+  {
+   "date": "2026-05-04",
+   "description": "IMPS/161505730791/முருகன் மளிகை/விற்பனை",
+   "debit": null,
+   "credit": 20658.61,
+   "balance": 961802.18
+  },
+  {
+   "date": "2026-05-04",
+   "description": "UPI/DR/181425155097/ஸ்ரீ லட்சுமி ஏஜென்சி/மளிகை",
+   "debit": 2522.0,
+   "credit": null,
+   "balance": 959280.18
+  },
+  {
+   "date": "2026-05-05",
+   "description": "IMPS/751971430564/முருகன் செல்வம்/மாத வாடகை",
+   "debit": 42000.0,
+   "credit": null,
+   "balance": 917280.18
+  },
+  {
+   "date": "2026-05-06",
+   "description": "NEFT/CR/683032515080/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 19446.51,
+   "balance": 936726.69
+  },
+  {
+   "date": "2026-05-06",
+   "description": "IMPS/759324256412/ராஜேஷ் கண்ணன்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 28390.26,
+   "balance": 965116.95
+  },
+  {
+   "date": "2026-05-06",
+   "description": "NEFT/DR/5931658073/முருகன் மளிகை/சரக்கு கொள்முதல்",
+   "debit": 128266.67,
+   "credit": null,
+   "balance": 836850.28
+  },
+  {
+   "date": "2026-05-10",
+   "description": "NEFT/CR/090688550166/FRESH MART/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 25243.77,
+   "balance": 862094.05
+  },
+  {
+   "date": "2026-05-10",
+   "description": "NEFT/CR/207486242953/கார்த்திக் சுப்பிரமணியன்/விற்பனை",
+   "debit": null,
+   "credit": 14803.8,
+   "balance": 876897.85
+  },
+  {
+   "date": "2026-05-10",
+   "description": "NACH/DR/TATA CAPITAL/BL7701/மாத தவணை",
+   "debit": 21500.0,
+   "credit": null,
+   "balance": 855397.85
+  },
+  {
+   "date": "2026-05-10",
+   "description": "NACH/TATA CAPITAL/BL7701/போதிய இருப்பு இல்லை திருப்பம்",
+   "debit": null,
+   "credit": 21500.0,
+   "balance": 876897.85
+  },
+  {
+   "date": "2026-05-11",
+   "description": "IMPS/061862093365/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 22502.38,
+   "balance": 899400.23
+  },
+  {
+   "date": "2026-05-11",
+   "description": "திருப்ப கட்டணம்/NACH",
+   "debit": 590.0,
+   "credit": null,
+   "balance": 898810.23
+  },
+  {
+   "date": "2026-05-12",
+   "description": "NEFT/CR/305749272958/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 29127.28,
+   "balance": 927937.51
+  },
+  {
+   "date": "2026-05-12",
+   "description": "BILLPAY/TNEB/தண்ணீர் வரி",
+   "debit": 2829.0,
+   "credit": null,
+   "balance": 925108.51
+  },
+  {
+   "date": "2026-05-12",
+   "description": "UPI/DR/068470582794/SAI GENERAL STORE/SCHOOL FEES",
+   "debit": 3749.0,
+   "credit": null,
+   "balance": 921359.51
+  },
+  {
+   "date": "2026-05-13",
+   "description": "NEFT/DR/8006804606/SAI GENERAL STORE/RAW MATERIAL",
+   "debit": 128266.67,
+   "credit": null,
+   "balance": 793092.84
+  },
+  {
+   "date": "2026-05-15",
+   "description": "IMPS/902795748524/கார்த்திக் சுப்பிரமணியன்/விற்பனை",
+   "debit": null,
+   "credit": 24506.07,
+   "balance": 817598.91
+  },
+  {
+   "date": "2026-05-16",
+   "description": "UPI/CR/541747068382/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 21842.57,
+   "balance": 839441.48
+  },
+  {
+   "date": "2026-05-16",
+   "description": "NEFT/CR/331863467611/STAR TRADERS/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 23801.68,
+   "balance": 863243.16
+  },
+  {
+   "date": "2026-05-16",
+   "description": "UPI/DR/766435365061/JIO/ELECTRICITY BILL",
+   "debit": 299.0,
+   "credit": null,
+   "balance": 862944.16
+  },
+  {
+   "date": "2026-05-17",
+   "description": "NEFT/CR/713882335438/VIKRAM SINGH/SALES",
+   "debit": null,
+   "credit": 19046.09,
+   "balance": 881990.25
+  },
+  {
+   "date": "2026-05-17",
+   "description": "UPI/CR/115020922351/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 15983.87,
+   "balance": 897974.12
+  },
+  {
+   "date": "2026-05-20",
+   "description": "IMPS/970321340098/முருகன் மளிகை/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 16748.17,
+   "balance": 914722.29
+  },
+  {
+   "date": "2026-05-20",
+   "description": "NEFT/CR/592337429142/RAHUL MEHTA/SALES",
+   "debit": null,
+   "credit": 16850.29,
+   "balance": 931572.58
+  },
+  {
+   "date": "2026-05-20",
+   "description": "NEFT/DR/5096693825/அண்ணாமலை ஸ்டோர்ஸ்/மூலப்பொருள்",
+   "debit": 128266.67,
+   "credit": null,
+   "balance": 803305.91
+  },
+  {
+   "date": "2026-05-20",
+   "description": "NEFT/DR/GSTN/CBIC/GST PAYMENT",
+   "debit": 18300.0,
+   "credit": null,
+   "balance": 785005.91
+  },
+  {
+   "date": "2026-05-21",
+   "description": "IMPS/566774573702/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 25101.92,
+   "balance": 810107.83
+  },
+  {
+   "date": "2026-05-21",
+   "description": "CASH DEPOSIT/BR MUMBAI",
+   "debit": null,
+   "credit": 37273.0,
+   "balance": 847380.83
+  },
+  {
+   "date": "2026-05-21",
+   "description": "UPI/DR/166658652826/முருகன் செல்வம்/பெட்ரோல்",
+   "debit": 864.0,
+   "credit": null,
+   "balance": 846516.83
+  },
+  {
+   "date": "2026-05-22",
+   "description": "NEFT/CR/978301572608/அண்ணாமலை ஸ்டோர்ஸ்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 20561.55,
+   "balance": 867078.38
+  },
+  {
+   "date": "2026-05-22",
+   "description": "IMPS/463613576297/SAI GENERAL STORE/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 35657.69,
+   "balance": 902736.07
+  },
+  {
+   "date": "2026-05-22",
+   "description": "ரொக்க வைப்பு/BR சென்னை",
+   "debit": null,
+   "credit": 380000.0,
+   "balance": 1282736.07
+  },
+  {
+   "date": "2026-05-23",
+   "description": "UPI/CR/192626275545/கார்த்திக் சுப்பிரமணியன்/விற்பனை",
+   "debit": null,
+   "credit": 29406.62,
+   "balance": 1312142.69
+  },
+  {
+   "date": "2026-05-23",
+   "description": "UPI/DR/442924956853/STAR TRADERS/FUEL",
+   "debit": 266.0,
+   "credit": null,
+   "balance": 1311876.69
+  },
+  {
+   "date": "2026-05-27",
+   "description": "IMPS/340562474850/முருகன் மளிகை/விற்பனை",
+   "debit": null,
+   "credit": 13829.69,
+   "balance": 1325706.38
+  },
+  {
+   "date": "2026-05-27",
+   "description": "IMPS/947018602711/SAI GENERAL STORE/SALES",
+   "debit": null,
+   "credit": 25597.98,
+   "balance": 1351304.36
+  },
+  {
+   "date": "2026-05-28",
+   "description": "IMPS/109963381145/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 15007.59,
+   "balance": 1366311.95
+  },
+  {
+   "date": "2026-06-02",
+   "description": "IMPS/742316605678/ANKIT JAIN/STAFF SALARY",
+   "debit": 9186.0,
+   "credit": null,
+   "balance": 1357125.95
+  },
+  {
+   "date": "2026-06-02",
+   "description": "IMPS/467045931257/ANKIT JAIN/STAFF SALARY",
+   "debit": 11874.0,
+   "credit": null,
+   "balance": 1345251.95
+  },
+  {
+   "date": "2026-06-02",
+   "description": "IMPS/959305700054/ராஜேஷ் கண்ணன்/ஊழியர் சம்பளம்",
+   "debit": 15122.0,
+   "credit": null,
+   "balance": 1330129.95
+  },
+  {
+   "date": "2026-06-02",
+   "description": "IMPS/819930063571/RAHUL MEHTA/STAFF SALARY",
+   "debit": 10490.0,
+   "credit": null,
+   "balance": 1319639.95
+  },
+  {
+   "date": "2026-06-02",
+   "description": "ரொக்க வைப்பு/BR சென்னை",
+   "debit": null,
+   "credit": 8157.0,
+   "balance": 1327796.95
+  },
+  {
+   "date": "2026-06-03",
+   "description": "IMPS/145116109807/செல்வம் டெக்ஸ்டைல்ஸ்/சொந்த கணக்கிற்கு",
+   "debit": 50000.0,
+   "credit": null,
+   "balance": 1277796.95
+  },
+  {
+   "date": "2026-06-05",
+   "description": "IMPS/724230623174/முருகன் செல்வம்/வீட்டு வாடகை",
+   "debit": 42000.0,
+   "credit": null,
+   "balance": 1235796.95
+  },
+  {
+   "date": "2026-06-06",
+   "description": "UPI/CR/728272065250/STAR TRADERS/SALES",
+   "debit": null,
+   "credit": 20612.71,
+   "balance": 1256409.66
+  },
+  {
+   "date": "2026-06-06",
+   "description": "NEFT/DR/7293275371/SAI GENERAL STORE/STOCK PURCHASE",
+   "debit": 115933.33,
+   "credit": null,
+   "balance": 1140476.33
+  },
+  {
+   "date": "2026-06-09",
+   "description": "IMPS/871550522004/SAI GENERAL STORE/SALES",
+   "debit": null,
+   "credit": 23108.16,
+   "balance": 1163584.49
+  },
+  {
+   "date": "2026-06-10",
+   "description": "IMPS/406578458222/VIKRAM SINGH/SALES",
+   "debit": null,
+   "credit": 24883.28,
+   "balance": 1188467.77
+  },
+  {
+   "date": "2026-06-10",
+   "description": "NACH/DR/TATA CAPITAL/BL7701/மாத தவணை",
+   "debit": 21500.0,
+   "credit": null,
+   "balance": 1166967.77
+  },
+  {
+   "date": "2026-06-11",
+   "description": "IMPS/980714612754/STAR TRADERS/SALES",
+   "debit": null,
+   "credit": 29640.27,
+   "balance": 1196608.04
+  },
+  {
+   "date": "2026-06-11",
+   "description": "IMPS/998067304154/முருகன் மளிகை/விற்பனை",
+   "debit": null,
+   "credit": 18409.56,
+   "balance": 1215017.6
+  },
+  {
+   "date": "2026-06-12",
+   "description": "BILLPAY/TNEB/தண்ணீர் வரி",
+   "debit": 2085.0,
+   "credit": null,
+   "balance": 1212932.6
+  },
+  {
+   "date": "2026-06-13",
+   "description": "UPI/CR/683917028551/SAI GENERAL STORE/SALES",
+   "debit": null,
+   "credit": 35167.99,
+   "balance": 1248100.59
+  },
+  {
+   "date": "2026-06-13",
+   "description": "NEFT/DR/6905623575/முருகன் மளிகை/மூலப்பொருள்",
+   "debit": 115933.33,
+   "credit": null,
+   "balance": 1132167.26
+  },
+  {
+   "date": "2026-06-14",
+   "description": "IMPS/116562965818/SAI GENERAL STORE/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 24845.67,
+   "balance": 1157012.93
+  },
+  {
+   "date": "2026-06-14",
+   "description": "UPI/DR/320162410409/ANKIT JAIN/SCHOOL FEES",
+   "debit": 3619.0,
+   "credit": null,
+   "balance": 1153393.93
+  },
+  {
+   "date": "2026-06-15",
+   "description": "UPI/DR/970932156040/கார்த்திக் சுப்பிரமணியன்/பள்ளி கட்டணம்",
+   "debit": 4039.0,
+   "credit": null,
+   "balance": 1149354.93
+  },
+  {
+   "date": "2026-06-16",
+   "description": "UPI/CR/076942947297/SAI GENERAL STORE/SALES",
+   "debit": null,
+   "credit": 18681.6,
+   "balance": 1168036.53
+  },
+  {
+   "date": "2026-06-16",
+   "description": "UPI/DR/369216055496/JIO/மின் கட்டணம்",
+   "debit": 239.0,
+   "credit": null,
+   "balance": 1167797.53
+  },
+  {
+   "date": "2026-06-20",
+   "description": "IMPS/765870769645/FRESH MART/SALES",
+   "debit": null,
+   "credit": 36065.93,
+   "balance": 1203863.46
+  },
+  {
+   "date": "2026-06-20",
+   "description": "UPI/CR/931081529699/முருகன் செல்வம்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 31375.6,
+   "balance": 1235239.06
+  },
+  {
+   "date": "2026-06-20",
+   "description": "NEFT/DR/0053641715/STAR TRADERS/STOCK PURCHASE",
+   "debit": 115933.33,
+   "credit": null,
+   "balance": 1119305.73
+  },
+  {
+   "date": "2026-06-20",
+   "description": "NEFT/DR/GSTN/CBIC/GST PAYMENT",
+   "debit": 15600.0,
+   "credit": null,
+   "balance": 1103705.73
+  },
+  {
+   "date": "2026-06-22",
+   "description": "NEFT/CR/146498732349/SAI GENERAL STORE/SALES",
+   "debit": null,
+   "credit": 29007.17,
+   "balance": 1132712.9
+  },
+  {
+   "date": "2026-06-22",
+   "description": "NEFT/CR/689219802116/STAR TRADERS/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 22550.66,
+   "balance": 1155263.56
+  },
+  {
+   "date": "2026-06-23",
+   "description": "NEFT/CR/686449284136/ராஜேஷ் கண்ணன்/விற்பனை",
+   "debit": null,
+   "credit": 22594.09,
+   "balance": 1177857.65
+  },
+  {
+   "date": "2026-06-23",
+   "description": "UPI/DR/819870886827/அண்ணாமலை ஸ்டோர்ஸ்/பெட்ரோல்",
+   "debit": 2118.0,
+   "credit": null,
+   "balance": 1175739.65
+  },
+  {
+   "date": "2026-06-24",
+   "description": "IMPS/035305150058/கார்த்திக் சுப்பிரமணியன்/சரக்கு விற்பனை",
+   "debit": null,
+   "credit": 18031.59,
+   "balance": 1193771.24
+  },
+  {
+   "date": "2026-06-24",
+   "description": "IMPS/838873756563/ஸ்ரீ லட்சுமி ஏஜென்சி/விற்பனை",
+   "debit": null,
+   "credit": 33385.31,
+   "balance": 1227156.55
+  },
+  {
+   "date": "2026-06-24",
+   "description": "CASH DEPOSIT/BR MUMBAI",
+   "debit": null,
+   "credit": 33829.0,
+   "balance": 1260985.55
+  },
+  {
+   "date": "2026-06-26",
+   "description": "NEFT/CR/434500621875/ராஜேஷ் கண்ணன்/விற்பனை",
+   "debit": null,
+   "credit": 36116.02,
+   "balance": 1297101.57
+  },
+  {
+   "date": "2026-06-26",
+   "description": "UPI/DR/479196819741/கார்த்திக் சுப்பிரமணியன்/பள்ளி கட்டணம்",
+   "debit": 712.0,
+   "credit": null,
+   "balance": 1296389.57
+  },
+  {
+   "date": "2026-06-27",
+   "description": "IMPS/793972550135/FRESH MART/PAYMENT RECEIVED",
+   "debit": null,
+   "credit": 25899.93,
+   "balance": 1322289.5
+  },
+  {
+   "date": "2026-06-28",
+   "description": "IMPS/043016066094/ANKIT JAIN/SALES",
+   "debit": null,
+   "credit": 19624.44,
+   "balance": 1341913.94
+  },
+  {
+   "date": "2026-06-30",
+   "description": "வட்டி வரவு/Q2",
+   "debit": null,
+   "credit": 2334.0,
+   "balance": 1344247.94
+  },
+  {
+   "date": "2026-06-30",
+   "description": "SMS CHGS/Q2",
+   "debit": 59.0,
+   "credit": null,
+   "balance": 1344188.94
+  }
+ ]
+}

@@ -1,0 +1,644 @@
+{
+ "bank_name": "DECCAN CO-OPERATIVE BANK",
+ "account_holder": "RAM PRASAD MISHRA",
+ "account_number": "310000200031",
+ "account_type": "SAVINGS",
+ "statement_period": {
+  "from": "2026-01-01",
+  "to": "2026-06-30"
+ },
+ "opening_balance": 359614.0,
+ "closing_balance": 361863.18,
+ "transactions": [
+  {
+   "date": "2026-01-01",
+   "description": "NEFT/3224729916/UP SECRETARIAT/वेतन JAN26",
+   "debit": null,
+   "credit": 42017.6,
+   "balance": 401631.6
+  },
+  {
+   "date": "2026-01-01",
+   "description": "UPI/DR/553715813291/मनोज तिवारी/किराना",
+   "debit": 2982.0,
+   "credit": null,
+   "balance": 398649.6
+  },
+  {
+   "date": "2026-01-01",
+   "description": "UPI/DR/961431801235/शर्मा किराना स्टोर/स्कूल फीस",
+   "debit": 4757.0,
+   "credit": null,
+   "balance": 393892.6
+  },
+  {
+   "date": "2026-01-05",
+   "description": "IMPS/060982924741/मनोज तिवारी/घर का किराया",
+   "debit": 9000.0,
+   "credit": null,
+   "balance": 384892.6
+  },
+  {
+   "date": "2026-01-10",
+   "description": "NACH/DR/BAJAJ FINANCE/LN44000/LOAN KISHT",
+   "debit": 5400.0,
+   "credit": null,
+   "balance": 379492.6
+  },
+  {
+   "date": "2026-01-10",
+   "description": "UPI/DR/447334206415/जय माता दी स्टोर/पेट्रोल",
+   "debit": 2659.0,
+   "credit": null,
+   "balance": 376833.6
+  },
+  {
+   "date": "2026-01-10",
+   "description": "नकद आहरण/ATM लखनऊ",
+   "debit": 10000.0,
+   "credit": null,
+   "balance": 366833.6
+  },
+  {
+   "date": "2026-01-12",
+   "description": "BILLPAY/BSES/बिजली बिल",
+   "debit": 882.0,
+   "credit": null,
+   "balance": 365951.6
+  },
+  {
+   "date": "2026-01-14",
+   "description": "UPI/DR/705953817592/STAR TRADERS/FUEL",
+   "debit": 2008.0,
+   "credit": null,
+   "balance": 363943.6
+  },
+  {
+   "date": "2026-01-16",
+   "description": "UPI/DR/929617188201/JIO/बिजली बिल",
+   "debit": 666.0,
+   "credit": null,
+   "balance": 363277.6
+  },
+  {
+   "date": "2026-01-23",
+   "description": "UPI/DR/015861629194/जय माता दी स्टोर/किराना",
+   "debit": 376.0,
+   "credit": null,
+   "balance": 362901.6
+  },
+  {
+   "date": "2026-01-25",
+   "description": "UPI/DR/237720859429/जय माता दी स्टोर/स्कूल फीस",
+   "debit": 1938.0,
+   "credit": null,
+   "balance": 360963.6
+  },
+  {
+   "date": "2026-01-26",
+   "description": "UPI/DR/243680962014/ANKIT JAIN/FUEL",
+   "debit": 2872.0,
+   "credit": null,
+   "balance": 358091.6
+  },
+  {
+   "date": "2026-01-27",
+   "description": "UPI/DR/003219113030/जय माता दी स्टोर/किराना",
+   "debit": 4208.0,
+   "credit": null,
+   "balance": 353883.6
+  },
+  {
+   "date": "2026-02-01",
+   "description": "NEFT/CR/7316541840/UP SECRETARIAT/वेतन जमा",
+   "debit": null,
+   "credit": 41873.06,
+   "balance": 395756.66
+  },
+  {
+   "date": "2026-02-01",
+   "description": "UPI/DR/074834893896/RAHUL MEHTA/GROCERY",
+   "debit": 403.0,
+   "credit": null,
+   "balance": 395353.66
+  },
+  {
+   "date": "2026-02-01",
+   "description": "UPI/DR/982472260119/शर्मा किराना स्टोर/पेट्रोल",
+   "debit": 2873.0,
+   "credit": null,
+   "balance": 392480.66
+  },
+  {
+   "date": "2026-02-02",
+   "description": "UPI/DR/770252691820/शर्मा किराना स्टोर/किराना",
+   "debit": 1524.0,
+   "credit": null,
+   "balance": 390956.66
+  },
+  {
+   "date": "2026-02-04",
+   "description": "UPI/DR/242878585628/SURESH YADAV/SCHOOL FEES",
+   "debit": 745.0,
+   "credit": null,
+   "balance": 390211.66
+  },
+  {
+   "date": "2026-02-05",
+   "description": "IMPS/144067138387/सुरेश यादव/मकान किराया",
+   "debit": 9000.0,
+   "credit": null,
+   "balance": 381211.66
+  },
+  {
+   "date": "2026-02-07",
+   "description": "नकद आहरण/ATM लखनऊ",
+   "debit": 5000.0,
+   "credit": null,
+   "balance": 376211.66
+  },
+  {
+   "date": "2026-02-10",
+   "description": "NACH/DR/बजाज फाइनेंस/LN44000/ऋण किस्त",
+   "debit": 5400.0,
+   "credit": null,
+   "balance": 370811.66
+  },
+  {
+   "date": "2026-02-12",
+   "description": "BILLPAY/TATA POWER/ELECTRICITY BILL",
+   "debit": 3100.0,
+   "credit": null,
+   "balance": 367711.66
+  },
+  {
+   "date": "2026-02-12",
+   "description": "UPI/DR/341537756229/RAHUL MEHTA/SCHOOL FEES",
+   "debit": 2962.0,
+   "credit": null,
+   "balance": 364749.66
+  },
+  {
+   "date": "2026-02-16",
+   "description": "UPI/DR/690910057503/JIO/ELECTRICITY BILL",
+   "debit": 299.0,
+   "credit": null,
+   "balance": 364450.66
+  },
+  {
+   "date": "2026-02-18",
+   "description": "UPI/DR/609211540882/LIC/बीमा प्रीमियम",
+   "debit": 4100.0,
+   "credit": null,
+   "balance": 360350.66
+  },
+  {
+   "date": "2026-02-18",
+   "description": "UPI/DR/402017729470/जय माता दी स्टोर/स्कूल फीस",
+   "debit": 3496.0,
+   "credit": null,
+   "balance": 356854.66
+  },
+  {
+   "date": "2026-02-19",
+   "description": "UPI/DR/916689944486/RAJ KUMAR/KIRANA",
+   "debit": 237.0,
+   "credit": null,
+   "balance": 356617.66
+  },
+  {
+   "date": "2026-02-21",
+   "description": "UPI/DR/265898213440/SAI GENERAL STORE/GROCERY",
+   "debit": 4358.0,
+   "credit": null,
+   "balance": 352259.66
+  },
+  {
+   "date": "2026-03-01",
+   "description": "NEFT/CR/6099988575/UP SECRETARIAT/वेतन जमा",
+   "debit": null,
+   "credit": 41696.15,
+   "balance": 393955.81
+  },
+  {
+   "date": "2026-03-01",
+   "description": "UPI/DR/230702392445/SHARMA KIRANA/KIRANA",
+   "debit": 3364.0,
+   "credit": null,
+   "balance": 390591.81
+  },
+  {
+   "date": "2026-03-05",
+   "description": "IMPS/834240988775/मनोज तिवारी/घर का किराया",
+   "debit": 9000.0,
+   "credit": null,
+   "balance": 381591.81
+  },
+  {
+   "date": "2026-03-05",
+   "description": "UPI/DR/049648607656/सुरेश यादव/स्कूल फीस",
+   "debit": 3904.0,
+   "credit": null,
+   "balance": 377687.81
+  },
+  {
+   "date": "2026-03-10",
+   "description": "NACH/DR/BAJAJ FINANCE/LN44000/ऋण किस्त",
+   "debit": 5400.0,
+   "credit": null,
+   "balance": 372287.81
+  },
+  {
+   "date": "2026-03-11",
+   "description": "UPI/DR/258942448913/SHARMA KIRANA/PETROL",
+   "debit": 2491.0,
+   "credit": null,
+   "balance": 369796.81
+  },
+  {
+   "date": "2026-03-11",
+   "description": "नकद आहरण/ATM लखनऊ",
+   "debit": 3000.0,
+   "credit": null,
+   "balance": 366796.81
+  },
+  {
+   "date": "2026-03-12",
+   "description": "BILLPAY/BSES/PAANI BILL",
+   "debit": 2431.0,
+   "credit": null,
+   "balance": 364365.81
+  },
+  {
+   "date": "2026-03-14",
+   "description": "UPI/DR/914695498428/ANKIT JAIN/SCHOOL FEES",
+   "debit": 3963.0,
+   "credit": null,
+   "balance": 360402.81
+  },
+  {
+   "date": "2026-03-16",
+   "description": "UPI/DR/188461608558/JIO/BROADBAND BILL",
+   "debit": 666.0,
+   "credit": null,
+   "balance": 359736.81
+  },
+  {
+   "date": "2026-03-19",
+   "description": "UPI/DR/943486586402/सुरेश यादव/स्कूल फीस",
+   "debit": 4386.0,
+   "credit": null,
+   "balance": 355350.81
+  },
+  {
+   "date": "2026-03-20",
+   "description": "UPI/DR/895847225241/MANOJ TIWARI/KIRANA",
+   "debit": 1266.0,
+   "credit": null,
+   "balance": 354084.81
+  },
+  {
+   "date": "2026-03-21",
+   "description": "UPI/DR/694648937623/राज कुमार/स्कूल फीस",
+   "debit": 1624.0,
+   "credit": null,
+   "balance": 352460.81
+  },
+  {
+   "date": "2026-03-22",
+   "description": "UPI/DR/279545462499/RAHUL MEHTA/GROCERY",
+   "debit": 535.0,
+   "credit": null,
+   "balance": 351925.81
+  },
+  {
+   "date": "2026-03-31",
+   "description": "ब्याज जमा/Q1",
+   "debit": null,
+   "credit": 2458.0,
+   "balance": 354383.81
+  },
+  {
+   "date": "2026-03-31",
+   "description": "एसएमएस शुल्क/Q1",
+   "debit": 59.0,
+   "credit": null,
+   "balance": 354324.81
+  },
+  {
+   "date": "2026-04-01",
+   "description": "NEFT/CR/9572381798/UP SECRETARIAT/वेतन APR26",
+   "debit": null,
+   "credit": 41941.09,
+   "balance": 396265.9
+  },
+  {
+   "date": "2026-04-02",
+   "description": "UPI/DR/117384694918/RAJ KUMAR/SCHOOL FEES",
+   "debit": 1044.0,
+   "credit": null,
+   "balance": 395221.9
+  },
+  {
+   "date": "2026-04-05",
+   "description": "IMPS/075516967742/राज कुमार/मकान किराया",
+   "debit": 9000.0,
+   "credit": null,
+   "balance": 386221.9
+  },
+  {
+   "date": "2026-04-10",
+   "description": "NACH/DR/BAJAJ FINANCE/LN44000/लोन की किस्त",
+   "debit": 5400.0,
+   "credit": null,
+   "balance": 380821.9
+  },
+  {
+   "date": "2026-04-12",
+   "description": "BILLPAY/BSES/BIJLI BILL",
+   "debit": 2666.0,
+   "credit": null,
+   "balance": 378155.9
+  },
+  {
+   "date": "2026-04-13",
+   "description": "UPI/DR/823843328209/श्री गणेश एजेंसी/स्कूल फीस",
+   "debit": 3532.0,
+   "credit": null,
+   "balance": 374623.9
+  },
+  {
+   "date": "2026-04-16",
+   "description": "UPI/DR/115274602449/JIO/पानी का बिल",
+   "debit": 399.0,
+   "credit": null,
+   "balance": 374224.9
+  },
+  {
+   "date": "2026-04-18",
+   "description": "UPI/DR/174991980335/RAJ KUMAR/KIRANA",
+   "debit": 1623.0,
+   "credit": null,
+   "balance": 372601.9
+  },
+  {
+   "date": "2026-04-20",
+   "description": "UPI/DR/015481680319/राज कुमार/किराना",
+   "debit": 1638.0,
+   "credit": null,
+   "balance": 370963.9
+  },
+  {
+   "date": "2026-04-20",
+   "description": "UPI/DR/674078299533/STAR TRADERS/SCHOOL FEES",
+   "debit": 622.0,
+   "credit": null,
+   "balance": 370341.9
+  },
+  {
+   "date": "2026-04-20",
+   "description": "UPI/DR/473400778319/VIKRAM SINGH/SCHOOL FEES",
+   "debit": 3568.0,
+   "credit": null,
+   "balance": 366773.9
+  },
+  {
+   "date": "2026-04-25",
+   "description": "UPI/DR/422330422144/FRESH MART/SCHOOL FEES",
+   "debit": 2936.0,
+   "credit": null,
+   "balance": 363837.9
+  },
+  {
+   "date": "2026-04-25",
+   "description": "नकद आहरण/ATM लखनऊ",
+   "debit": 5000.0,
+   "credit": null,
+   "balance": 358837.9
+  },
+  {
+   "date": "2026-04-27",
+   "description": "UPI/DR/540835375531/श्री गणेश एजेंसी/किराना",
+   "debit": 2768.0,
+   "credit": null,
+   "balance": 356069.9
+  },
+  {
+   "date": "2026-05-01",
+   "description": "NEFT/6918452437/UP SECRETARIAT/वेतन जमा",
+   "debit": null,
+   "credit": 41769.86,
+   "balance": 397839.76
+  },
+  {
+   "date": "2026-05-05",
+   "description": "IMPS/540436964177/मनोज तिवारी/मकान किराया",
+   "debit": 9000.0,
+   "credit": null,
+   "balance": 388839.76
+  },
+  {
+   "date": "2026-05-05",
+   "description": "UPI/DR/690899680146/सुरेश यादव/स्कूल फीस",
+   "debit": 3610.0,
+   "credit": null,
+   "balance": 385229.76
+  },
+  {
+   "date": "2026-05-07",
+   "description": "UPI/DR/707869890926/शर्मा किराना स्टोर/पेट्रोल",
+   "debit": 2801.0,
+   "credit": null,
+   "balance": 382428.76
+  },
+  {
+   "date": "2026-05-08",
+   "description": "UPI/DR/963571740072/SHARMA KIRANA/PETROL",
+   "debit": 137.0,
+   "credit": null,
+   "balance": 382291.76
+  },
+  {
+   "date": "2026-05-09",
+   "description": "UPI/DR/138263726935/JAI MATA DI STORE/SCHOOL FEES",
+   "debit": 2602.0,
+   "credit": null,
+   "balance": 379689.76
+  },
+  {
+   "date": "2026-05-10",
+   "description": "NACH/DR/BAJAJ FINANCE/LN44000/लोन की किस्त",
+   "debit": 5400.0,
+   "credit": null,
+   "balance": 374289.76
+  },
+  {
+   "date": "2026-05-12",
+   "description": "BILLPAY/TATA POWER/ELECTRICITY BILL",
+   "debit": 2711.0,
+   "credit": null,
+   "balance": 371578.76
+  },
+  {
+   "date": "2026-05-14",
+   "description": "UPI/DR/169445558784/SHARMA KIRANA/SCHOOL FEES",
+   "debit": 735.0,
+   "credit": null,
+   "balance": 370843.76
+  },
+  {
+   "date": "2026-05-15",
+   "description": "नकद आहरण/ATM लखनऊ",
+   "debit": 2000.0,
+   "credit": null,
+   "balance": 368843.76
+  },
+  {
+   "date": "2026-05-16",
+   "description": "UPI/DR/232023432915/JIO/पानी का बिल",
+   "debit": 399.0,
+   "credit": null,
+   "balance": 368444.76
+  },
+  {
+   "date": "2026-05-17",
+   "description": "UPI/DR/792140222038/ANKIT JAIN/GROCERY",
+   "debit": 660.0,
+   "credit": null,
+   "balance": 367784.76
+  },
+  {
+   "date": "2026-05-18",
+   "description": "UPI/DR/630068894303/LIC/बीमा प्रीमियम",
+   "debit": 4100.0,
+   "credit": null,
+   "balance": 363684.76
+  },
+  {
+   "date": "2026-05-19",
+   "description": "UPI/DR/035536089985/मनोज तिवारी/किराना",
+   "debit": 2521.0,
+   "credit": null,
+   "balance": 361163.76
+  },
+  {
+   "date": "2026-05-20",
+   "description": "UPI/DR/377429777968/SHARMA KIRANA/PETROL",
+   "debit": 3197.0,
+   "credit": null,
+   "balance": 357966.76
+  },
+  {
+   "date": "2026-06-01",
+   "description": "NEFT/CR/9627685871/UP SECRETARIAT/वेतन जमा",
+   "debit": null,
+   "credit": 41879.42,
+   "balance": 399846.18
+  },
+  {
+   "date": "2026-06-01",
+   "description": "UPI/DR/428350841583/श्री गणेश एजेंसी/किराना",
+   "debit": 4270.0,
+   "credit": null,
+   "balance": 395576.18
+  },
+  {
+   "date": "2026-06-04",
+   "description": "UPI/DR/312803422441/श्री गणेश एजेंसी/किराना",
+   "debit": 3541.0,
+   "credit": null,
+   "balance": 392035.18
+  },
+  {
+   "date": "2026-06-05",
+   "description": "IMPS/834284312720/VIKRAM SINGH/FLAT RENT",
+   "debit": 9000.0,
+   "credit": null,
+   "balance": 383035.18
+  },
+  {
+   "date": "2026-06-09",
+   "description": "UPI/DR/941645342188/MANOJ TIWARI/KIRANA",
+   "debit": 3873.0,
+   "credit": null,
+   "balance": 379162.18
+  },
+  {
+   "date": "2026-06-10",
+   "description": "NACH/DR/BAJAJ FINANCE/LN44000/लोन की किस्त",
+   "debit": 5400.0,
+   "credit": null,
+   "balance": 373762.18
+  },
+  {
+   "date": "2026-06-12",
+   "description": "BILLPAY/BSES/BIJLI BILL",
+   "debit": 2219.0,
+   "credit": null,
+   "balance": 371543.18
+  },
+  {
+   "date": "2026-06-12",
+   "description": "UPI/DR/259798437484/FRESH MART/SCHOOL FEES",
+   "debit": 1048.0,
+   "credit": null,
+   "balance": 370495.18
+  },
+  {
+   "date": "2026-06-13",
+   "description": "UPI/DR/695745862933/श्री गणेश एजेंसी/पेट्रोल",
+   "debit": 4199.0,
+   "credit": null,
+   "balance": 366296.18
+  },
+  {
+   "date": "2026-06-14",
+   "description": "ATM NIKASI/ATM LUCKNOW",
+   "debit": 2000.0,
+   "credit": null,
+   "balance": 364296.18
+  },
+  {
+   "date": "2026-06-15",
+   "description": "UPI/DR/888085904604/FRESH MART/GROCERY",
+   "debit": 2264.0,
+   "credit": null,
+   "balance": 362032.18
+  },
+  {
+   "date": "2026-06-15",
+   "description": "UPI/DR/241476222884/सुरेश यादव/स्कूल फीस",
+   "debit": 396.0,
+   "credit": null,
+   "balance": 361636.18
+  },
+  {
+   "date": "2026-06-16",
+   "description": "UPI/DR/551456185017/JIO/ELECTRICITY BILL",
+   "debit": 239.0,
+   "credit": null,
+   "balance": 361397.18
+  },
+  {
+   "date": "2026-06-16",
+   "description": "UPI/DR/867034336700/राज कुमार/स्कूल फीस",
+   "debit": 351.0,
+   "credit": null,
+   "balance": 361046.18
+  },
+  {
+   "date": "2026-06-30",
+   "description": "BYAJ JAMA/Q2",
+   "debit": null,
+   "credit": 876.0,
+   "balance": 361922.18
+  },
+  {
+   "date": "2026-06-30",
+   "description": "SMS CHARGE/Q2",
+   "debit": 59.0,
+   "credit": null,
+   "balance": 361863.18
+  }
+ ]
+}

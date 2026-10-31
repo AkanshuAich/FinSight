@@ -1,0 +1,84 @@
+{
+ "bank_name": "DECCAN CO-OPERATIVE BANK",
+ "account_holder": "NIKHIL DESAI",
+ "account_number": "310000700729",
+ "account_type": "SAVINGS",
+ "statement_period": {
+  "from": "2026-01-01",
+  "to": "2026-06-30"
+ },
+ "opening_balance": 241463.0,
+ "closing_balance": 394438.0,
+ "transactions": [
+  {
+   "date": "2026-01-04",
+   "description": "IMPS/534168971184/NIKHIL DESAI/சொந்த கணக்கிற்கு",
+   "debit": null,
+   "credit": 25000.0,
+   "balance": 266463.0
+  },
+  {
+   "date": "2026-02-04",
+   "description": "IMPS/437768183902/निखिल देसाई/स्वयं खाते में",
+   "debit": null,
+   "credit": 25000.0,
+   "balance": 291463.0
+  },
+  {
+   "date": "2026-03-04",
+   "description": "IMPS/371613505257/निखिल देसाई/स्वयं खाते में",
+   "debit": null,
+   "credit": 25000.0,
+   "balance": 316463.0
+  },
+  {
+   "date": "2026-03-31",
+   "description": "வட்டி வரவு/Q1",
+   "debit": null,
+   "credit": 1400.0,
+   "balance": 317863.0
+  },
+  {
+   "date": "2026-03-31",
+   "description": "SMS CHARGE/Q1",
+   "debit": 59.0,
+   "credit": null,
+   "balance": 317804.0
+  },
+  {
+   "date": "2026-04-04",
+   "description": "IMPS/327641137166/NIKHIL DESAI/APNE KHATE ME",
+   "debit": null,
+   "credit": 25000.0,
+   "balance": 342804.0
+  },
+  {
+   "date": "2026-05-04",
+   "description": "IMPS/116298122321/NIKHIL DESAI/சொந்த கணக்கிற்கு",
+   "debit": null,
+   "credit": 25000.0,
+   "balance": 367804.0
+  },
+  {
+   "date": "2026-06-04",
+   "description": "IMPS/923032654581/निखिल देसाई/स्वयं खाते में",
+   "debit": null,
+   "credit": 25000.0,
+   "balance": 392804.0
+  },
+  {
+   "date": "2026-06-30",
+   "description": "વ્યાજ જમા/Q2",
+   "debit": null,
+   "credit": 1693.0,
+   "balance": 394497.0
+  },
+  {
+   "date": "2026-06-30",
+   "description": "એસએમએસ ચાર્જ/Q2",
+   "debit": 59.0,
+   "credit": null,
+   "balance": 394438.0
+  }
+ ]
+}

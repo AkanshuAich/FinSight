@@ -1,0 +1,7 @@
+# local data: encrypted uploads, DuckDB file and dev keys
+data/
+__pycache__/
+*.pyc
+.venv/
+frontend/node_modules/
+frontend/dist/

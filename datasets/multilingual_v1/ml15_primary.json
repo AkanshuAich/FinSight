@@ -1,0 +1,805 @@
+{
+ "bank_name": "DECCAN CO-OPERATIVE BANK",
+ "account_holder": "DEEPAK SAINI",
+ "account_number": "310001400067",
+ "account_type": "SAVINGS",
+ "statement_period": {
+  "from": "2026-01-01",
+  "to": "2026-06-30"
+ },
+ "opening_balance": 13401.0,
+ "closing_balance": -211174.35,
+ "transactions": [
+  {
+   "date": "2026-01-04",
+   "description": "UPI/DR/041767202624/बालाजी किराना/दवाई",
+   "debit": 3593.0,
+   "credit": null,
+   "balance": 9808.0
+  },
+  {
+   "date": "2026-01-04",
+   "description": "UPI/DR/873489720253/बालाजी किराना/दवाई",
+   "debit": 3316.0,
+   "credit": null,
+   "balance": 6492.0
+  },
+  {
+   "date": "2026-01-05",
+   "description": "IMPS/392382585883/अनीता शर्मा/किराया JAN26",
+   "debit": 14000.0,
+   "credit": null,
+   "balance": -7508.0
+  },
+  {
+   "date": "2026-01-05",
+   "description": "NACH/DR/बजाज फाइनेंस/LN44000/कर्ज़ किस्त",
+   "debit": 9800.0,
+   "credit": null,
+   "balance": -17308.0
+  },
+  {
+   "date": "2026-01-06",
+   "description": "एटीएम निकासी/ATM लखनऊ",
+   "debit": 2000.0,
+   "credit": null,
+   "balance": -19308.0
+  },
+  {
+   "date": "2026-01-07",
+   "description": "NEFT/CR/6699278746/ROYAL MARBLES PVT LTD/MAHINE KA PAGAR",
+   "debit": null,
+   "credit": 51728.84,
+   "balance": 32420.84
+  },
+  {
+   "date": "2026-01-09",
+   "description": "NACH/DR/MUTHOOT FINANCE/LN44021/ईएमआई JAN26",
+   "debit": 6200.0,
+   "credit": null,
+   "balance": 26220.84
+  },
+  {
+   "date": "2026-01-09",
+   "description": "UPI/DR/058028502963/बालाजी किराना/कपड़े",
+   "debit": 2964.0,
+   "credit": null,
+   "balance": 23256.84
+  },
+  {
+   "date": "2026-01-09",
+   "description": "UPI/DR/856450678609/PRIYA NAIR/MEDICINE",
+   "debit": 937.0,
+   "credit": null,
+   "balance": 22319.84
+  },
+  {
+   "date": "2026-01-10",
+   "description": "UPI/DR/818936215305/GUPTA MEDICAL/SABZI",
+   "debit": 4121.0,
+   "credit": null,
+   "balance": 18198.84
+  },
+  {
+   "date": "2026-01-12",
+   "description": "BILLPAY/TATA POWER/WATER BILL",
+   "debit": 1102.0,
+   "credit": null,
+   "balance": 17096.84
+  },
+  {
+   "date": "2026-01-13",
+   "description": "UPI/DR/196769898371/RAM TRADERS/DAWAI",
+   "debit": 1233.0,
+   "credit": null,
+   "balance": 15863.84
+  },
+  {
+   "date": "2026-01-16",
+   "description": "UPI/DR/097390416925/JIO/MOBILE RECHARGE",
+   "debit": 299.0,
+   "credit": null,
+   "balance": 15564.84
+  },
+  {
+   "date": "2026-01-18",
+   "description": "UPI/DR/957156800168/CITY MEDICALS/MEDICINE",
+   "debit": 4036.0,
+   "credit": null,
+   "balance": 11528.84
+  },
+  {
+   "date": "2026-01-19",
+   "description": "UPI/DR/368363425340/गुप्ता मेडिकल/कपड़े",
+   "debit": 3238.0,
+   "credit": null,
+   "balance": 8290.84
+  },
+  {
+   "date": "2026-01-21",
+   "description": "UPI/DR/892937138831/CRED/कार्ड बिल",
+   "debit": 21621.0,
+   "credit": null,
+   "balance": -13330.16
+  },
+  {
+   "date": "2026-01-22",
+   "description": "UPI/DR/414126078978/सीमा गुप्ता/कपड़े",
+   "debit": 3037.0,
+   "credit": null,
+   "balance": -16367.16
+  },
+  {
+   "date": "2026-01-25",
+   "description": "UPI/DR/708459922163/SEEMA GUPTA/SABZI",
+   "debit": 1626.0,
+   "credit": null,
+   "balance": -17993.16
+  },
+  {
+   "date": "2026-02-05",
+   "description": "IMPS/553582252128/सीमा गुप्ता/किराया FEB26",
+   "debit": 14000.0,
+   "credit": null,
+   "balance": -31993.16
+  },
+  {
+   "date": "2026-02-05",
+   "description": "NACH/DR/BAJAJ FINANCE/LN44000/LOAN EMI",
+   "debit": 9800.0,
+   "credit": null,
+   "balance": -41793.16
+  },
+  {
+   "date": "2026-02-07",
+   "description": "NEFT/7359838422/ROYAL MARBLES PVT LTD/MAHINE KA PAGAR",
+   "debit": null,
+   "credit": 52433.45,
+   "balance": 10640.29
+  },
+  {
+   "date": "2026-02-09",
+   "description": "NACH/DR/MUTHOOT FINANCE/LN44021/LOAN EMI",
+   "debit": 6200.0,
+   "credit": null,
+   "balance": 4440.29
+  },
+  {
+   "date": "2026-02-09",
+   "description": "UPI/DR/823127534785/BALAJI KIRANA/SABZI",
+   "debit": 1983.0,
+   "credit": null,
+   "balance": 2457.29
+  },
+  {
+   "date": "2026-02-09",
+   "description": "UPI/DR/824099950681/पूजा वर्मा/सब्ज़ी",
+   "debit": 1583.0,
+   "credit": null,
+   "balance": 874.29
+  },
+  {
+   "date": "2026-02-10",
+   "description": "UPI/DR/926533203096/POOJA VERMA/KAPDE",
+   "debit": 4790.0,
+   "credit": null,
+   "balance": -3915.71
+  },
+  {
+   "date": "2026-02-10",
+   "description": "UPI/DR/769279011030/CITY MEDICALS/CLOTHES",
+   "debit": 1673.0,
+   "credit": null,
+   "balance": -5588.71
+  },
+  {
+   "date": "2026-02-12",
+   "description": "BILLPAY/TATA POWER/MOBILE RECHARGE",
+   "debit": 1773.0,
+   "credit": null,
+   "balance": -7361.71
+  },
+  {
+   "date": "2026-02-13",
+   "description": "UPI/DR/480104428521/POOJA VERMA/SABZI",
+   "debit": 4026.0,
+   "credit": null,
+   "balance": -11387.71
+  },
+  {
+   "date": "2026-02-15",
+   "description": "UPI/DR/892985223613/GUPTA MEDICAL/SABZI",
+   "debit": 1727.0,
+   "credit": null,
+   "balance": -13114.71
+  },
+  {
+   "date": "2026-02-16",
+   "description": "UPI/DR/446324872400/JIO/मोबाइल रिचार्ज",
+   "debit": 239.0,
+   "credit": null,
+   "balance": -13353.71
+  },
+  {
+   "date": "2026-02-17",
+   "description": "UPI/DR/580853456775/HP PETROL PUMP/VEGETABLES",
+   "debit": 143.0,
+   "credit": null,
+   "balance": -13496.71
+  },
+  {
+   "date": "2026-02-20",
+   "description": "NAKAD NIKASI/ATM LUCKNOW",
+   "debit": 2000.0,
+   "credit": null,
+   "balance": -15496.71
+  },
+  {
+   "date": "2026-02-21",
+   "description": "UPI/DR/240289303380/CRED/कार्ड बिल",
+   "debit": 15428.0,
+   "credit": null,
+   "balance": -30924.71
+  },
+  {
+   "date": "2026-02-21",
+   "description": "UPI/DR/458889205974/NEHA KAPOOR/VEGETABLES",
+   "debit": 2424.0,
+   "credit": null,
+   "balance": -33348.71
+  },
+  {
+   "date": "2026-02-27",
+   "description": "UPI/DR/458877534318/बालाजी किराना/दवाई",
+   "debit": 436.0,
+   "credit": null,
+   "balance": -33784.71
+  },
+  {
+   "date": "2026-02-27",
+   "description": "UPI/DR/627326378554/OM ENTERPRISES/VEGETABLES",
+   "debit": 1561.0,
+   "credit": null,
+   "balance": -35345.71
+  },
+  {
+   "date": "2026-03-04",
+   "description": "UPI/DR/003684703373/SEEMA GUPTA/DAWAI",
+   "debit": 3847.0,
+   "credit": null,
+   "balance": -39192.71
+  },
+  {
+   "date": "2026-03-05",
+   "description": "IMPS/241506889296/NEHA KAPOOR/RENT MAR26",
+   "debit": 14000.0,
+   "credit": null,
+   "balance": -53192.71
+  },
+  {
+   "date": "2026-03-05",
+   "description": "NACH/DR/बजाज फाइनेंस/LN44000/कर्ज़ किस्त",
+   "debit": 9800.0,
+   "credit": null,
+   "balance": -62992.71
+  },
+  {
+   "date": "2026-03-05",
+   "description": "UPI/DR/367203456664/ANITA SHARMA/SABZI",
+   "debit": 4304.0,
+   "credit": null,
+   "balance": -67296.71
+  },
+  {
+   "date": "2026-03-07",
+   "description": "NEFT/CR/1552318867/ROYAL MARBLES PVT LTD/मासिक वेतन",
+   "debit": null,
+   "credit": 51867.42,
+   "balance": -15429.29
+  },
+  {
+   "date": "2026-03-09",
+   "description": "NACH/DR/MUTHOOT FINANCE/LN44021/कर्ज़ किस्त",
+   "debit": 6200.0,
+   "credit": null,
+   "balance": -21629.29
+  },
+  {
+   "date": "2026-03-09",
+   "description": "UPI/DR/466266879669/GUPTA MEDICAL/KAPDE",
+   "debit": 392.0,
+   "credit": null,
+   "balance": -22021.29
+  },
+  {
+   "date": "2026-03-12",
+   "description": "BILLPAY/BSES/GAS CYLINDER",
+   "debit": 2697.0,
+   "credit": null,
+   "balance": -24718.29
+  },
+  {
+   "date": "2026-03-12",
+   "description": "UPI/DR/396227851953/OM ENTERPRISES/VEGETABLES",
+   "debit": 4747.0,
+   "credit": null,
+   "balance": -29465.29
+  },
+  {
+   "date": "2026-03-14",
+   "description": "UPI/DR/837953984051/राम ट्रेडर्स/कपड़े",
+   "debit": 4102.0,
+   "credit": null,
+   "balance": -33567.29
+  },
+  {
+   "date": "2026-03-15",
+   "description": "UPI/DR/557979708626/GUPTA MEDICAL/DAWAI",
+   "debit": 1751.0,
+   "credit": null,
+   "balance": -35318.29
+  },
+  {
+   "date": "2026-03-16",
+   "description": "UPI/DR/035197062693/JIO/MOBILE RECHARGE",
+   "debit": 239.0,
+   "credit": null,
+   "balance": -35557.29
+  },
+  {
+   "date": "2026-03-16",
+   "description": "एटीएम निकासी/ATM लखनऊ",
+   "debit": 10000.0,
+   "credit": null,
+   "balance": -45557.29
+  },
+  {
+   "date": "2026-03-18",
+   "description": "UPI/DR/705137176257/SEEMA GUPTA/DAWAI",
+   "debit": 3750.0,
+   "credit": null,
+   "balance": -49307.29
+  },
+  {
+   "date": "2026-03-21",
+   "description": "UPI/DR/536588861068/CRED/CARD KA BILL",
+   "debit": 19218.0,
+   "credit": null,
+   "balance": -68525.29
+  },
+  {
+   "date": "2026-03-24",
+   "description": "UPI/DR/986454861243/RAM TRADERS/KAPDE",
+   "debit": 464.0,
+   "credit": null,
+   "balance": -68989.29
+  },
+  {
+   "date": "2026-03-25",
+   "description": "UPI/DR/727312123950/RAM TRADERS/DAWAI",
+   "debit": 3035.0,
+   "credit": null,
+   "balance": -72024.29
+  },
+  {
+   "date": "2026-03-28",
+   "description": "UPI/DR/724681886734/GUPTA MEDICAL/KAPDE",
+   "debit": 1481.0,
+   "credit": null,
+   "balance": -73505.29
+  },
+  {
+   "date": "2026-03-31",
+   "description": "बचत ब्याज/Q1",
+   "debit": null,
+   "credit": 921.0,
+   "balance": -72584.29
+  },
+  {
+   "date": "2026-03-31",
+   "description": "न्यूनतम शेष शुल्क/Q1",
+   "debit": 59.0,
+   "credit": null,
+   "balance": -72643.29
+  },
+  {
+   "date": "2026-04-05",
+   "description": "IMPS/047080788506/पूजा वर्मा/दुकान किराया",
+   "debit": 14000.0,
+   "credit": null,
+   "balance": -86643.29
+  },
+  {
+   "date": "2026-04-05",
+   "description": "NACH/DR/बजाज फाइनेंस/LN44000/कर्ज़ किस्त",
+   "debit": 9800.0,
+   "credit": null,
+   "balance": -96443.29
+  },
+  {
+   "date": "2026-04-07",
+   "description": "NEFT/4856683687/ROYAL MARBLES PVT LTD/SAL CREDIT APR26",
+   "debit": null,
+   "credit": 41530.26,
+   "balance": -54913.03
+  },
+  {
+   "date": "2026-04-07",
+   "description": "UPI/DR/628221516027/राम ट्रेडर्स/सब्ज़ी",
+   "debit": 2198.0,
+   "credit": null,
+   "balance": -57111.03
+  },
+  {
+   "date": "2026-04-09",
+   "description": "NACH/DR/MUTHOOT FINANCE/LN44021/KARZ KI KIST",
+   "debit": 6200.0,
+   "credit": null,
+   "balance": -63311.03
+  },
+  {
+   "date": "2026-04-12",
+   "description": "BILLPAY/BSES/GAS CYLINDER",
+   "debit": 2899.0,
+   "credit": null,
+   "balance": -66210.03
+  },
+  {
+   "date": "2026-04-14",
+   "description": "UPI/DR/266564062642/गुप्ता मेडिकल/कपड़े",
+   "debit": 3357.0,
+   "credit": null,
+   "balance": -69567.03
+  },
+  {
+   "date": "2026-04-16",
+   "description": "UPI/DR/663584064422/JIO/मोबाइल रिचार्ज",
+   "debit": 299.0,
+   "credit": null,
+   "balance": -69866.03
+  },
+  {
+   "date": "2026-04-16",
+   "description": "UPI/DR/560056795798/OM ENTERPRISES/CLOTHES",
+   "debit": 1587.0,
+   "credit": null,
+   "balance": -71453.03
+  },
+  {
+   "date": "2026-04-17",
+   "description": "UPI/DR/302802594046/पूजा वर्मा/कपड़े",
+   "debit": 347.0,
+   "credit": null,
+   "balance": -71800.03
+  },
+  {
+   "date": "2026-04-17",
+   "description": "UPI/DR/836486737969/SEEMA GUPTA/DAWAI",
+   "debit": 3527.0,
+   "credit": null,
+   "balance": -75327.03
+  },
+  {
+   "date": "2026-04-21",
+   "description": "UPI/DR/092387006425/CRED/CARD KA BILL",
+   "debit": 14801.0,
+   "credit": null,
+   "balance": -90128.03
+  },
+  {
+   "date": "2026-04-21",
+   "description": "CASH WITHDRAWAL/ATM MUMBAI",
+   "debit": 2000.0,
+   "credit": null,
+   "balance": -92128.03
+  },
+  {
+   "date": "2026-04-22",
+   "description": "UPI/DR/101383768714/पूजा वर्मा/दवाई",
+   "debit": 1795.0,
+   "credit": null,
+   "balance": -93923.03
+  },
+  {
+   "date": "2026-04-23",
+   "description": "UPI/DR/206335615706/BALAJI KIRANA/KAPDE",
+   "debit": 1433.0,
+   "credit": null,
+   "balance": -95356.03
+  },
+  {
+   "date": "2026-04-23",
+   "description": "UPI/DR/519719064216/गुप्ता मेडिकल/सब्ज़ी",
+   "debit": 1670.0,
+   "credit": null,
+   "balance": -97026.03
+  },
+  {
+   "date": "2026-04-24",
+   "description": "UPI/DR/751091501810/OM ENTERPRISES/VEGETABLES",
+   "debit": 1873.0,
+   "credit": null,
+   "balance": -98899.03
+  },
+  {
+   "date": "2026-04-28",
+   "description": "UPI/DR/478785830254/सीमा गुप्ता/सब्ज़ी",
+   "debit": 1360.0,
+   "credit": null,
+   "balance": -100259.03
+  },
+  {
+   "date": "2026-05-01",
+   "description": "UPI/DR/812483604751/OM ENTERPRISES/MEDICINE",
+   "debit": 4444.0,
+   "credit": null,
+   "balance": -104703.03
+  },
+  {
+   "date": "2026-05-05",
+   "description": "IMPS/398106469443/सीमा गुप्ता/दुकान किराया",
+   "debit": 14000.0,
+   "credit": null,
+   "balance": -118703.03
+  },
+  {
+   "date": "2026-05-05",
+   "description": "NACH/DR/BAJAJ FINANCE/LN44000/LOAN EMI",
+   "debit": 9800.0,
+   "credit": null,
+   "balance": -128503.03
+  },
+  {
+   "date": "2026-05-05",
+   "description": "NACH/BAJAJ FINANCE/LN44000/RTN INSUFFICIENT FUNDS",
+   "debit": null,
+   "credit": 9800.0,
+   "balance": -118703.03
+  },
+  {
+   "date": "2026-05-05",
+   "description": "UPI/DR/794507165207/राम ट्रेडर्स/दवाई",
+   "debit": 4477.0,
+   "credit": null,
+   "balance": -123180.03
+  },
+  {
+   "date": "2026-05-06",
+   "description": "RTN CHGS/NACH",
+   "debit": 590.0,
+   "credit": null,
+   "balance": -123770.03
+  },
+  {
+   "date": "2026-05-07",
+   "description": "NEFT/CR/5462562950/ROYAL MARBLES PVT LTD/मासिक वेतन",
+   "debit": null,
+   "credit": 41838.68,
+   "balance": -81931.35
+  },
+  {
+   "date": "2026-05-07",
+   "description": "UPI/DR/520653367812/POOJA VERMA/SABZI",
+   "debit": 2733.0,
+   "credit": null,
+   "balance": -84664.35
+  },
+  {
+   "date": "2026-05-07",
+   "description": "UPI/DR/962345653200/PRIYA NAIR/CLOTHES",
+   "debit": 2283.0,
+   "credit": null,
+   "balance": -86947.35
+  },
+  {
+   "date": "2026-05-08",
+   "description": "UPI/DR/006590453706/राम ट्रेडर्स/कपड़े",
+   "debit": 4541.0,
+   "credit": null,
+   "balance": -91488.35
+  },
+  {
+   "date": "2026-05-09",
+   "description": "NACH/DR/MUTHOOT FINANCE/LN44021/KARZ KI KIST",
+   "debit": 6200.0,
+   "credit": null,
+   "balance": -97688.35
+  },
+  {
+   "date": "2026-05-11",
+   "description": "UPI/DR/689723517450/बालाजी किराना/कपड़े",
+   "debit": 2068.0,
+   "credit": null,
+   "balance": -99756.35
+  },
+  {
+   "date": "2026-05-12",
+   "description": "BILLPAY/BSES/गैस बिल",
+   "debit": 3075.0,
+   "credit": null,
+   "balance": -102831.35
+  },
+  {
+   "date": "2026-05-16",
+   "description": "UPI/DR/228256042307/JIO/गैस बिल",
+   "debit": 399.0,
+   "credit": null,
+   "balance": -103230.35
+  },
+  {
+   "date": "2026-05-16",
+   "description": "UPI/DR/327729897553/अनीता शर्मा/कपड़े",
+   "debit": 1130.0,
+   "credit": null,
+   "balance": -104360.35
+  },
+  {
+   "date": "2026-05-20",
+   "description": "CASH WITHDRAWAL/ATM MUMBAI",
+   "debit": 5000.0,
+   "credit": null,
+   "balance": -109360.35
+  },
+  {
+   "date": "2026-05-21",
+   "description": "UPI/DR/496148891938/CRED/कार्ड बिल",
+   "debit": 14750.0,
+   "credit": null,
+   "balance": -124110.35
+  },
+  {
+   "date": "2026-05-23",
+   "description": "UPI/DR/246424933662/RAM TRADERS/SABZI",
+   "debit": 4377.0,
+   "credit": null,
+   "balance": -128487.35
+  },
+  {
+   "date": "2026-05-25",
+   "description": "UPI/DR/812911831472/POOJA VERMA/DAWAI",
+   "debit": 2628.0,
+   "credit": null,
+   "balance": -131115.35
+  },
+  {
+   "date": "2026-05-28",
+   "description": "UPI/DR/238124480067/गुप्ता मेडिकल/कपड़े",
+   "debit": 4616.0,
+   "credit": null,
+   "balance": -135731.35
+  },
+  {
+   "date": "2026-06-03",
+   "description": "UPI/DR/664945519511/बालाजी किराना/दवाई",
+   "debit": 3200.0,
+   "credit": null,
+   "balance": -138931.35
+  },
+  {
+   "date": "2026-06-05",
+   "description": "IMPS/809875300416/पूजा वर्मा/दुकान किराया",
+   "debit": 14000.0,
+   "credit": null,
+   "balance": -152931.35
+  },
+  {
+   "date": "2026-06-05",
+   "description": "NACH/DR/BAJAJ FINANCE/LN44000/EMI JUN26",
+   "debit": 9800.0,
+   "credit": null,
+   "balance": -162731.35
+  },
+  {
+   "date": "2026-06-05",
+   "description": "UPI/DR/787376177718/GUPTA MEDICAL/SABZI",
+   "debit": 387.0,
+   "credit": null,
+   "balance": -163118.35
+  },
+  {
+   "date": "2026-06-09",
+   "description": "NACH/DR/MUTHOOT FINANCE/LN44021/EMI JUN26",
+   "debit": 6200.0,
+   "credit": null,
+   "balance": -169318.35
+  },
+  {
+   "date": "2026-06-09",
+   "description": "UPI/DR/872306544592/राम ट्रेडर्स/सब्ज़ी",
+   "debit": 141.0,
+   "credit": null,
+   "balance": -169459.35
+  },
+  {
+   "date": "2026-06-09",
+   "description": "UPI/DR/881705523029/राम ट्रेडर्स/सब्ज़ी",
+   "debit": 963.0,
+   "credit": null,
+   "balance": -170422.35
+  },
+  {
+   "date": "2026-06-10",
+   "description": "UPI/DR/889778678905/HP PETROL PUMP/MEDICINE",
+   "debit": 671.0,
+   "credit": null,
+   "balance": -171093.35
+  },
+  {
+   "date": "2026-06-10",
+   "description": "UPI/DR/363674699827/PRIYA NAIR/VEGETABLES",
+   "debit": 490.0,
+   "credit": null,
+   "balance": -171583.35
+  },
+  {
+   "date": "2026-06-12",
+   "description": "BILLPAY/TATA POWER/MOBILE RECHARGE",
+   "debit": 2252.0,
+   "credit": null,
+   "balance": -173835.35
+  },
+  {
+   "date": "2026-06-13",
+   "description": "UPI/DR/963992597008/RAM TRADERS/KAPDE",
+   "debit": 2216.0,
+   "credit": null,
+   "balance": -176051.35
+  },
+  {
+   "date": "2026-06-16",
+   "description": "UPI/DR/439411480213/JIO/MOBILE RECHARGE",
+   "debit": 299.0,
+   "credit": null,
+   "balance": -176350.35
+  },
+  {
+   "date": "2026-06-21",
+   "description": "UPI/DR/640306802310/CRED/कार्ड बिल",
+   "debit": 23381.0,
+   "credit": null,
+   "balance": -199731.35
+  },
+  {
+   "date": "2026-06-21",
+   "description": "UPI/DR/607543399905/GUPTA MEDICAL/DAWAI",
+   "debit": 3278.0,
+   "credit": null,
+   "balance": -203009.35
+  },
+  {
+   "date": "2026-06-24",
+   "description": "एटीएम निकासी/ATM लखनऊ",
+   "debit": 2000.0,
+   "credit": null,
+   "balance": -205009.35
+  },
+  {
+   "date": "2026-06-25",
+   "description": "UPI/DR/817611517066/NEHA KAPOOR/MEDICINE",
+   "debit": 4491.0,
+   "credit": null,
+   "balance": -209500.35
+  },
+  {
+   "date": "2026-06-28",
+   "description": "UPI/DR/634909561248/NEHA KAPOOR/VEGETABLES",
+   "debit": 2364.0,
+   "credit": null,
+   "balance": -211864.35
+  },
+  {
+   "date": "2026-06-30",
+   "description": "बचत ब्याज/Q2",
+   "debit": null,
+   "credit": 749.0,
+   "balance": -211115.35
+  },
+  {
+   "date": "2026-06-30",
+   "description": "न्यूनतम शेष शुल्क/Q2",
+   "debit": 59.0,
+   "credit": null,
+   "balance": -211174.35
+  }
+ ]
+}

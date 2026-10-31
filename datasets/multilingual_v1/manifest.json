@@ -1,0 +1,411 @@
+[
+ {
+  "id": "ml01",
+  "split": "dev",
+  "name": "Arjun Rao: IT engineer, Bengaluru",
+  "profile": "SALARIED",
+  "languages": {
+   "en": 0.6,
+   "hi-Latn": 0.25,
+   "hi": 0.15
+  },
+  "files": [
+   "ml01_primary.csv",
+   "ml01_second.xlsx"
+  ],
+  "n_transactions": 129,
+  "true_monthly_income": [
+   12843475,
+   12885358,
+   12864525,
+   12718919,
+   12683003,
+   12752802
+  ],
+  "true_income_median": 12798138,
+  "expected_flags": []
+ },
+ {
+  "id": "ml02",
+  "split": "dev",
+  "name": "Hetal Shah: teacher, Ahmedabad",
+  "profile": "SALARIED",
+  "languages": {
+   "gu": 0.65,
+   "en": 0.35
+  },
+  "files": [
+   "ml02_primary.xlsx"
+  ],
+  "n_transactions": 98,
+  "true_monthly_income": [
+   4878775,
+   4829341,
+   4846706,
+   4824491,
+   4834752,
+   4894060
+  ],
+  "true_income_median": 4840729,
+  "expected_flags": []
+ },
+ {
+  "id": "ml03",
+  "split": "dev",
+  "name": "Ram Prasad Mishra: clerk, Lucknow",
+  "profile": "SALARIED",
+  "languages": {
+   "hi": 0.6,
+   "hi-Latn": 0.2,
+   "en": 0.2
+  },
+  "files": [
+   "ml03_primary.json"
+  ],
+  "n_transactions": 90,
+  "true_monthly_income": [
+   4201760,
+   4187306,
+   4169615,
+   4194109,
+   4176986,
+   4187942
+  ],
+  "true_income_median": 4187624,
+  "expected_flags": []
+ },
+ {
+  "id": "ml04",
+  "split": "dev",
+  "name": "Kavitha Raman: nurse, Chennai",
+  "profile": "SALARIED",
+  "languages": {
+   "ta": 0.65,
+   "en": 0.35
+  },
+  "files": [
+   "ml04_primary.csv"
+  ],
+  "n_transactions": 96,
+  "true_monthly_income": [
+   4649753,
+   4642507,
+   4622408,
+   4635502,
+   4641410,
+   4622921
+  ],
+  "true_income_median": 4638456,
+  "expected_flags": []
+ },
+ {
+  "id": "ml05",
+  "split": "dev",
+  "name": "Bhavesh Patel: kirana shop, Surat",
+  "profile": "SELF_EMPLOYED",
+  "languages": {
+   "gu": 0.7,
+   "en": 0.3
+  },
+  "files": [
+   "ml05_primary.xlsx"
+  ],
+  "n_transactions": 323,
+  "true_monthly_income": [
+   30999998,
+   29500002,
+   32999996,
+   30000000,
+   28499999,
+   31499999
+  ],
+  "true_income_median": 30499999,
+  "expected_flags": []
+ },
+ {
+  "id": "ml06",
+  "split": "dev",
+  "name": "Selvam Textiles: trader, Coimbatore",
+  "profile": "SELF_EMPLOYED",
+  "languages": {
+   "ta": 0.55,
+   "en": 0.45
+  },
+  "files": [
+   "ml06_primary.json",
+   "ml06_second.csv"
+  ],
+  "n_transactions": 271,
+  "true_monthly_income": [
+   82000001,
+   75999998,
+   84000002,
+   61000000,
+   51999998,
+   46999998
+  ],
+  "true_income_median": 68499999,
+  "expected_flags": [
+   "income_decline",
+   "large_cash_deposit",
+   "returned_payment"
+  ]
+ },
+ {
+  "id": "ml07",
+  "split": "dev",
+  "name": "Imran Khan: cab driver, Delhi",
+  "profile": "SELF_EMPLOYED",
+  "languages": {
+   "hi-Latn": 0.45,
+   "hi": 0.35,
+   "en": 0.2
+  },
+  "files": [
+   "ml07_primary.csv"
+  ],
+  "n_transactions": 230,
+  "true_monthly_income": [
+   5199999,
+   4800002,
+   5500001,
+   3899998,
+   3599999,
+   3399998
+  ],
+  "true_income_median": 4350000,
+  "expected_flags": [
+   "income_decline"
+  ]
+ },
+ {
+  "id": "ml08",
+  "split": "dev",
+  "name": "Mixed-script household, Mumbai",
+  "profile": "SALARIED",
+  "languages": {
+   "en": 0.25,
+   "hi": 0.2,
+   "hi-Latn": 0.2,
+   "gu": 0.2,
+   "ta": 0.15
+  },
+  "files": [
+   "ml08_primary.xlsx",
+   "ml08_second.json"
+  ],
+  "n_transactions": 134,
+  "true_monthly_income": [
+   7243270,
+   7145526,
+   7190059,
+   7163346,
+   7239878,
+   7210669
+  ],
+  "true_income_median": 7200364,
+  "expected_flags": []
+ },
+ {
+  "id": "ml09",
+  "split": "test",
+  "name": "Pooja Iyer: analyst, Pune",
+  "profile": "SALARIED",
+  "languages": {
+   "en": 0.55,
+   "hi-Latn": 0.3,
+   "hi": 0.15
+  },
+  "files": [
+   "ml09_primary.json",
+   "ml09_second.csv"
+  ],
+  "n_transactions": 129,
+  "true_monthly_income": [
+   12917350,
+   12873973,
+   12716738,
+   12843405,
+   12833791,
+   12753742
+  ],
+  "true_income_median": 12838598,
+  "expected_flags": []
+ },
+ {
+  "id": "ml10",
+  "split": "test",
+  "name": "Jignesh Mehta: bank officer, Rajkot",
+  "profile": "SALARIED",
+  "languages": {
+   "gu": 0.7,
+   "en": 0.3
+  },
+  "files": [
+   "ml10_primary.csv"
+  ],
+  "n_transactions": 98,
+  "true_monthly_income": [
+   4818979,
+   4873663,
+   4877775,
+   4820431,
+   4839290,
+   4802465
+  ],
+  "true_income_median": 4829860,
+  "expected_flags": []
+ },
+ {
+  "id": "ml11",
+  "split": "test",
+  "name": "Sunita Devi: pensioner, Varanasi",
+  "profile": "SALARIED",
+  "languages": {
+   "hi": 0.75,
+   "en": 0.25
+  },
+  "files": [
+   "ml11_primary.xlsx"
+  ],
+  "n_transactions": 67,
+  "true_monthly_income": [
+   3110602,
+   3117093,
+   3075959,
+   3115770,
+   3107871,
+   3071517
+  ],
+  "true_income_median": 3109236,
+  "expected_flags": []
+ },
+ {
+  "id": "ml12",
+  "split": "test",
+  "name": "Dr. Senthil Kumar: clinic, Madurai",
+  "profile": "SELF_EMPLOYED",
+  "languages": {
+   "ta": 0.6,
+   "en": 0.4
+  },
+  "files": [
+   "ml12_primary.json"
+  ],
+  "n_transactions": 312,
+  "true_monthly_income": [
+   41999999,
+   45500000,
+   40999999,
+   46999997,
+   43999999,
+   45999999
+  ],
+  "true_income_median": 44749999,
+  "expected_flags": []
+ },
+ {
+  "id": "ml13",
+  "split": "test",
+  "name": "Ambika Industries: manufacturer, Rajkot",
+  "profile": "SELF_EMPLOYED",
+  "languages": {
+   "gu": 0.6,
+   "en": 0.4
+  },
+  "files": [
+   "ml13_primary.csv"
+  ],
+  "n_transactions": 227,
+  "true_monthly_income": [
+   145000001,
+   138000001,
+   152000000,
+   148999998,
+   129999999,
+   141000000
+  ],
+  "true_income_median": 143000000,
+  "expected_flags": [
+   "large_cash_deposit"
+  ]
+ },
+ {
+  "id": "ml14",
+  "split": "test",
+  "name": "Murugan Agro: farm trader, Thanjavur",
+  "profile": "SELF_EMPLOYED",
+  "languages": {
+   "ta": 0.75,
+   "en": 0.25
+  },
+  "files": [
+   "ml14_primary.xlsx"
+  ],
+  "n_transactions": 158,
+  "true_monthly_income": [
+   68000000,
+   12000001,
+   8999999,
+   61000000,
+   14000000,
+   8000001
+  ],
+  "true_income_median": 13000000,
+  "expected_flags": []
+ },
+ {
+  "id": "ml15",
+  "split": "test",
+  "name": "Deepak Saini: stressed borrower, Jaipur",
+  "profile": "SALARIED",
+  "languages": {
+   "hi": 0.4,
+   "hi-Latn": 0.35,
+   "en": 0.25
+  },
+  "files": [
+   "ml15_primary.json"
+  ],
+  "n_transactions": 113,
+  "true_monthly_income": [
+   5172884,
+   5243345,
+   5186742,
+   4153026,
+   4183868,
+   0
+  ],
+  "true_income_median": 4678376,
+  "expected_flags": [
+   "income_decline",
+   "missed_salary",
+   "returned_payment"
+  ]
+ },
+ {
+  "id": "ml16",
+  "split": "test",
+  "name": "Freelance designer, Indore",
+  "profile": "SELF_EMPLOYED",
+  "languages": {
+   "hi": 0.35,
+   "hi-Latn": 0.35,
+   "en": 0.3
+  },
+  "files": [
+   "ml16_primary.csv"
+  ],
+  "n_transactions": 76,
+  "true_monthly_income": [
+   9500000,
+   3000000,
+   14000000,
+   6000000,
+   20000,
+   12000000
+  ],
+  "true_income_median": 7750000,
+  "expected_flags": []
+ }
+]

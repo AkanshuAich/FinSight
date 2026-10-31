@@ -1,0 +1,2498 @@
+[
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-01",
+  "debit": 0,
+  "credit": 9250000,
+  "description": "NEFT/ACME SOFTWARE PVT LTD/SALARY JAN26/N1043321819",
+  "category": "SALARY"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-02",
+  "debit": 0,
+  "credit": 5000000,
+  "description": "IMPS/P2A/ROHAN MALHOTRA/MERIDIAN BANK/600133890838",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-03",
+  "debit": 176300,
+  "credit": 0,
+  "description": "UPI/AMAZON PAY/amazon@apl/184514627048",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-04",
+  "debit": 45100,
+  "credit": 0,
+  "description": "UPI/ZOMATO/zomato@hdfcbank/564139537672",
+  "category": "FOOD_DINING"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-04",
+  "debit": 483200,
+  "credit": 0,
+  "description": "UPI/AMAZON PAY/amazon@apl/122691669784",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-05",
+  "debit": 1245000,
+  "credit": 0,
+  "description": "NACH/DR/BAJAJ FINANCE LTD/LN00045821",
+  "category": "LOAN_EMI"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-06",
+  "debit": 290100,
+  "credit": 0,
+  "description": "UPI/DMART/dmart@ybl/489325288095",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-07",
+  "debit": 2400000,
+  "credit": 0,
+  "description": "IMPS/P2A/SUNITA KAPOOR/RENT JAN/637940265423",
+  "category": "RENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-10",
+  "debit": 1000000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/ZERODHA COIN",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-10",
+  "debit": 27300,
+  "credit": 0,
+  "description": "UPI/ZOMATO/zomato@hdfcbank/884969653287",
+  "category": "FOOD_DINING"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-12",
+  "debit": 123800,
+  "credit": 0,
+  "description": "BILLPAY/BESCOM/ELEC/511615594",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-14",
+  "debit": 217200,
+  "credit": 0,
+  "description": "UPI/ANKIT VERMA/9845075255@ybl/DINNER SPLIT",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-15",
+  "debit": 79900,
+  "credit": 0,
+  "description": "UPI/AIRTEL POSTPAID/airtel@ybl/781618495931",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-20",
+  "debit": 1475000,
+  "credit": 0,
+  "description": "CRED/CREDIT CARD BILL/HDFC XX4417",
+  "category": "CARD_PAYMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-22",
+  "debit": 1000000,
+  "credit": 0,
+  "description": "ATM WDL/NWB ATM KORAMANGALA/341316",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-01-25",
+  "debit": 102900,
+  "credit": 0,
+  "description": "UPI/BIGBASKET/bigbasket@axisbank/192832764835",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-01",
+  "debit": 0,
+  "credit": 9250000,
+  "description": "NEFT/ACME SOFTWARE PVT LTD/SALARY FEB26/N0154303911",
+  "category": "SALARY"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-02",
+  "debit": 0,
+  "credit": 5000000,
+  "description": "IMPS/P2A/ROHAN MALHOTRA/MERIDIAN BANK/718227824896",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-05",
+  "debit": 1245000,
+  "credit": 0,
+  "description": "NACH/DR/BAJAJ FINANCE LTD/LN00045821",
+  "category": "LOAN_EMI"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-07",
+  "debit": 2400000,
+  "credit": 0,
+  "description": "IMPS/P2A/SUNITA KAPOOR/RENT FEB/383465787133",
+  "category": "RENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-10",
+  "debit": 1000000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/ZERODHA COIN",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-10",
+  "debit": 459900,
+  "credit": 0,
+  "description": "UPI/AMAZON PAY/amazon@apl/808760385977",
+  "category": "REFUND_REVERSAL"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-11",
+  "debit": 59600,
+  "credit": 0,
+  "description": "UPI/ZOMATO/zomato@hdfcbank/731781080132",
+  "category": "FOOD_DINING"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-12",
+  "debit": 129500,
+  "credit": 0,
+  "description": "BILLPAY/BESCOM/ELEC/150983930",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-15",
+  "debit": 79900,
+  "credit": 0,
+  "description": "UPI/AIRTEL POSTPAID/airtel@ybl/031051834738",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-16",
+  "debit": 0,
+  "credit": 459900,
+  "description": "UPI/REFUND/AMAZON PAY/808760385977",
+  "category": "REFUND_REVERSAL"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-18",
+  "debit": 51800,
+  "credit": 0,
+  "description": "UPI/UBER INDIA/uber@hdfcbank/360260647468",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-18",
+  "debit": 247600,
+  "credit": 0,
+  "description": "UPI/HPCL FUEL/hpcl@sbi/234309805009",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-19",
+  "debit": 190800,
+  "credit": 0,
+  "description": "UPI/DMART/dmart@ybl/208121913619",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-20",
+  "debit": 1616700,
+  "credit": 0,
+  "description": "CRED/CREDIT CARD BILL/HDFC XX4417",
+  "category": "CARD_PAYMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-21",
+  "debit": 175600,
+  "credit": 0,
+  "description": "UPI/ANKIT VERMA/9845011656@ybl/DINNER SPLIT",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-22",
+  "debit": 500000,
+  "credit": 0,
+  "description": "ATM WDL/NWB ATM KORAMANGALA/997376",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-22",
+  "debit": 198700,
+  "credit": 0,
+  "description": "UPI/DMART/dmart@ybl/091699854353",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-02-26",
+  "debit": 375600,
+  "credit": 0,
+  "description": "UPI/AMAZON PAY/amazon@apl/010651333872",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-01",
+  "debit": 0,
+  "credit": 9250000,
+  "description": "NEFT/ACME SOFTWARE PVT LTD/SALARY MAR26/N6247510799",
+  "category": "SALARY"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-02",
+  "debit": 0,
+  "credit": 5000000,
+  "description": "IMPS/P2A/ROHAN MALHOTRA/MERIDIAN BANK/118384251354",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-05",
+  "debit": 1245000,
+  "credit": 0,
+  "description": "NACH/DR/BAJAJ FINANCE LTD/LN00045821",
+  "category": "LOAN_EMI"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-06",
+  "debit": 231600,
+  "credit": 0,
+  "description": "UPI/HPCL FUEL/hpcl@sbi/607337543303",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-06",
+  "debit": 19500,
+  "credit": 0,
+  "description": "UPI/SWIGGY/swiggy@icici/965569816934",
+  "category": "FOOD_DINING"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-07",
+  "debit": 2400000,
+  "credit": 0,
+  "description": "IMPS/P2A/SUNITA KAPOOR/RENT MAR/278498084124",
+  "category": "RENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-07",
+  "debit": 448200,
+  "credit": 0,
+  "description": "UPI/DMART/dmart@ybl/620450533158",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-10",
+  "debit": 1000000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/ZERODHA COIN",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-11",
+  "debit": 188700,
+  "credit": 0,
+  "description": "UPI/BIGBASKET/bigbasket@axisbank/145868501429",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-12",
+  "debit": 156600,
+  "credit": 0,
+  "description": "BILLPAY/BESCOM/ELEC/118244935",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-15",
+  "debit": 79900,
+  "credit": 0,
+  "description": "UPI/AIRTEL POSTPAID/airtel@ybl/487401640052",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-16",
+  "debit": 253800,
+  "credit": 0,
+  "description": "UPI/HPCL FUEL/hpcl@sbi/088356159514",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-19",
+  "debit": 199200,
+  "credit": 0,
+  "description": "UPI/ANKIT VERMA/9845011280@ybl/DINNER SPLIT",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-20",
+  "debit": 2443800,
+  "credit": 0,
+  "description": "CRED/CREDIT CARD BILL/HDFC XX4417",
+  "category": "CARD_PAYMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-22",
+  "debit": 500000,
+  "credit": 0,
+  "description": "ATM WDL/NWB ATM KORAMANGALA/427868",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-22",
+  "debit": 58300,
+  "credit": 0,
+  "description": "UPI/UBER INDIA/uber@hdfcbank/232260256342",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-03-31",
+  "debit": 0,
+  "credit": 186500,
+  "description": "INT.PD:01-01-2026 TO 31-03-2026",
+  "category": "INTEREST"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-01",
+  "debit": 0,
+  "credit": 9620000,
+  "description": "NEFT/ACME TECHNOLOGIES/RAZORPAYX/APR26/N4656482366",
+  "category": "SALARY"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-02",
+  "debit": 0,
+  "credit": 5000000,
+  "description": "IMPS/P2A/ROHAN MALHOTRA/MERIDIAN BANK/299468044369",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-05",
+  "debit": 1245000,
+  "credit": 0,
+  "description": "NACH/DR/BAJAJ FINANCE LTD/LN00045821",
+  "category": "LOAN_EMI"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-05",
+  "debit": 260300,
+  "credit": 0,
+  "description": "UPI/DMART/dmart@ybl/223623166587",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-07",
+  "debit": 2400000,
+  "credit": 0,
+  "description": "IMPS/P2A/SUNITA KAPOOR/RENT APR/957773872148",
+  "category": "RENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-09",
+  "debit": 70100,
+  "credit": 0,
+  "description": "UPI/SWIGGY/swiggy@icici/669096705466",
+  "category": "FOOD_DINING"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-10",
+  "debit": 1000000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/ZERODHA COIN",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-12",
+  "debit": 124400,
+  "credit": 0,
+  "description": "BILLPAY/BESCOM/ELEC/951343320",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-12",
+  "debit": 244100,
+  "credit": 0,
+  "description": "UPI/ANKIT VERMA/9845008317@ybl/DINNER SPLIT",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-15",
+  "debit": 79900,
+  "credit": 0,
+  "description": "UPI/AIRTEL POSTPAID/airtel@ybl/379176936763",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-17",
+  "debit": 36600,
+  "credit": 0,
+  "description": "UPI/ZOMATO/zomato@hdfcbank/298069901627",
+  "category": "FOOD_DINING"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-20",
+  "debit": 1641700,
+  "credit": 0,
+  "description": "CRED/CREDIT CARD BILL/HDFC XX4417",
+  "category": "CARD_PAYMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-22",
+  "debit": 1000000,
+  "credit": 0,
+  "description": "ATM WDL/NWB ATM KORAMANGALA/016328",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-24",
+  "debit": 41000,
+  "credit": 0,
+  "description": "UPI/UBER INDIA/uber@hdfcbank/889579868727",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-26",
+  "debit": 298300,
+  "credit": 0,
+  "description": "UPI/HPCL FUEL/hpcl@sbi/893734670656",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-04-27",
+  "debit": 210900,
+  "credit": 0,
+  "description": "UPI/BIGBASKET/bigbasket@axisbank/348734714345",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-01",
+  "debit": 0,
+  "credit": 9620000,
+  "description": "NEFT/ACME TECHNOLOGIES/RAZORPAYX/MAY26/N0465375564",
+  "category": "SALARY"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-02",
+  "debit": 0,
+  "credit": 5000000,
+  "description": "IMPS/P2A/ROHAN MALHOTRA/MERIDIAN BANK/641708053100",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-05",
+  "debit": 1245000,
+  "credit": 0,
+  "description": "NACH/DR/BAJAJ FINANCE LTD/LN00045821",
+  "category": "LOAN_EMI"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-07",
+  "debit": 2400000,
+  "credit": 0,
+  "description": "IMPS/P2A/SUNITA KAPOOR/RENT MAY/330923271937",
+  "category": "RENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-09",
+  "debit": 54800,
+  "credit": 0,
+  "description": "UPI/UBER INDIA/uber@hdfcbank/545494808313",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-10",
+  "debit": 1000000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/ZERODHA COIN",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-10",
+  "debit": 154400,
+  "credit": 0,
+  "description": "UPI/BIGBASKET/bigbasket@axisbank/147379965075",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-11",
+  "debit": 168700,
+  "credit": 0,
+  "description": "UPI/ANKIT VERMA/9845085067@ybl/DINNER SPLIT",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-12",
+  "debit": 120200,
+  "credit": 0,
+  "description": "BILLPAY/BESCOM/ELEC/452991241",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-14",
+  "debit": 184400,
+  "credit": 0,
+  "description": "UPI/DMART/dmart@ybl/788568557444",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-14",
+  "debit": 219900,
+  "credit": 0,
+  "description": "UPI/FLIPKART/flipkart@axisbank/034824771093",
+  "category": "REFUND_REVERSAL"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-14",
+  "debit": 0,
+  "credit": 219900,
+  "description": "REV-UPI/FLIPKART/034824771093/TXN FAILED",
+  "category": "REFUND_REVERSAL"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-15",
+  "debit": 79900,
+  "credit": 0,
+  "description": "UPI/AIRTEL POSTPAID/airtel@ybl/496631931491",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-18",
+  "debit": 51900,
+  "credit": 0,
+  "description": "UPI/UBER INDIA/uber@hdfcbank/837770143634",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-20",
+  "debit": 2704500,
+  "credit": 0,
+  "description": "CRED/CREDIT CARD BILL/HDFC XX4417",
+  "category": "CARD_PAYMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-22",
+  "debit": 500000,
+  "credit": 0,
+  "description": "ATM WDL/NWB ATM KORAMANGALA/905865",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-23",
+  "debit": 189900,
+  "credit": 0,
+  "description": "UPI/BIGBASKET/bigbasket@axisbank/726284987769",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-05-26",
+  "debit": 43900,
+  "credit": 0,
+  "description": "UPI/SWIGGY/swiggy@icici/351823374989",
+  "category": "FOOD_DINING"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-01",
+  "debit": 0,
+  "credit": 9620000,
+  "description": "NEFT/ACME TECHNOLOGIES/RAZORPAYX/JUN26/N1343524082",
+  "category": "SALARY"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-02",
+  "debit": 0,
+  "credit": 5000000,
+  "description": "IMPS/P2A/ROHAN MALHOTRA/MERIDIAN BANK/400842710947",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-03",
+  "debit": 45000,
+  "credit": 0,
+  "description": "UPI/ZOMATO/zomato@hdfcbank/679740344713",
+  "category": "FOOD_DINING"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-04",
+  "debit": 106400,
+  "credit": 0,
+  "description": "UPI/DMART/dmart@ybl/659401399049",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-05",
+  "debit": 1245000,
+  "credit": 0,
+  "description": "NACH/DR/BAJAJ FINANCE LTD/LN00045821",
+  "category": "LOAN_EMI"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-07",
+  "debit": 2400000,
+  "credit": 0,
+  "description": "IMPS/P2A/SUNITA KAPOOR/RENT JUN/775204711671",
+  "category": "RENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-10",
+  "debit": 1000000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/ZERODHA COIN",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-12",
+  "debit": 229200,
+  "credit": 0,
+  "description": "BILLPAY/BESCOM/ELEC/902294131",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-13",
+  "debit": 183300,
+  "credit": 0,
+  "description": "UPI/BIGBASKET/bigbasket@axisbank/125674680715",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-15",
+  "debit": 79900,
+  "credit": 0,
+  "description": "UPI/AIRTEL POSTPAID/airtel@ybl/699938677496",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-18",
+  "debit": 0,
+  "credit": 24000000,
+  "description": "CASH DEPOSIT/BR 0412 KORAMANGALA",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-20",
+  "debit": 1900300,
+  "credit": 0,
+  "description": "CRED/CREDIT CARD BILL/HDFC XX4417",
+  "category": "CARD_PAYMENT"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-22",
+  "debit": 500000,
+  "credit": 0,
+  "description": "ATM WDL/NWB ATM KORAMANGALA/990913",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-25",
+  "debit": 95300,
+  "credit": 0,
+  "description": "UPI/ANKIT VERMA/9845041232@ybl/DINNER SPLIT",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-26",
+  "debit": 122900,
+  "credit": 0,
+  "description": "UPI/DMART/dmart@ybl/947174648877",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-27",
+  "debit": 364500,
+  "credit": 0,
+  "description": "UPI/AMAZON PAY/amazon@apl/278742967175",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-28",
+  "debit": 281900,
+  "credit": 0,
+  "description": "UPI/AMAZON PAY/amazon@apl/936183242102",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-30",
+  "debit": 0,
+  "credit": 209500,
+  "description": "INT.PD:01-04-2026 TO 30-06-2026",
+  "category": "INTEREST"
+ },
+ {
+  "account_number": "50100234567812",
+  "date": "2026-06-30",
+  "debit": 0,
+  "credit": 10000000,
+  "description": "NEFT/RAKESH K SHARMA/N2480861317",
+  "category": "OTHER_CREDIT"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-01-02",
+  "debit": 5000000,
+  "credit": 0,
+  "description": "IMPS/P2A/TO ROHAN MALHOTRA/NORTHWIND 50100234567812/600133890838",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-01-20",
+  "debit": 0,
+  "credit": 124000,
+  "description": "NEFT/DIVIDEND/INFOSYS LTD/FY26 INTERIM",
+  "category": "OTHER_CREDIT"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-01-25",
+  "debit": 320000,
+  "credit": 0,
+  "description": "UPI/LIC OF INDIA/lic@sbi/PREMIUM JAN",
+  "category": "INSURANCE"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-02-02",
+  "debit": 5000000,
+  "credit": 0,
+  "description": "IMPS/P2A/TO ROHAN MALHOTRA/NORTHWIND 50100234567812/718227824896",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-02-25",
+  "debit": 320000,
+  "credit": 0,
+  "description": "UPI/LIC OF INDIA/lic@sbi/PREMIUM FEB",
+  "category": "INSURANCE"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-04-02",
+  "debit": 5000000,
+  "credit": 0,
+  "description": "IMPS/P2A/TO ROHAN MALHOTRA/NORTHWIND 50100234567812/299468044369",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-04-15",
+  "debit": 0,
+  "credit": 15000000,
+  "description": "FD MATURITY/FD NO 4471200/PROCEEDS",
+  "category": "OTHER_CREDIT"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-04-25",
+  "debit": 320000,
+  "credit": 0,
+  "description": "UPI/LIC OF INDIA/lic@sbi/PREMIUM APR",
+  "category": "INSURANCE"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-05-02",
+  "debit": 5000000,
+  "credit": 0,
+  "description": "IMPS/P2A/TO ROHAN MALHOTRA/NORTHWIND 50100234567812/641708053100",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-05-25",
+  "debit": 320000,
+  "credit": 0,
+  "description": "UPI/LIC OF INDIA/lic@sbi/PREMIUM MAY",
+  "category": "INSURANCE"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-06-02",
+  "debit": 5000000,
+  "credit": 0,
+  "description": "IMPS/P2A/TO ROHAN MALHOTRA/NORTHWIND 50100234567812/400842710947",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-06-25",
+  "debit": 320000,
+  "credit": 0,
+  "description": "UPI/LIC OF INDIA/lic@sbi/PREMIUM JUN",
+  "category": "INSURANCE"
+ },
+ {
+  "account_number": "917020045678",
+  "date": "2026-06-30",
+  "debit": 0,
+  "credit": 280600,
+  "description": "SB INTEREST CREDIT",
+  "category": "INTEREST"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-01",
+  "debit": 1454100,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/SURESH K",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-01",
+  "debit": 1722100,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/MEENA R",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-01",
+  "debit": 1620900,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/ARUN P",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-02",
+  "debit": 0,
+  "credit": 2347600,
+  "description": "UPI/PRIYA FOODS/priya54@okaxis/588675339636",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-03",
+  "debit": 4000000,
+  "credit": 0,
+  "description": "IMPS/KAVYA IYER/OWN SB AC/588424745171",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-05",
+  "debit": 3500000,
+  "credit": 0,
+  "description": "IMPS/MANOJ REDDY/SHOP RENT JAN/236851604817",
+  "category": "RENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-05",
+  "debit": 0,
+  "credit": 5206900,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-06",
+  "debit": 8955000,
+  "credit": 0,
+  "description": "NEFT/SHREE BALAJI WHOLESALE/PO4640",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-07",
+  "debit": 0,
+  "credit": 929100,
+  "description": "UPI/GUPTA AGENCIES/gupta90@okaxis/047095214562",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-08",
+  "debit": 0,
+  "credit": 6795600,
+  "description": "NEFT/LAKSHMI BAKERY/INV2170",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-10",
+  "debit": 0,
+  "credit": 4929300,
+  "description": "UPI/MURUGAN PROVISIONS/murugan64@okaxis/474367136959",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-11",
+  "debit": 0,
+  "credit": 6389000,
+  "description": "IMPS/RAJESH GENERAL STORES/621745961586",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-12",
+  "debit": 0,
+  "credit": 4166700,
+  "description": "IMPS/SV SUPERMARKET/611724005045",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-13",
+  "debit": 13986400,
+  "credit": 0,
+  "description": "NEFT/HINDUSTAN AGRO SUPPLIES/PO4797",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-14",
+  "debit": 859900,
+  "credit": 0,
+  "description": "BILLPAY/TNEB/5496513709",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-15",
+  "debit": 0,
+  "credit": 5414000,
+  "description": "UPI/SV SUPERMARKET/sv84@okaxis/237474074821",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-17",
+  "debit": 0,
+  "credit": 1939600,
+  "description": "UPI/GUPTA AGENCIES/gupta47@okaxis/846773782639",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-17",
+  "debit": 0,
+  "credit": 4570400,
+  "description": "IMPS/PRIYA FOODS/662702895171",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-19",
+  "debit": 0,
+  "credit": 6045000,
+  "description": "NEFT/GUPTA AGENCIES/INV2521",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-20",
+  "debit": 0,
+  "credit": 3416200,
+  "description": "NEFT/CITY MART/INV2294",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-20",
+  "debit": 2480000,
+  "credit": 0,
+  "description": "GST PAYMENT/CBIC/CPIN59317461200471",
+  "category": "TAX"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-20",
+  "debit": 13873300,
+  "credit": 0,
+  "description": "NEFT/ITC LTD DISTRIBUTOR/PO4953",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-21",
+  "debit": 0,
+  "credit": 4674600,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-25",
+  "debit": 0,
+  "credit": 4269600,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/64090974",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-25",
+  "debit": 14646000,
+  "credit": 0,
+  "description": "NEFT/VIJAY OIL MILLS/PO4824",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-28",
+  "debit": 0,
+  "credit": 2189200,
+  "description": "NEFT/ANAND ENTERPRISES/INV2908",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-28",
+  "debit": 0,
+  "credit": 5838700,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/84044997",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-01-28",
+  "debit": 0,
+  "credit": 2760000,
+  "description": "NEFT/GUPTA AGENCIES/INV2724",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-01",
+  "debit": 1648600,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/SURESH K",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-01",
+  "debit": 1581000,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/MEENA R",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-01",
+  "debit": 1569600,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/ARUN P",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-02",
+  "debit": 0,
+  "credit": 3518600,
+  "description": "NEFT/CITY MART/INV2371",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-03",
+  "debit": 0,
+  "credit": 6616300,
+  "description": "NEFT/ANAND ENTERPRISES/INV2187",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-03",
+  "debit": 4000000,
+  "credit": 0,
+  "description": "IMPS/KAVYA IYER/OWN SB AC/438156149784",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-05",
+  "debit": 3500000,
+  "credit": 0,
+  "description": "IMPS/MANOJ REDDY/SHOP RENT FEB/036900343244",
+  "category": "RENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-05",
+  "debit": 0,
+  "credit": 3594500,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-08",
+  "debit": 0,
+  "credit": 50000000,
+  "description": "NEFT/TATA CAPITAL FINANCIAL/LOAN DISB/BL0098812",
+  "category": "LOAN_DISBURSAL"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-09",
+  "debit": 12877400,
+  "credit": 0,
+  "description": "NEFT/SHREE BALAJI WHOLESALE/PO4696",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-10",
+  "debit": 0,
+  "credit": 2061400,
+  "description": "UPI/NEW INDIA STORES/new18@okaxis/775891783908",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-10",
+  "debit": 0,
+  "credit": 5902800,
+  "description": "NEFT/PRIYA FOODS/INV2478",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-12",
+  "debit": 0,
+  "credit": 3453900,
+  "description": "IMPS/CITY MART/904228421020",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-12",
+  "debit": 0,
+  "credit": 4051200,
+  "description": "IMPS/SV SUPERMARKET/899809402445",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-12",
+  "debit": 32000000,
+  "credit": 0,
+  "description": "RTGS/HINDUSTAN AGRO SUPPLIES/BULK STOCK PO4391",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-13",
+  "debit": 0,
+  "credit": 480000,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/96120183",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-14",
+  "debit": 809800,
+  "credit": 0,
+  "description": "BILLPAY/TNEB/5107622683",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-15",
+  "debit": 13564200,
+  "credit": 0,
+  "description": "NEFT/HINDUSTAN AGRO SUPPLIES/PO4421",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-15",
+  "debit": 0,
+  "credit": 5859200,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-16",
+  "debit": 0,
+  "credit": 924700,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/22901476",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-19",
+  "debit": 14759700,
+  "credit": 0,
+  "description": "NEFT/ITC LTD DISTRIBUTOR/PO4871",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-20",
+  "debit": 2480000,
+  "credit": 0,
+  "description": "GST PAYMENT/CBIC/CPIN85160607159696",
+  "category": "TAX"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-22",
+  "debit": 0,
+  "credit": 7626400,
+  "description": "UPI/SV SUPERMARKET/sv39@okaxis/657661565452",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-23",
+  "debit": 0,
+  "credit": 5664000,
+  "description": "UPI/NEW INDIA STORES/new72@okaxis/711592124998",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-25",
+  "debit": 0,
+  "credit": 1074300,
+  "description": "UPI/MURUGAN PROVISIONS/murugan55@okaxis/198327315851",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-26",
+  "debit": 13931000,
+  "credit": 0,
+  "description": "NEFT/VIJAY OIL MILLS/PO4490",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-28",
+  "debit": 0,
+  "credit": 6403600,
+  "description": "NEFT/RAJESH GENERAL STORES/INV2590",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-28",
+  "debit": 0,
+  "credit": 4662200,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/84789611",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-02-28",
+  "debit": 0,
+  "credit": 6060600,
+  "description": "IMPS/ANAND ENTERPRISES/528098851656",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-01",
+  "debit": 0,
+  "credit": 5461500,
+  "description": "UPI/ANAND ENTERPRISES/anand13@okaxis/515220472779",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-01",
+  "debit": 1406700,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/SURESH K",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-01",
+  "debit": 1658800,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/MEENA R",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-01",
+  "debit": 1611000,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/ARUN P",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-03",
+  "debit": 0,
+  "credit": 3017400,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/07581814",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-03",
+  "debit": 4000000,
+  "credit": 0,
+  "description": "IMPS/KAVYA IYER/OWN SB AC/932460953962",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-05",
+  "debit": 0,
+  "credit": 8006400,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/07935978",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-05",
+  "debit": 0,
+  "credit": 1438400,
+  "description": "NEFT/RAJESH GENERAL STORES/INV2955",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-05",
+  "debit": 3500000,
+  "credit": 0,
+  "description": "IMPS/MANOJ REDDY/SHOP RENT MAR/185188888067",
+  "category": "RENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-08",
+  "debit": 0,
+  "credit": 2501200,
+  "description": "UPI/MURUGAN PROVISIONS/murugan75@okaxis/261375060685",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-08",
+  "debit": 12643500,
+  "credit": 0,
+  "description": "NEFT/SHREE BALAJI WHOLESALE/PO4606",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-10",
+  "debit": 0,
+  "credit": 5537400,
+  "description": "UPI/GUPTA AGENCIES/gupta20@okaxis/486528168505",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-10",
+  "debit": 1785000,
+  "credit": 0,
+  "description": "ACH DR/TATA CAPITAL FINANCIAL/BL0098812",
+  "category": "LOAN_EMI"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-11",
+  "debit": 0,
+  "credit": 1210900,
+  "description": "NEFT/PRIYA FOODS/INV2957",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-11",
+  "debit": 0,
+  "credit": 4339400,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-13",
+  "debit": 13534100,
+  "credit": 0,
+  "description": "NEFT/HINDUSTAN AGRO SUPPLIES/PO4442",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-14",
+  "debit": 876600,
+  "credit": 0,
+  "description": "BILLPAY/TNEB/0654051531",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-15",
+  "debit": 0,
+  "credit": 1136200,
+  "description": "UPI/CITY MART/city49@okaxis/770054119986",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-16",
+  "debit": 0,
+  "credit": 2762700,
+  "description": "NEFT/SV SUPERMARKET/INV2884",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-18",
+  "debit": 0,
+  "credit": 3520300,
+  "description": "UPI/LAKSHMI BAKERY/lakshmi46@okaxis/341036971179",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-19",
+  "debit": 0,
+  "credit": 7798900,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/52717744",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-19",
+  "debit": 0,
+  "credit": 4835000,
+  "description": "IMPS/RAJESH GENERAL STORES/515186449251",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-20",
+  "debit": 2340000,
+  "credit": 0,
+  "description": "GST PAYMENT/CBIC/CPIN52058527722170",
+  "category": "TAX"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-20",
+  "debit": 13804900,
+  "credit": 0,
+  "description": "NEFT/ITC LTD DISTRIBUTOR/PO4927",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-22",
+  "debit": 0,
+  "credit": 2916600,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/21418880",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-23",
+  "debit": 0,
+  "credit": 2253700,
+  "description": "NEFT/CITY MART/INV2771",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-25",
+  "debit": 0,
+  "credit": 1505300,
+  "description": "UPI/LAKSHMI BAKERY/lakshmi15@okaxis/377889255466",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-25",
+  "debit": 0,
+  "credit": 4814000,
+  "description": "UPI/GUPTA AGENCIES/gupta29@okaxis/229270653794",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-26",
+  "debit": 0,
+  "credit": 3252400,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-27",
+  "debit": 0,
+  "credit": 6284100,
+  "description": "UPI/SV SUPERMARKET/sv49@okaxis/735977468862",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-27",
+  "debit": 12619900,
+  "credit": 0,
+  "description": "NEFT/VIJAY OIL MILLS/PO4659",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-03-31",
+  "debit": 5900,
+  "credit": 0,
+  "description": "SMS ALERT CHGS QTR",
+  "category": "BANK_CHARGES"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-01",
+  "debit": 0,
+  "credit": 4520700,
+  "description": "NEFT/MURUGAN PROVISIONS/INV2216",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-01",
+  "debit": 1642400,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/SURESH K",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-01",
+  "debit": 1785600,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/MEENA R",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-01",
+  "debit": 1637800,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/ARUN P",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-03",
+  "debit": 4000000,
+  "credit": 0,
+  "description": "IMPS/KAVYA IYER/OWN SB AC/229959001094",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-05",
+  "debit": 3500000,
+  "credit": 0,
+  "description": "IMPS/MANOJ REDDY/SHOP RENT APR/396907844736",
+  "category": "RENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-06",
+  "debit": 0,
+  "credit": 6673900,
+  "description": "UPI/LAKSHMI BAKERY/lakshmi62@okaxis/912517785289",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-06",
+  "debit": 0,
+  "credit": 4878800,
+  "description": "NEFT/LAKSHMI BAKERY/INV2756",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-06",
+  "debit": 13973200,
+  "credit": 0,
+  "description": "NEFT/SHREE BALAJI WHOLESALE/PO4673",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-08",
+  "debit": 0,
+  "credit": 8363500,
+  "description": "NEFT/PRIYA FOODS/INV2168",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-09",
+  "debit": 0,
+  "credit": 2091200,
+  "description": "UPI/NEW INDIA STORES/new17@okaxis/182422535841",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-10",
+  "debit": 0,
+  "credit": 2972900,
+  "description": "NEFT/LAKSHMI BAKERY/INV2740",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-10",
+  "debit": 1785000,
+  "credit": 0,
+  "description": "ACH DR/TATA CAPITAL FINANCIAL/BL0098812",
+  "category": "LOAN_EMI"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-12",
+  "debit": 0,
+  "credit": 5785900,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-13",
+  "debit": 0,
+  "credit": 5201500,
+  "description": "UPI/CITY MART/city82@okaxis/092755719285",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-13",
+  "debit": 12817200,
+  "credit": 0,
+  "description": "NEFT/HINDUSTAN AGRO SUPPLIES/PO4544",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-14",
+  "debit": 678600,
+  "credit": 0,
+  "description": "BILLPAY/TNEB/4710276773",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-15",
+  "debit": 0,
+  "credit": 2838500,
+  "description": "UPI/PRIYA FOODS/priya81@okaxis/144739473121",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-18",
+  "debit": 13758700,
+  "credit": 0,
+  "description": "NEFT/ITC LTD DISTRIBUTOR/PO4697",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-20",
+  "debit": 0,
+  "credit": 2681800,
+  "description": "UPI/CITY MART/city25@okaxis/323705895782",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-20",
+  "debit": 2600000,
+  "credit": 0,
+  "description": "GST PAYMENT/CBIC/CPIN92555625881537",
+  "category": "TAX"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-23",
+  "debit": 0,
+  "credit": 2663000,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/55188442",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-24",
+  "debit": 0,
+  "credit": 1530000,
+  "description": "NEFT/ANAND ENTERPRISES/INV2834",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-25",
+  "debit": 0,
+  "credit": 4049400,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-27",
+  "debit": 13023300,
+  "credit": 0,
+  "description": "NEFT/VIJAY OIL MILLS/PO4654",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-04-28",
+  "debit": 0,
+  "credit": 2584200,
+  "description": "UPI/PRIYA FOODS/priya15@okaxis/596401658202",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-01",
+  "debit": 1695400,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/SURESH K",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-01",
+  "debit": 1421000,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/MEENA R",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-01",
+  "debit": 1639000,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/ARUN P",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-03",
+  "debit": 4000000,
+  "credit": 0,
+  "description": "IMPS/KAVYA IYER/OWN SB AC/728962309130",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-05",
+  "debit": 3500000,
+  "credit": 0,
+  "description": "IMPS/MANOJ REDDY/SHOP RENT MAY/756263689702",
+  "category": "RENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-07",
+  "debit": 0,
+  "credit": 993000,
+  "description": "NEFT/NEW INDIA STORES/INV2675",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-07",
+  "debit": 11069900,
+  "credit": 0,
+  "description": "NEFT/SHREE BALAJI WHOLESALE/PO4900",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-08",
+  "debit": 0,
+  "credit": 6820500,
+  "description": "UPI/MURUGAN PROVISIONS/murugan12@okaxis/551694097499",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-10",
+  "debit": 1785000,
+  "credit": 0,
+  "description": "ACH DR/TATA CAPITAL FINANCIAL/BL0098812",
+  "category": "BOUNCE_RETURN"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-10",
+  "debit": 0,
+  "credit": 1785000,
+  "description": "ACH DR RTN/TATA CAPITAL FINANCIAL/BL0098812/INSUFFICIENT FUNDS",
+  "category": "BOUNCE_RETURN"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-11",
+  "debit": 0,
+  "credit": 2275600,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-11",
+  "debit": 59000,
+  "credit": 0,
+  "description": "ACH RTN CHARGES INCL GST",
+  "category": "BANK_CHARGES"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-13",
+  "debit": 0,
+  "credit": 8409000,
+  "description": "NEFT/ANAND ENTERPRISES/INV2199",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-14",
+  "debit": 836700,
+  "credit": 0,
+  "description": "BILLPAY/TNEB/8385786527",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-15",
+  "debit": 14336600,
+  "credit": 0,
+  "description": "NEFT/HINDUSTAN AGRO SUPPLIES/PO4757",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-17",
+  "debit": 0,
+  "credit": 5151600,
+  "description": "NEFT/LAKSHMI BAKERY/INV2495",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-17",
+  "debit": 0,
+  "credit": 5291500,
+  "description": "UPI/CITY MART/city56@okaxis/239868000257",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-18",
+  "debit": 0,
+  "credit": 6389800,
+  "description": "UPI/GUPTA AGENCIES/gupta75@okaxis/259526949588",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-20",
+  "debit": 1880000,
+  "credit": 0,
+  "description": "GST PAYMENT/CBIC/CPIN58549733484344",
+  "category": "TAX"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-20",
+  "debit": 12899300,
+  "credit": 0,
+  "description": "NEFT/ITC LTD DISTRIBUTOR/PO4694",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-22",
+  "debit": 0,
+  "credit": 6302800,
+  "description": "NEFT/LAKSHMI BAKERY/INV2738",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-22",
+  "debit": 0,
+  "credit": 35000000,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-26",
+  "debit": 0,
+  "credit": 2959900,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-05-27",
+  "debit": 13630900,
+  "credit": 0,
+  "description": "NEFT/VIJAY OIL MILLS/PO4804",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-01",
+  "debit": 1404600,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/SURESH K",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-01",
+  "debit": 1507100,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/MEENA R",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-01",
+  "debit": 1667700,
+  "credit": 0,
+  "description": "NEFT/SALARY/STAFF/ARUN P",
+  "category": "PAYROLL_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-03",
+  "debit": 4000000,
+  "credit": 0,
+  "description": "IMPS/KAVYA IYER/OWN SB AC/530174268414",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-03",
+  "debit": 0,
+  "credit": 5662100,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-05",
+  "debit": 3500000,
+  "credit": 0,
+  "description": "IMPS/MANOJ REDDY/SHOP RENT JUN/593327279568",
+  "category": "RENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-07",
+  "debit": 14101700,
+  "credit": 0,
+  "description": "NEFT/SHREE BALAJI WHOLESALE/PO4997",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-10",
+  "debit": 1785000,
+  "credit": 0,
+  "description": "ACH DR/TATA CAPITAL FINANCIAL/BL0098812",
+  "category": "LOAN_EMI"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-12",
+  "debit": 12638400,
+  "credit": 0,
+  "description": "NEFT/HINDUSTAN AGRO SUPPLIES/PO4922",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-13",
+  "debit": 0,
+  "credit": 6415000,
+  "description": "IMPS/MURUGAN PROVISIONS/054932966851",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-14",
+  "debit": 463900,
+  "credit": 0,
+  "description": "BILLPAY/TNEB/7833918785",
+  "category": "UTILITIES"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-16",
+  "debit": 0,
+  "credit": 4019600,
+  "description": "CASH DEPOSIT/SELF/BR 112 TNAGAR",
+  "category": "CASH_DEPOSIT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-18",
+  "debit": 0,
+  "credit": 1806400,
+  "description": "NEFT/CITY MART/INV2756",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-18",
+  "debit": 11551300,
+  "credit": 0,
+  "description": "NEFT/ITC LTD DISTRIBUTOR/PO4864",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-19",
+  "debit": 0,
+  "credit": 423600,
+  "description": "NEFT/CITY MART/INV2840",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-20",
+  "debit": 0,
+  "credit": 4194100,
+  "description": "NEFT/RAJESH GENERAL STORES/INV2681",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-20",
+  "debit": 1580000,
+  "credit": 0,
+  "description": "GST PAYMENT/CBIC/CPIN91088398225871",
+  "category": "TAX"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-24",
+  "debit": 0,
+  "credit": 7272300,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/28743152",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-25",
+  "debit": 0,
+  "credit": 1650200,
+  "description": "UPI SETTLEMENT/PAYTM/QR COLLECTION/75304637",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-27",
+  "debit": 0,
+  "credit": 6635000,
+  "description": "UPI/PRIYA FOODS/priya46@okaxis/540193802620",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-27",
+  "debit": 14347800,
+  "credit": 0,
+  "description": "NEFT/VIJAY OIL MILLS/PO4867",
+  "category": "SUPPLIER_PAYMENT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-28",
+  "debit": 0,
+  "credit": 5603400,
+  "description": "NEFT/PRIYA FOODS/INV2866",
+  "category": "BUSINESS_RECEIPT"
+ },
+ {
+  "account_number": "001234500987654",
+  "date": "2026-06-30",
+  "debit": 5900,
+  "credit": 0,
+  "description": "SMS ALERT CHGS QTR",
+  "category": "BANK_CHARGES"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-01-03",
+  "debit": 0,
+  "credit": 4000000,
+  "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/588424745171",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-01-06",
+  "debit": 449600,
+  "credit": 0,
+  "description": "UPI/MORE SUPERMARKET/more@ybl/405377351585",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-01-12",
+  "debit": 500000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/GROWW",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-01-18",
+  "debit": 85700,
+  "credit": 0,
+  "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/643171390053",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-01-24",
+  "debit": 300000,
+  "credit": 0,
+  "description": "ATM WDL/CUB ATM ADYAR/931839",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-02-03",
+  "debit": 0,
+  "credit": 4000000,
+  "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/438156149784",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-02-06",
+  "debit": 834600,
+  "credit": 0,
+  "description": "UPI/MORE SUPERMARKET/more@ybl/681645352181",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-02-12",
+  "debit": 500000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/GROWW",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-02-18",
+  "debit": 91300,
+  "credit": 0,
+  "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/835523124329",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-02-24",
+  "debit": 500000,
+  "credit": 0,
+  "description": "ATM WDL/CUB ATM ADYAR/127799",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-03-03",
+  "debit": 0,
+  "credit": 4000000,
+  "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/932460953962",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-03-06",
+  "debit": 807500,
+  "credit": 0,
+  "description": "UPI/MORE SUPERMARKET/more@ybl/054156676527",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-03-12",
+  "debit": 500000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/GROWW",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-03-18",
+  "debit": 81000,
+  "credit": 0,
+  "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/584161692845",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-03-24",
+  "debit": 500000,
+  "credit": 0,
+  "description": "ATM WDL/CUB ATM ADYAR/154479",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-03-31",
+  "debit": 0,
+  "credit": 87000,
+  "description": "SB INTEREST CREDIT",
+  "category": "INTEREST"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-04-03",
+  "debit": 0,
+  "credit": 4000000,
+  "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/229959001094",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-04-06",
+  "debit": 774500,
+  "credit": 0,
+  "description": "UPI/MORE SUPERMARKET/more@ybl/327877470168",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-04-08",
+  "debit": 4200000,
+  "credit": 0,
+  "description": "NEFT/VIDYA MANDIR SCHOOL/TERM FEES",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-04-12",
+  "debit": 500000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/GROWW",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-04-18",
+  "debit": 61600,
+  "credit": 0,
+  "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/339500479748",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-04-24",
+  "debit": 500000,
+  "credit": 0,
+  "description": "ATM WDL/CUB ATM ADYAR/162456",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-05-03",
+  "debit": 0,
+  "credit": 4000000,
+  "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/728962309130",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-05-06",
+  "debit": 512400,
+  "credit": 0,
+  "description": "UPI/MORE SUPERMARKET/more@ybl/415747338484",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-05-12",
+  "debit": 500000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/GROWW",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-05-18",
+  "debit": 127600,
+  "credit": 0,
+  "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/199330833016",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-05-24",
+  "debit": 500000,
+  "credit": 0,
+  "description": "ATM WDL/CUB ATM ADYAR/712082",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-06-03",
+  "debit": 0,
+  "credit": 4000000,
+  "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/530174268414",
+  "category": "INTERNAL_TRANSFER"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-06-06",
+  "debit": 449300,
+  "credit": 0,
+  "description": "UPI/MORE SUPERMARKET/more@ybl/064039106518",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-06-12",
+  "debit": 500000,
+  "credit": 0,
+  "description": "BSE STAR MF/SIP/GROWW",
+  "category": "INVESTMENT"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-06-18",
+  "debit": 136900,
+  "credit": 0,
+  "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/170462265676",
+  "category": "GENERAL_EXPENSE"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-06-24",
+  "debit": 500000,
+  "credit": 0,
+  "description": "ATM WDL/CUB ATM ADYAR/182512",
+  "category": "CASH_WITHDRAWAL"
+ },
+ {
+  "account_number": "3344556677",
+  "date": "2026-06-30",
+  "debit": 0,
+  "credit": 66500,
+  "description": "SB INTEREST CREDIT",
+  "category": "INTEREST"
+ }
+]

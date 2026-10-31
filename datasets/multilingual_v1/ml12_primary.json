@@ -1,0 +1,2198 @@
+{
+ "bank_name": "SAPTAGIRI GRAMIN BANK",
+ "account_holder": "SENTHIL KUMAR",
+ "account_number": "310001100094",
+ "account_type": "SAVINGS",
+ "statement_period": {
+  "from": "2026-01-01",
+  "to": "2026-06-30"
+ },
+ "opening_balance": 338904.0,
+ "closing_balance": 2043237.93,
+ "transactions": [
+  {
+   "date": "2026-01-01",
+   "description": "NEFT/CR/104547177486/மீனா சுந்தரம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 14579.13,
+   "balance": 353483.13
+  },
+  {
+   "date": "2026-01-01",
+   "description": "IMPS/426330569232/CITY MEDICALS/ORDER PAYMENT",
+   "debit": null,
+   "credit": 15332.69,
+   "balance": 368815.82
+  },
+  {
+   "date": "2026-01-01",
+   "description": "NEFT/CR/760721585011/CITY MEDICALS/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 13726.79,
+   "balance": 382542.61
+  },
+  {
+   "date": "2026-01-02",
+   "description": "IMPS/877091362266/லக்ஷ்மி ராமன்/கூலி",
+   "debit": 11263.0,
+   "credit": null,
+   "balance": 371279.61
+  },
+  {
+   "date": "2026-01-02",
+   "description": "IMPS/105710325042/பிரியா வேலு/கூலி",
+   "debit": 10472.0,
+   "credit": null,
+   "balance": 360807.61
+  },
+  {
+   "date": "2026-01-02",
+   "description": "IMPS/583317798366/லக்ஷ்மி ராமன்/கூலி",
+   "debit": 11189.0,
+   "credit": null,
+   "balance": 349618.61
+  },
+  {
+   "date": "2026-01-03",
+   "description": "IMPS/169264779160/OM ENTERPRISES/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 11268.08,
+   "balance": 360886.69
+  },
+  {
+   "date": "2026-01-03",
+   "description": "UPI/CR/170648748915/CITY MEDICALS/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 9194.77,
+   "balance": 370081.46
+  },
+  {
+   "date": "2026-01-04",
+   "description": "NEFT/CR/119243089986/லக்ஷ்மி ராமன்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 11576.79,
+   "balance": 381658.25
+  },
+  {
+   "date": "2026-01-04",
+   "description": "NEFT/CR/198699850125/மீனா சுந்தரம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 9595.88,
+   "balance": 391254.13
+  },
+  {
+   "date": "2026-01-04",
+   "description": "NEFT/CR/302011416115/NEHA KAPOOR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 14792.44,
+   "balance": 406046.57
+  },
+  {
+   "date": "2026-01-04",
+   "description": "CASH DEP BY SELF/BR MUMBAI",
+   "debit": null,
+   "credit": 19058.0,
+   "balance": 425104.57
+  },
+  {
+   "date": "2026-01-04",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 22745.0,
+   "balance": 447849.57
+  },
+  {
+   "date": "2026-01-05",
+   "description": "NEFT/CR/833132469872/OM ENTERPRISES/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 10277.92,
+   "balance": 458127.49
+  },
+  {
+   "date": "2026-01-05",
+   "description": "IMPS/671294892279/லக்ஷ்மி ராமன்/வாடகை JAN26",
+   "debit": 35000.0,
+   "credit": null,
+   "balance": 423127.49
+  },
+  {
+   "date": "2026-01-05",
+   "description": "UPI/DR/339563520799/CITY MEDICALS/CLOTHES",
+   "debit": 2810.0,
+   "credit": null,
+   "balance": 420317.49
+  },
+  {
+   "date": "2026-01-06",
+   "description": "NEFT/CR/187602252225/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 14002.85,
+   "balance": 434320.34
+  },
+  {
+   "date": "2026-01-06",
+   "description": "NEFT/CR/881543345798/NEHA KAPOOR/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 8434.57,
+   "balance": 442754.91
+  },
+  {
+   "date": "2026-01-06",
+   "description": "NEFT/DR/4000504249/செல்வி ஸ்டோர்/மொத்த சரக்கு",
+   "debit": 42000.0,
+   "credit": null,
+   "balance": 400754.91
+  },
+  {
+   "date": "2026-01-06",
+   "description": "NACH/DR/BAJAJ FINANCE/BL7700/இஎம்ஐ JAN26",
+   "debit": 18400.0,
+   "credit": null,
+   "balance": 382354.91
+  },
+  {
+   "date": "2026-01-08",
+   "description": "UPI/CR/359360588616/HP PETROL PUMP/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 13895.33,
+   "balance": 396250.24
+  },
+  {
+   "date": "2026-01-08",
+   "description": "IMPS/883317797239/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 16179.43,
+   "balance": 412429.67
+  },
+  {
+   "date": "2026-01-08",
+   "description": "UPI/DR/515248563829/SNEHA IYER/CLOTHES",
+   "debit": 2827.0,
+   "credit": null,
+   "balance": 409602.67
+  },
+  {
+   "date": "2026-01-09",
+   "description": "UPI/CR/047133422277/பிரியா வேலு/நிலுவை தொகை",
+   "debit": null,
+   "credit": 7571.18,
+   "balance": 417173.85
+  },
+  {
+   "date": "2026-01-11",
+   "description": "IMPS/727827720252/HP PETROL PUMP/ORDER PAYMENT",
+   "debit": null,
+   "credit": 12329.82,
+   "balance": 429503.67
+  },
+  {
+   "date": "2026-01-11",
+   "description": "IMPS/295936389186/NEHA KAPOOR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 14119.58,
+   "balance": 443623.25
+  },
+  {
+   "date": "2026-01-11",
+   "description": "NEFT/CR/376554768780/OM ENTERPRISES/ORDER PAYMENT",
+   "debit": null,
+   "credit": 12103.07,
+   "balance": 455726.32
+  },
+  {
+   "date": "2026-01-11",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 14754.0,
+   "balance": 470480.32
+  },
+  {
+   "date": "2026-01-12",
+   "description": "BILLPAY/TATA POWER/WATER BILL",
+   "debit": 2767.0,
+   "credit": null,
+   "balance": 467713.32
+  },
+  {
+   "date": "2026-01-13",
+   "description": "NEFT/CR/982357932047/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 9330.34,
+   "balance": 477043.66
+  },
+  {
+   "date": "2026-01-13",
+   "description": "NEFT/DR/6488741692/CITY MEDICALS/PURCHASE ORDER",
+   "debit": 42000.0,
+   "credit": null,
+   "balance": 435043.66
+  },
+  {
+   "date": "2026-01-14",
+   "description": "IMPS/092448529954/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 8576.76,
+   "balance": 443620.42
+  },
+  {
+   "date": "2026-01-14",
+   "description": "NEFT/CR/252880019530/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 16419.09,
+   "balance": 460039.51
+  },
+  {
+   "date": "2026-01-15",
+   "description": "IMPS/842174691531/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 9634.68,
+   "balance": 469674.19
+  },
+  {
+   "date": "2026-01-15",
+   "description": "NEFT/CR/527891692163/செல்வி ஸ்டோர்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 10168.92,
+   "balance": 479843.11
+  },
+  {
+   "date": "2026-01-15",
+   "description": "IMPS/570996673696/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 9957.75,
+   "balance": 489800.86
+  },
+  {
+   "date": "2026-01-16",
+   "description": "NEFT/CR/416341435921/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 6896.8,
+   "balance": 496697.66
+  },
+  {
+   "date": "2026-01-16",
+   "description": "IMPS/262751380732/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 13952.47,
+   "balance": 510650.13
+  },
+  {
+   "date": "2026-01-16",
+   "description": "UPI/DR/228452575023/JIO/WATER BILL",
+   "debit": 239.0,
+   "credit": null,
+   "balance": 510411.13
+  },
+  {
+   "date": "2026-01-17",
+   "description": "UPI/CR/247790378739/OM ENTERPRISES/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 15052.04,
+   "balance": 525463.17
+  },
+  {
+   "date": "2026-01-18",
+   "description": "UPI/CR/048821473472/மீனா சுந்தரம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 15181.57,
+   "balance": 540644.74
+  },
+  {
+   "date": "2026-01-18",
+   "description": "IMPS/719544353020/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 16477.13,
+   "balance": 557121.87
+  },
+  {
+   "date": "2026-01-20",
+   "description": "UPI/CR/087120697971/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 14016.95,
+   "balance": 571138.82
+  },
+  {
+   "date": "2026-01-20",
+   "description": "NEFT/DR/2984782577/செல்வி ஸ்டோர்/மொத்த சரக்கு",
+   "debit": 42000.0,
+   "credit": null,
+   "balance": 529138.82
+  },
+  {
+   "date": "2026-01-22",
+   "description": "IMPS/183674849510/CITY MEDICALS/ORDER PAYMENT",
+   "debit": null,
+   "credit": 15318.37,
+   "balance": 544457.19
+  },
+  {
+   "date": "2026-01-23",
+   "description": "NEFT/CR/960072963736/SNEHA IYER/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 10042.83,
+   "balance": 554500.02
+  },
+  {
+   "date": "2026-01-25",
+   "description": "NEFT/CR/105986303523/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 12189.0,
+   "balance": 566689.02
+  },
+  {
+   "date": "2026-01-25",
+   "description": "NEFT/CR/326858183087/SNEHA IYER/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 9723.31,
+   "balance": 576412.33
+  },
+  {
+   "date": "2026-01-26",
+   "description": "NEFT/CR/468101241303/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 9181.64,
+   "balance": 585593.97
+  },
+  {
+   "date": "2026-01-27",
+   "description": "UPI/DR/426237626202/பிரியா வேலு/காய்கறி",
+   "debit": 882.0,
+   "credit": null,
+   "balance": 584711.97
+  },
+  {
+   "date": "2026-01-28",
+   "description": "IMPS/561264169001/பிரியா வேலு/நிலுவை தொகை",
+   "debit": null,
+   "credit": 8900.02,
+   "balance": 593611.99
+  },
+  {
+   "date": "2026-01-28",
+   "description": "UPI/DR/601953858288/செல்வி ஸ்டோர்/துணிகள்",
+   "debit": 4660.0,
+   "credit": null,
+   "balance": 588951.99
+  },
+  {
+   "date": "2026-02-01",
+   "description": "NEFT/CR/439149278091/பிரியா வேலு/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 14376.54,
+   "balance": 603328.53
+  },
+  {
+   "date": "2026-02-01",
+   "description": "IMPS/811669797491/CITY MEDICALS/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 15154.35,
+   "balance": 618482.88
+  },
+  {
+   "date": "2026-02-01",
+   "description": "UPI/CR/382216665822/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 16019.0,
+   "balance": 634501.88
+  },
+  {
+   "date": "2026-02-01",
+   "description": "NEFT/CR/973764629617/லக்ஷ்மி ராமன்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 21875.75,
+   "balance": 656377.63
+  },
+  {
+   "date": "2026-02-01",
+   "description": "UPI/DR/356290867277/OM ENTERPRISES/CLOTHES",
+   "debit": 2601.0,
+   "credit": null,
+   "balance": 653776.63
+  },
+  {
+   "date": "2026-02-01",
+   "description": "UPI/DR/750830147801/OM ENTERPRISES/VEGETABLES",
+   "debit": 4087.0,
+   "credit": null,
+   "balance": 649689.63
+  },
+  {
+   "date": "2026-02-02",
+   "description": "UPI/CR/981949841808/NEHA KAPOOR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 19088.46,
+   "balance": 668778.09
+  },
+  {
+   "date": "2026-02-02",
+   "description": "IMPS/420363615129/மீனா சுந்தரம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 13471.72,
+   "balance": 682249.81
+  },
+  {
+   "date": "2026-02-02",
+   "description": "IMPS/550100399147/பிரியா வேலு/கூலி",
+   "debit": 13258.0,
+   "credit": null,
+   "balance": 668991.81
+  },
+  {
+   "date": "2026-02-02",
+   "description": "IMPS/939663410820/பிரியா வேலு/கூலி",
+   "debit": 14525.0,
+   "credit": null,
+   "balance": 654466.81
+  },
+  {
+   "date": "2026-02-02",
+   "description": "IMPS/168945345546/PRIYA NAIR/WAGES",
+   "debit": 15152.0,
+   "credit": null,
+   "balance": 639314.81
+  },
+  {
+   "date": "2026-02-05",
+   "description": "IMPS/771904477668/NEHA KAPOOR/RENT FEB26",
+   "debit": 35000.0,
+   "credit": null,
+   "balance": 604314.81
+  },
+  {
+   "date": "2026-02-06",
+   "description": "NEFT/CR/915898620069/OM ENTERPRISES/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 16584.69,
+   "balance": 620899.5
+  },
+  {
+   "date": "2026-02-06",
+   "description": "NEFT/DR/5435772028/வேல் டிரேடர்ஸ்/மொத்த சரக்கு",
+   "debit": 45500.0,
+   "credit": null,
+   "balance": 575399.5
+  },
+  {
+   "date": "2026-02-06",
+   "description": "NACH/DR/பஜாஜ் ஃபைனான்ஸ்/BL7700/இஎம்ஐ FEB26",
+   "debit": 18400.0,
+   "credit": null,
+   "balance": 556999.5
+  },
+  {
+   "date": "2026-02-09",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 40013.0,
+   "balance": 597012.5
+  },
+  {
+   "date": "2026-02-12",
+   "description": "UPI/CR/900779599280/HP PETROL PUMP/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 17553.32,
+   "balance": 614565.82
+  },
+  {
+   "date": "2026-02-12",
+   "description": "BILLPAY/TATA POWER/MOBILE RECHARGE",
+   "debit": 2283.0,
+   "credit": null,
+   "balance": 612282.82
+  },
+  {
+   "date": "2026-02-13",
+   "description": "NEFT/DR/4943838514/HP PETROL PUMP/PURCHASE ORDER",
+   "debit": 45500.0,
+   "credit": null,
+   "balance": 566782.82
+  },
+  {
+   "date": "2026-02-13",
+   "description": "UPI/DR/390855305085/செல்வி ஸ்டோர்/காய்கறி",
+   "debit": 2351.0,
+   "credit": null,
+   "balance": 564431.82
+  },
+  {
+   "date": "2026-02-14",
+   "description": "NEFT/CR/904956637752/HP PETROL PUMP/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 17936.56,
+   "balance": 582368.38
+  },
+  {
+   "date": "2026-02-14",
+   "description": "UPI/DR/087260358352/SNEHA IYER/VEGETABLES",
+   "debit": 2143.0,
+   "credit": null,
+   "balance": 580225.38
+  },
+  {
+   "date": "2026-02-15",
+   "description": "UPI/CR/077410291100/மீனா சுந்தரம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 11605.92,
+   "balance": 591831.3
+  },
+  {
+   "date": "2026-02-15",
+   "description": "UPI/CR/075536692100/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 16236.23,
+   "balance": 608067.53
+  },
+  {
+   "date": "2026-02-15",
+   "description": "UPI/CR/149265710062/லக்ஷ்மி ராமன்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 13976.28,
+   "balance": 622043.81
+  },
+  {
+   "date": "2026-02-16",
+   "description": "NEFT/CR/521192472553/HP PETROL PUMP/ORDER PAYMENT",
+   "debit": null,
+   "credit": 14841.32,
+   "balance": 636885.13
+  },
+  {
+   "date": "2026-02-16",
+   "description": "UPI/CR/808521136145/HP PETROL PUMP/ORDER PAYMENT",
+   "debit": null,
+   "credit": 9370.49,
+   "balance": 646255.62
+  },
+  {
+   "date": "2026-02-16",
+   "description": "UPI/DR/576742227428/JIO/மொபைல் ரீசார்ஜ்",
+   "debit": 299.0,
+   "credit": null,
+   "balance": 645956.62
+  },
+  {
+   "date": "2026-02-18",
+   "description": "IMPS/747083138590/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 14014.3,
+   "balance": 659970.92
+  },
+  {
+   "date": "2026-02-18",
+   "description": "IMPS/422596573190/மீனா சுந்தரம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 13196.0,
+   "balance": 673166.92
+  },
+  {
+   "date": "2026-02-18",
+   "description": "IMPS/576007525698/OM ENTERPRISES/ORDER PAYMENT",
+   "debit": null,
+   "credit": 8339.38,
+   "balance": 681506.3
+  },
+  {
+   "date": "2026-02-19",
+   "description": "NEFT/CR/958974791618/HP PETROL PUMP/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 19566.97,
+   "balance": 701073.27
+  },
+  {
+   "date": "2026-02-20",
+   "description": "NEFT/CR/115807572822/லக்ஷ்மி ராமன்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 16814.94,
+   "balance": 717888.21
+  },
+  {
+   "date": "2026-02-20",
+   "description": "UPI/CR/951185505331/செல்வி ஸ்டோர்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 18609.52,
+   "balance": 736497.73
+  },
+  {
+   "date": "2026-02-20",
+   "description": "NEFT/DR/5351400462/செல்வி ஸ்டோர்/மொத்த சரக்கு",
+   "debit": 45500.0,
+   "credit": null,
+   "balance": 690997.73
+  },
+  {
+   "date": "2026-02-20",
+   "description": "CASH DEP BY SELF/BR MUMBAI",
+   "debit": null,
+   "credit": 25193.0,
+   "balance": 716190.73
+  },
+  {
+   "date": "2026-02-21",
+   "description": "UPI/CR/247377780481/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 10555.48,
+   "balance": 726746.21
+  },
+  {
+   "date": "2026-02-22",
+   "description": "IMPS/327379359184/மீனா சுந்தரம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 17217.53,
+   "balance": 743963.74
+  },
+  {
+   "date": "2026-02-22",
+   "description": "IMPS/267149470002/OM ENTERPRISES/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 10924.67,
+   "balance": 754888.41
+  },
+  {
+   "date": "2026-02-23",
+   "description": "NEFT/CR/526335266716/செல்வி ஸ்டோர்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 9819.58,
+   "balance": 764707.99
+  },
+  {
+   "date": "2026-02-23",
+   "description": "UPI/CR/867301681206/NEHA KAPOOR/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 17003.73,
+   "balance": 781711.72
+  },
+  {
+   "date": "2026-02-24",
+   "description": "UPI/CR/563873242107/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 15610.35,
+   "balance": 797322.07
+  },
+  {
+   "date": "2026-02-24",
+   "description": "NEFT/CR/795108171178/PRIYA NAIR/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 19650.09,
+   "balance": 816972.16
+  },
+  {
+   "date": "2026-02-25",
+   "description": "NEFT/CR/672822178369/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 17320.67,
+   "balance": 834292.83
+  },
+  {
+   "date": "2026-02-25",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 28249.0,
+   "balance": 862541.83
+  },
+  {
+   "date": "2026-02-28",
+   "description": "UPI/CR/345484255505/லக்ஷ்மி ராமன்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 16239.14,
+   "balance": 878780.97
+  },
+  {
+   "date": "2026-02-28",
+   "description": "NEFT/CR/351841794820/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 12027.02,
+   "balance": 890807.99
+  },
+  {
+   "date": "2026-03-01",
+   "description": "UPI/CR/326270371371/பிரியா வேலு/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 8471.83,
+   "balance": 899279.82
+  },
+  {
+   "date": "2026-03-01",
+   "description": "UPI/DR/643146975656/பிரியா வேலு/காய்கறி",
+   "debit": 3081.0,
+   "credit": null,
+   "balance": 896198.82
+  },
+  {
+   "date": "2026-03-02",
+   "description": "UPI/CR/336937418759/CITY MEDICALS/ORDER PAYMENT",
+   "debit": null,
+   "credit": 8851.78,
+   "balance": 905050.6
+  },
+  {
+   "date": "2026-03-02",
+   "description": "IMPS/801716289485/NEHA KAPOOR/WAGES",
+   "debit": 11014.0,
+   "credit": null,
+   "balance": 894036.6
+  },
+  {
+   "date": "2026-03-02",
+   "description": "IMPS/308171138263/மீனா சுந்தரம்/கூலி",
+   "debit": 13809.0,
+   "credit": null,
+   "balance": 880227.6
+  },
+  {
+   "date": "2026-03-02",
+   "description": "IMPS/187867983863/NEHA KAPOOR/WAGES",
+   "debit": 10663.0,
+   "credit": null,
+   "balance": 869564.6
+  },
+  {
+   "date": "2026-03-04",
+   "description": "IMPS/333042196288/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 15723.81,
+   "balance": 885288.41
+  },
+  {
+   "date": "2026-03-05",
+   "description": "IMPS/337467230036/OM ENTERPRISES/ORDER PAYMENT",
+   "debit": null,
+   "credit": 8711.15,
+   "balance": 893999.56
+  },
+  {
+   "date": "2026-03-05",
+   "description": "IMPS/604670094660/OM ENTERPRISES/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 11946.26,
+   "balance": 905945.82
+  },
+  {
+   "date": "2026-03-05",
+   "description": "UPI/CR/563598648551/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 15436.52,
+   "balance": 921382.34
+  },
+  {
+   "date": "2026-03-05",
+   "description": "UPI/CR/195885050399/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 15870.47,
+   "balance": 937252.81
+  },
+  {
+   "date": "2026-03-05",
+   "description": "IMPS/575927745207/NEHA KAPOOR/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 10899.76,
+   "balance": 948152.57
+  },
+  {
+   "date": "2026-03-05",
+   "description": "IMPS/536093878297/லக்ஷ்மி ராமன்/வாடகை MAR26",
+   "debit": 35000.0,
+   "credit": null,
+   "balance": 913152.57
+  },
+  {
+   "date": "2026-03-06",
+   "description": "NEFT/DR/2503861622/சக்தி மருந்தகம்/மொத்த சரக்கு",
+   "debit": 41000.0,
+   "credit": null,
+   "balance": 872152.57
+  },
+  {
+   "date": "2026-03-06",
+   "description": "NACH/DR/BAJAJ FINANCE/BL7700/LOAN EMI",
+   "debit": 18400.0,
+   "credit": null,
+   "balance": 853752.57
+  },
+  {
+   "date": "2026-03-07",
+   "description": "UPI/DR/605504847605/NEHA KAPOOR/MEDICINE",
+   "debit": 1783.0,
+   "credit": null,
+   "balance": 851969.57
+  },
+  {
+   "date": "2026-03-10",
+   "description": "NEFT/CR/318753932138/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 14782.69,
+   "balance": 866752.26
+  },
+  {
+   "date": "2026-03-10",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 40712.0,
+   "balance": 907464.26
+  },
+  {
+   "date": "2026-03-11",
+   "description": "UPI/CR/949558666714/SNEHA IYER/ORDER PAYMENT",
+   "debit": null,
+   "credit": 11806.51,
+   "balance": 919270.77
+  },
+  {
+   "date": "2026-03-12",
+   "description": "NEFT/CR/925071951529/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 8719.4,
+   "balance": 927990.17
+  },
+  {
+   "date": "2026-03-12",
+   "description": "BILLPAY/TATA POWER/MOBILE RECHARGE",
+   "debit": 1289.0,
+   "credit": null,
+   "balance": 926701.17
+  },
+  {
+   "date": "2026-03-13",
+   "description": "NEFT/DR/2298882103/செல்வி ஸ்டோர்/மொத்த சரக்கு",
+   "debit": 41000.0,
+   "credit": null,
+   "balance": 885701.17
+  },
+  {
+   "date": "2026-03-14",
+   "description": "CASH DEP BY SELF/BR MUMBAI",
+   "debit": null,
+   "credit": 16275.0,
+   "balance": 901976.17
+  },
+  {
+   "date": "2026-03-15",
+   "description": "NEFT/CR/489361496823/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 11231.54,
+   "balance": 913207.71
+  },
+  {
+   "date": "2026-03-15",
+   "description": "IMPS/244534169019/பிரியா வேலு/நிலுவை தொகை",
+   "debit": null,
+   "credit": 7940.72,
+   "balance": 921148.43
+  },
+  {
+   "date": "2026-03-15",
+   "description": "NEFT/CR/782761684911/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 10590.89,
+   "balance": 931739.32
+  },
+  {
+   "date": "2026-03-15",
+   "description": "UPI/DR/639977343095/NEHA KAPOOR/MEDICINE",
+   "debit": 4056.0,
+   "credit": null,
+   "balance": 927683.32
+  },
+  {
+   "date": "2026-03-16",
+   "description": "NEFT/CR/038441442706/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 8817.94,
+   "balance": 936501.26
+  },
+  {
+   "date": "2026-03-16",
+   "description": "UPI/CR/028145769651/CITY MEDICALS/ORDER PAYMENT",
+   "debit": null,
+   "credit": 8713.51,
+   "balance": 945214.77
+  },
+  {
+   "date": "2026-03-16",
+   "description": "NEFT/CR/260447826220/SNEHA IYER/ORDER PAYMENT",
+   "debit": null,
+   "credit": 7261.88,
+   "balance": 952476.65
+  },
+  {
+   "date": "2026-03-16",
+   "description": "UPI/DR/172366527915/JIO/WATER BILL",
+   "debit": 239.0,
+   "credit": null,
+   "balance": 952237.65
+  },
+  {
+   "date": "2026-03-17",
+   "description": "IMPS/677806803258/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 16894.97,
+   "balance": 969132.62
+  },
+  {
+   "date": "2026-03-17",
+   "description": "IMPS/118736009853/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 13437.06,
+   "balance": 982569.68
+  },
+  {
+   "date": "2026-03-17",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 14726.0,
+   "balance": 997295.68
+  },
+  {
+   "date": "2026-03-19",
+   "description": "UPI/CR/626043739857/செல்வி ஸ்டோர்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 16301.08,
+   "balance": 1013596.76
+  },
+  {
+   "date": "2026-03-19",
+   "description": "IMPS/081900323585/லக்ஷ்மி ராமன்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 11325.35,
+   "balance": 1024922.11
+  },
+  {
+   "date": "2026-03-19",
+   "description": "UPI/CR/593350246107/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 13612.2,
+   "balance": 1038534.31
+  },
+  {
+   "date": "2026-03-20",
+   "description": "NEFT/DR/6787446609/CITY MEDICALS/PURCHASE ORDER",
+   "debit": 41000.0,
+   "credit": null,
+   "balance": 997534.31
+  },
+  {
+   "date": "2026-03-20",
+   "description": "UPI/DR/300307747029/HP PETROL PUMP/VEGETABLES",
+   "debit": 3835.0,
+   "credit": null,
+   "balance": 993699.31
+  },
+  {
+   "date": "2026-03-21",
+   "description": "IMPS/507228661649/NEHA KAPOOR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 10877.54,
+   "balance": 1004576.85
+  },
+  {
+   "date": "2026-03-21",
+   "description": "UPI/CR/352074672186/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 9651.54,
+   "balance": 1014228.39
+  },
+  {
+   "date": "2026-03-22",
+   "description": "IMPS/364360999017/பிரியா வேலு/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 12439.14,
+   "balance": 1026667.53
+  },
+  {
+   "date": "2026-03-23",
+   "description": "IMPS/542329552198/OM ENTERPRISES/ORDER PAYMENT",
+   "debit": null,
+   "credit": 11335.04,
+   "balance": 1038002.57
+  },
+  {
+   "date": "2026-03-24",
+   "description": "IMPS/776609097292/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 16213.35,
+   "balance": 1054215.92
+  },
+  {
+   "date": "2026-03-25",
+   "description": "IMPS/982259783548/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 13626.96,
+   "balance": 1067842.88
+  },
+  {
+   "date": "2026-03-26",
+   "description": "UPI/CR/595906343097/மீனா சுந்தரம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 15905.35,
+   "balance": 1083748.23
+  },
+  {
+   "date": "2026-03-27",
+   "description": "IMPS/673372207349/HP PETROL PUMP/ORDER PAYMENT",
+   "debit": null,
+   "credit": 9316.39,
+   "balance": 1093064.62
+  },
+  {
+   "date": "2026-03-27",
+   "description": "NEFT/CR/541558152474/PRIYA NAIR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 12350.7,
+   "balance": 1105415.32
+  },
+  {
+   "date": "2026-03-28",
+   "description": "IMPS/233162367523/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 7544.57,
+   "balance": 1112959.89
+  },
+  {
+   "date": "2026-03-28",
+   "description": "IMPS/630940797752/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 17203.95,
+   "balance": 1130163.84
+  },
+  {
+   "date": "2026-03-28",
+   "description": "NEFT/CR/786437479394/மீனா சுந்தரம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 16188.14,
+   "balance": 1146351.98
+  },
+  {
+   "date": "2026-03-31",
+   "description": "INT.PD/Q1",
+   "debit": null,
+   "credit": 1294.0,
+   "balance": 1147645.98
+  },
+  {
+   "date": "2026-03-31",
+   "description": "குறைந்தபட்ச இருப்பு கட்டணம்/Q1",
+   "debit": 59.0,
+   "credit": null,
+   "balance": 1147586.98
+  },
+  {
+   "date": "2026-04-02",
+   "description": "NEFT/CR/595593190425/செல்வி ஸ்டோர்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 16052.55,
+   "balance": 1163639.53
+  },
+  {
+   "date": "2026-04-02",
+   "description": "IMPS/175941523554/PRIYA NAIR/WAGES",
+   "debit": 13018.0,
+   "credit": null,
+   "balance": 1150621.53
+  },
+  {
+   "date": "2026-04-02",
+   "description": "IMPS/997656142974/NEHA KAPOOR/WAGES",
+   "debit": 15090.0,
+   "credit": null,
+   "balance": 1135531.53
+  },
+  {
+   "date": "2026-04-02",
+   "description": "IMPS/196082849665/லக்ஷ்மி ராமன்/கூலி",
+   "debit": 10280.0,
+   "credit": null,
+   "balance": 1125251.53
+  },
+  {
+   "date": "2026-04-03",
+   "description": "UPI/CR/253092014395/லக்ஷ்மி ராமன்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 10182.92,
+   "balance": 1135434.45
+  },
+  {
+   "date": "2026-04-03",
+   "description": "UPI/CR/774655135424/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 12369.5,
+   "balance": 1147803.95
+  },
+  {
+   "date": "2026-04-04",
+   "description": "NEFT/CR/243249686453/SNEHA IYER/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 18116.08,
+   "balance": 1165920.03
+  },
+  {
+   "date": "2026-04-04",
+   "description": "NEFT/CR/312418939222/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 10791.36,
+   "balance": 1176711.39
+  },
+  {
+   "date": "2026-04-04",
+   "description": "UPI/CR/267884441054/பிரியா வேலு/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 10899.05,
+   "balance": 1187610.44
+  },
+  {
+   "date": "2026-04-05",
+   "description": "IMPS/444116597504/லக்ஷ்மி ராமன்/கடை வாடகை",
+   "debit": 35000.0,
+   "credit": null,
+   "balance": 1152610.44
+  },
+  {
+   "date": "2026-04-06",
+   "description": "NEFT/DR/6650692440/HP PETROL PUMP/PURCHASE ORDER",
+   "debit": 47000.0,
+   "credit": null,
+   "balance": 1105610.44
+  },
+  {
+   "date": "2026-04-06",
+   "description": "NACH/DR/BAJAJ FINANCE/BL7700/கடன் திருப்பம்",
+   "debit": 18400.0,
+   "credit": null,
+   "balance": 1087210.44
+  },
+  {
+   "date": "2026-04-06",
+   "description": "UPI/DR/321707302863/பிரியா வேலு/காய்கறி",
+   "debit": 4315.0,
+   "credit": null,
+   "balance": 1082895.44
+  },
+  {
+   "date": "2026-04-07",
+   "description": "UPI/CR/794572244415/CITY MEDICALS/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 16383.07,
+   "balance": 1099278.51
+  },
+  {
+   "date": "2026-04-07",
+   "description": "UPI/DR/822491248404/HP PETROL PUMP/CLOTHES",
+   "debit": 828.0,
+   "credit": null,
+   "balance": 1098450.51
+  },
+  {
+   "date": "2026-04-08",
+   "description": "NEFT/CR/820260374852/PRIYA NAIR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 13262.67,
+   "balance": 1111713.18
+  },
+  {
+   "date": "2026-04-09",
+   "description": "UPI/CR/440884246288/CITY MEDICALS/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 17236.62,
+   "balance": 1128949.8
+  },
+  {
+   "date": "2026-04-10",
+   "description": "IMPS/849771439769/செல்வி ஸ்டோர்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 18064.52,
+   "balance": 1147014.32
+  },
+  {
+   "date": "2026-04-10",
+   "description": "UPI/CR/126098558665/CITY MEDICALS/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 15481.96,
+   "balance": 1162496.28
+  },
+  {
+   "date": "2026-04-11",
+   "description": "UPI/CR/152951028758/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 8242.69,
+   "balance": 1170738.97
+  },
+  {
+   "date": "2026-04-12",
+   "description": "BILLPAY/TATA POWER/MOBILE RECHARGE",
+   "debit": 2734.0,
+   "credit": null,
+   "balance": 1168004.97
+  },
+  {
+   "date": "2026-04-13",
+   "description": "IMPS/499947730428/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 12364.32,
+   "balance": 1180369.29
+  },
+  {
+   "date": "2026-04-13",
+   "description": "NEFT/DR/6972278063/CITY MEDICALS/PURCHASE ORDER",
+   "debit": 47000.0,
+   "credit": null,
+   "balance": 1133369.29
+  },
+  {
+   "date": "2026-04-14",
+   "description": "IMPS/777612381641/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 17310.92,
+   "balance": 1150680.21
+  },
+  {
+   "date": "2026-04-14",
+   "description": "UPI/CR/684294234623/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 10823.93,
+   "balance": 1161504.14
+  },
+  {
+   "date": "2026-04-16",
+   "description": "IMPS/801875728203/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 12555.15,
+   "balance": 1174059.29
+  },
+  {
+   "date": "2026-04-16",
+   "description": "UPI/DR/900657388420/JIO/மொபைல் ரீசார்ஜ்",
+   "debit": 239.0,
+   "credit": null,
+   "balance": 1173820.29
+  },
+  {
+   "date": "2026-04-17",
+   "description": "NEFT/CR/108361282979/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 9889.65,
+   "balance": 1183709.94
+  },
+  {
+   "date": "2026-04-17",
+   "description": "IMPS/776550377213/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 10177.4,
+   "balance": 1193887.34
+  },
+  {
+   "date": "2026-04-17",
+   "description": "CASH DEP BY SELF/BR MUMBAI",
+   "debit": null,
+   "credit": 40221.0,
+   "balance": 1234108.34
+  },
+  {
+   "date": "2026-04-17",
+   "description": "UPI/DR/787815190522/OM ENTERPRISES/MEDICINE",
+   "debit": 474.0,
+   "credit": null,
+   "balance": 1233634.34
+  },
+  {
+   "date": "2026-04-18",
+   "description": "UPI/CR/860823635656/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 8552.48,
+   "balance": 1242186.82
+  },
+  {
+   "date": "2026-04-18",
+   "description": "UPI/CR/421127581633/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 9051.23,
+   "balance": 1251238.05
+  },
+  {
+   "date": "2026-04-18",
+   "description": "IMPS/520621685927/செல்வி ஸ்டோர்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 15250.47,
+   "balance": 1266488.52
+  },
+  {
+   "date": "2026-04-20",
+   "description": "NEFT/CR/327976026665/PRIYA NAIR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 16892.88,
+   "balance": 1283381.4
+  },
+  {
+   "date": "2026-04-20",
+   "description": "NEFT/CR/871356806274/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 10192.63,
+   "balance": 1293574.03
+  },
+  {
+   "date": "2026-04-20",
+   "description": "NEFT/DR/6389943680/CITY MEDICALS/PURCHASE ORDER",
+   "debit": 47000.0,
+   "credit": null,
+   "balance": 1246574.03
+  },
+  {
+   "date": "2026-04-20",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 24262.0,
+   "balance": 1270836.03
+  },
+  {
+   "date": "2026-04-21",
+   "description": "NEFT/CR/656468837252/பிரியா வேலு/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 14571.41,
+   "balance": 1285407.44
+  },
+  {
+   "date": "2026-04-21",
+   "description": "IMPS/914130142485/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 8554.71,
+   "balance": 1293962.15
+  },
+  {
+   "date": "2026-04-22",
+   "description": "NEFT/CR/573116790299/CITY MEDICALS/ORDER PAYMENT",
+   "debit": null,
+   "credit": 18647.06,
+   "balance": 1312609.21
+  },
+  {
+   "date": "2026-04-22",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 24250.0,
+   "balance": 1336859.21
+  },
+  {
+   "date": "2026-04-23",
+   "description": "UPI/CR/039826492188/லக்ஷ்மி ராமன்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 14656.69,
+   "balance": 1351515.9
+  },
+  {
+   "date": "2026-04-23",
+   "description": "UPI/CR/919026636198/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 11996.02,
+   "balance": 1363511.92
+  },
+  {
+   "date": "2026-04-24",
+   "description": "UPI/CR/270033470866/மீனா சுந்தரம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 14909.15,
+   "balance": 1378421.07
+  },
+  {
+   "date": "2026-04-26",
+   "description": "IMPS/970055331155/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 15141.92,
+   "balance": 1393562.99
+  },
+  {
+   "date": "2026-04-26",
+   "description": "NEFT/CR/458096034463/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 17279.22,
+   "balance": 1410842.21
+  },
+  {
+   "date": "2026-04-26",
+   "description": "UPI/CR/357124310920/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 11791.75,
+   "balance": 1422633.96
+  },
+  {
+   "date": "2026-04-27",
+   "description": "NEFT/CR/479959491323/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 11770.88,
+   "balance": 1434404.84
+  },
+  {
+   "date": "2026-04-27",
+   "description": "UPI/DR/575943320925/PRIYA NAIR/CLOTHES",
+   "debit": 2482.0,
+   "credit": null,
+   "balance": 1431922.84
+  },
+  {
+   "date": "2026-04-28",
+   "description": "UPI/CR/228933572475/OM ENTERPRISES/ORDER PAYMENT",
+   "debit": null,
+   "credit": 15590.97,
+   "balance": 1447513.81
+  },
+  {
+   "date": "2026-04-28",
+   "description": "UPI/CR/698438986626/லக்ஷ்மி ராமன்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 14946.14,
+   "balance": 1462459.95
+  },
+  {
+   "date": "2026-05-01",
+   "description": "IMPS/720307678964/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 17854.09,
+   "balance": 1480314.04
+  },
+  {
+   "date": "2026-05-02",
+   "description": "IMPS/569598997832/செல்வி ஸ்டோர்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 13975.67,
+   "balance": 1494289.71
+  },
+  {
+   "date": "2026-05-02",
+   "description": "IMPS/684113062608/லக்ஷ்மி ராமன்/கூலி",
+   "debit": 12013.0,
+   "credit": null,
+   "balance": 1482276.71
+  },
+  {
+   "date": "2026-05-02",
+   "description": "IMPS/077705331417/பிரியா வேலு/கூலி",
+   "debit": 13585.0,
+   "credit": null,
+   "balance": 1468691.71
+  },
+  {
+   "date": "2026-05-02",
+   "description": "IMPS/943780956829/மீனா சுந்தரம்/கூலி",
+   "debit": 10951.0,
+   "credit": null,
+   "balance": 1457740.71
+  },
+  {
+   "date": "2026-05-03",
+   "description": "UPI/CR/586566370787/SNEHA IYER/ORDER PAYMENT",
+   "debit": null,
+   "credit": 9529.82,
+   "balance": 1467270.53
+  },
+  {
+   "date": "2026-05-04",
+   "description": "NEFT/CR/830644551379/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 16305.14,
+   "balance": 1483575.67
+  },
+  {
+   "date": "2026-05-04",
+   "description": "NEFT/CR/032142985148/CITY MEDICALS/ORDER PAYMENT",
+   "debit": null,
+   "credit": 12568.02,
+   "balance": 1496143.69
+  },
+  {
+   "date": "2026-05-05",
+   "description": "NEFT/CR/307934167170/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 10837.9,
+   "balance": 1506981.59
+  },
+  {
+   "date": "2026-05-05",
+   "description": "IMPS/258941156111/HP PETROL PUMP/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 12077.14,
+   "balance": 1519058.73
+  },
+  {
+   "date": "2026-05-05",
+   "description": "IMPS/080726552062/லக்ஷ்மி ராமன்/கடை வாடகை",
+   "debit": 35000.0,
+   "credit": null,
+   "balance": 1484058.73
+  },
+  {
+   "date": "2026-05-06",
+   "description": "NEFT/DR/9501779636/வேல் டிரேடர்ஸ்/மொத்த சரக்கு",
+   "debit": 44000.0,
+   "credit": null,
+   "balance": 1440058.73
+  },
+  {
+   "date": "2026-05-06",
+   "description": "NACH/DR/BAJAJ FINANCE/BL7700/கடன் திருப்பம்",
+   "debit": 18400.0,
+   "credit": null,
+   "balance": 1421658.73
+  },
+  {
+   "date": "2026-05-07",
+   "description": "UPI/CR/625744642187/SNEHA IYER/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 18551.66,
+   "balance": 1440210.39
+  },
+  {
+   "date": "2026-05-08",
+   "description": "IMPS/826382790072/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 9103.65,
+   "balance": 1449314.04
+  },
+  {
+   "date": "2026-05-08",
+   "description": "UPI/DR/197661769132/SNEHA IYER/CLOTHES",
+   "debit": 1505.0,
+   "credit": null,
+   "balance": 1447809.04
+  },
+  {
+   "date": "2026-05-09",
+   "description": "NEFT/CR/353480020489/செல்வி ஸ்டோர்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 14560.79,
+   "balance": 1462369.83
+  },
+  {
+   "date": "2026-05-10",
+   "description": "NEFT/CR/107326478433/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 10814.45,
+   "balance": 1473184.28
+  },
+  {
+   "date": "2026-05-11",
+   "description": "UPI/DR/696030050816/SNEHA IYER/MEDICINE",
+   "debit": 376.0,
+   "credit": null,
+   "balance": 1472808.28
+  },
+  {
+   "date": "2026-05-12",
+   "description": "BILLPAY/TNEB/எரிவாயு சிலிண்டர்",
+   "debit": 1130.0,
+   "credit": null,
+   "balance": 1471678.28
+  },
+  {
+   "date": "2026-05-13",
+   "description": "UPI/CR/112182388207/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 18778.24,
+   "balance": 1490456.52
+  },
+  {
+   "date": "2026-05-13",
+   "description": "NEFT/DR/1420486490/செல்வி ஸ்டோர்/மொத்த சரக்கு",
+   "debit": 44000.0,
+   "credit": null,
+   "balance": 1446456.52
+  },
+  {
+   "date": "2026-05-14",
+   "description": "NEFT/CR/464431777552/NEHA KAPOOR/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 14575.86,
+   "balance": 1461032.38
+  },
+  {
+   "date": "2026-05-14",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 13375.0,
+   "balance": 1474407.38
+  },
+  {
+   "date": "2026-05-14",
+   "description": "UPI/DR/712966144637/செல்வி ஸ்டோர்/மருந்து",
+   "debit": 233.0,
+   "credit": null,
+   "balance": 1474174.38
+  },
+  {
+   "date": "2026-05-15",
+   "description": "IMPS/085474227774/PRIYA NAIR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 26803.78,
+   "balance": 1500978.16
+  },
+  {
+   "date": "2026-05-15",
+   "description": "UPI/DR/359404715821/SNEHA IYER/MEDICINE",
+   "debit": 1033.0,
+   "credit": null,
+   "balance": 1499945.16
+  },
+  {
+   "date": "2026-05-16",
+   "description": "UPI/CR/801089815463/HP PETROL PUMP/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 19128.46,
+   "balance": 1519073.62
+  },
+  {
+   "date": "2026-05-16",
+   "description": "NEFT/CR/201825051353/SNEHA IYER/ORDER PAYMENT",
+   "debit": null,
+   "credit": 14889.92,
+   "balance": 1533963.54
+  },
+  {
+   "date": "2026-05-16",
+   "description": "UPI/DR/461090483830/JIO/எரிவாயு சிலிண்டர்",
+   "debit": 299.0,
+   "credit": null,
+   "balance": 1533664.54
+  },
+  {
+   "date": "2026-05-17",
+   "description": "UPI/CR/401098571406/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 9393.92,
+   "balance": 1543058.46
+  },
+  {
+   "date": "2026-05-17",
+   "description": "UPI/CR/227243145381/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 10305.6,
+   "balance": 1553364.06
+  },
+  {
+   "date": "2026-05-19",
+   "description": "UPI/CR/544123451933/மீனா சுந்தரம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 14835.44,
+   "balance": 1568199.5
+  },
+  {
+   "date": "2026-05-20",
+   "description": "IMPS/998803594815/பிரியா வேலு/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 17578.61,
+   "balance": 1585778.11
+  },
+  {
+   "date": "2026-05-20",
+   "description": "IMPS/383977099392/செல்வி ஸ்டோர்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 19427.81,
+   "balance": 1605205.92
+  },
+  {
+   "date": "2026-05-20",
+   "description": "IMPS/597215140376/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 10273.18,
+   "balance": 1615479.1
+  },
+  {
+   "date": "2026-05-20",
+   "description": "NEFT/DR/4869799427/HP PETROL PUMP/PURCHASE ORDER",
+   "debit": 44000.0,
+   "credit": null,
+   "balance": 1571479.1
+  },
+  {
+   "date": "2026-05-20",
+   "description": "CASH DEP BY SELF/BR MUMBAI",
+   "debit": null,
+   "credit": 19003.0,
+   "balance": 1590482.1
+  },
+  {
+   "date": "2026-05-21",
+   "description": "UPI/CR/345725294464/மீனா சுந்தரம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 12571.77,
+   "balance": 1603053.87
+  },
+  {
+   "date": "2026-05-21",
+   "description": "IMPS/114345872488/வேல் டிரேடர்ஸ்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 14809.03,
+   "balance": 1617862.9
+  },
+  {
+   "date": "2026-05-21",
+   "description": "NEFT/CR/252818294679/PRIYA NAIR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 20072.88,
+   "balance": 1637935.78
+  },
+  {
+   "date": "2026-05-22",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 43141.0,
+   "balance": 1681076.78
+  },
+  {
+   "date": "2026-05-24",
+   "description": "IMPS/954886993983/PRIYA NAIR/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 9229.64,
+   "balance": 1690306.42
+  },
+  {
+   "date": "2026-05-24",
+   "description": "NEFT/CR/657428943015/PRIYA NAIR/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 12916.6,
+   "balance": 1703223.02
+  },
+  {
+   "date": "2026-05-24",
+   "description": "UPI/CR/361419823759/லக்ஷ்மி ராமன்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 13309.14,
+   "balance": 1716532.16
+  },
+  {
+   "date": "2026-05-25",
+   "description": "NEFT/CR/809935396603/மீனா சுந்தரம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 19228.81,
+   "balance": 1735760.97
+  },
+  {
+   "date": "2026-05-26",
+   "description": "UPI/CR/328628242532/HP PETROL PUMP/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 15692.97,
+   "balance": 1751453.94
+  },
+  {
+   "date": "2026-06-01",
+   "description": "UPI/CR/419499165308/SNEHA IYER/ORDER PAYMENT",
+   "debit": null,
+   "credit": 12791.56,
+   "balance": 1764245.5
+  },
+  {
+   "date": "2026-06-02",
+   "description": "UPI/CR/067094798661/லக்ஷ்மி ராமன்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 6950.87,
+   "balance": 1771196.37
+  },
+  {
+   "date": "2026-06-02",
+   "description": "IMPS/145182535733/லக்ஷ்மி ராமன்/கூலி",
+   "debit": 14559.0,
+   "credit": null,
+   "balance": 1756637.37
+  },
+  {
+   "date": "2026-06-02",
+   "description": "IMPS/512012207850/பிரியா வேலு/கூலி",
+   "debit": 14731.0,
+   "credit": null,
+   "balance": 1741906.37
+  },
+  {
+   "date": "2026-06-02",
+   "description": "IMPS/977511005117/NEHA KAPOOR/WAGES",
+   "debit": 9472.0,
+   "credit": null,
+   "balance": 1732434.37
+  },
+  {
+   "date": "2026-06-03",
+   "description": "IMPS/323746556753/லக்ஷ்மி ராமன்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 6793.41,
+   "balance": 1739227.78
+  },
+  {
+   "date": "2026-06-03",
+   "description": "NEFT/CR/875727927680/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 13755.84,
+   "balance": 1752983.62
+  },
+  {
+   "date": "2026-06-04",
+   "description": "NEFT/CR/918061229562/HP PETROL PUMP/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 13160.49,
+   "balance": 1766144.11
+  },
+  {
+   "date": "2026-06-04",
+   "description": "NEFT/CR/711861772749/பிரியா வேலு/நிலுவை தொகை",
+   "debit": null,
+   "credit": 12319.36,
+   "balance": 1778463.47
+  },
+  {
+   "date": "2026-06-04",
+   "description": "UPI/CR/709055586875/HP PETROL PUMP/ORDER PAYMENT",
+   "debit": null,
+   "credit": 11815.44,
+   "balance": 1790278.91
+  },
+  {
+   "date": "2026-06-04",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 15984.0,
+   "balance": 1806262.91
+  },
+  {
+   "date": "2026-06-05",
+   "description": "NEFT/CR/975911293260/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 6561.47,
+   "balance": 1812824.38
+  },
+  {
+   "date": "2026-06-05",
+   "description": "IMPS/809557100303/மீனா சுந்தரம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 11544.3,
+   "balance": 1824368.68
+  },
+  {
+   "date": "2026-06-05",
+   "description": "IMPS/731837971396/பிரியா வேலு/வாடகை JUN26",
+   "debit": 35000.0,
+   "credit": null,
+   "balance": 1789368.68
+  },
+  {
+   "date": "2026-06-06",
+   "description": "NEFT/CR/019170851140/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 10482.74,
+   "balance": 1799851.42
+  },
+  {
+   "date": "2026-06-06",
+   "description": "NEFT/CR/358366771373/லக்ஷ்மி ராமன்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 9345.91,
+   "balance": 1809197.33
+  },
+  {
+   "date": "2026-06-06",
+   "description": "NEFT/DR/3136739855/வேல் டிரேடர்ஸ்/மொத்த சரக்கு",
+   "debit": 46000.0,
+   "credit": null,
+   "balance": 1763197.33
+  },
+  {
+   "date": "2026-06-06",
+   "description": "NACH/DR/BAJAJ FINANCE/BL7700/கடன் திருப்பம்",
+   "debit": 18400.0,
+   "credit": null,
+   "balance": 1744797.33
+  },
+  {
+   "date": "2026-06-07",
+   "description": "IMPS/866719212585/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 15267.46,
+   "balance": 1760064.79
+  },
+  {
+   "date": "2026-06-08",
+   "description": "பணம் செலுத்துதல்/BR சென்னை",
+   "debit": null,
+   "credit": 20297.0,
+   "balance": 1780361.79
+  },
+  {
+   "date": "2026-06-08",
+   "description": "UPI/DR/245791026612/OM ENTERPRISES/CLOTHES",
+   "debit": 373.0,
+   "credit": null,
+   "balance": 1779988.79
+  },
+  {
+   "date": "2026-06-09",
+   "description": "NEFT/CR/403612869803/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 7365.09,
+   "balance": 1787353.88
+  },
+  {
+   "date": "2026-06-09",
+   "description": "IMPS/950839602821/CITY MEDICALS/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 9789.51,
+   "balance": 1797143.39
+  },
+  {
+   "date": "2026-06-10",
+   "description": "UPI/CR/530944654225/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 14105.01,
+   "balance": 1811248.4
+  },
+  {
+   "date": "2026-06-10",
+   "description": "NEFT/CR/607175748709/CITY MEDICALS/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 13553.12,
+   "balance": 1824801.52
+  },
+  {
+   "date": "2026-06-11",
+   "description": "IMPS/223388130528/SNEHA IYER/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 10599.85,
+   "balance": 1835401.37
+  },
+  {
+   "date": "2026-06-11",
+   "description": "UPI/CR/303727645079/CITY MEDICALS/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 7916.71,
+   "balance": 1843318.08
+  },
+  {
+   "date": "2026-06-12",
+   "description": "BILLPAY/TNEB/எரிவாயு சிலிண்டர்",
+   "debit": 2326.0,
+   "credit": null,
+   "balance": 1840992.08
+  },
+  {
+   "date": "2026-06-13",
+   "description": "IMPS/761901589139/லக்ஷ்மி ராமன்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 11544.22,
+   "balance": 1852536.3
+  },
+  {
+   "date": "2026-06-13",
+   "description": "NEFT/DR/3980550321/வேல் டிரேடர்ஸ்/மொத்த சரக்கு",
+   "debit": 46000.0,
+   "credit": null,
+   "balance": 1806536.3
+  },
+  {
+   "date": "2026-06-13",
+   "description": "UPI/DR/858406916636/செல்வி ஸ்டோர்/காய்கறி",
+   "debit": 4053.0,
+   "credit": null,
+   "balance": 1802483.3
+  },
+  {
+   "date": "2026-06-15",
+   "description": "UPI/CR/374065377796/PRIYA NAIR/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 10460.8,
+   "balance": 1812944.1
+  },
+  {
+   "date": "2026-06-15",
+   "description": "UPI/CR/763931811951/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 12563.05,
+   "balance": 1825507.15
+  },
+  {
+   "date": "2026-06-16",
+   "description": "IMPS/981998437151/மீனா சுந்தரம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 7742.69,
+   "balance": 1833249.84
+  },
+  {
+   "date": "2026-06-16",
+   "description": "IMPS/912160660570/PRIYA NAIR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 10930.59,
+   "balance": 1844180.43
+  },
+  {
+   "date": "2026-06-16",
+   "description": "NEFT/CR/277830688534/NEHA KAPOOR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 6425.64,
+   "balance": 1850606.07
+  },
+  {
+   "date": "2026-06-16",
+   "description": "UPI/DR/836747596713/JIO/எரிவாயு சிலிண்டர்",
+   "debit": 239.0,
+   "credit": null,
+   "balance": 1850367.07
+  },
+  {
+   "date": "2026-06-17",
+   "description": "UPI/CR/533604709671/OM ENTERPRISES/ORDER PAYMENT",
+   "debit": null,
+   "credit": 12024.67,
+   "balance": 1862391.74
+  },
+  {
+   "date": "2026-06-17",
+   "description": "UPI/CR/537290082492/NEHA KAPOOR/ORDER PAYMENT",
+   "debit": null,
+   "credit": 11280.31,
+   "balance": 1873672.05
+  },
+  {
+   "date": "2026-06-17",
+   "description": "IMPS/448740959433/சக்தி மருந்தகம்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 8911.35,
+   "balance": 1882583.4
+  },
+  {
+   "date": "2026-06-18",
+   "description": "IMPS/975933536333/வேல் டிரேடர்ஸ்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 13538.99,
+   "balance": 1896122.39
+  },
+  {
+   "date": "2026-06-20",
+   "description": "NEFT/CR/488175755921/CITY MEDICALS/ORDER PAYMENT",
+   "debit": null,
+   "credit": 14773.5,
+   "balance": 1910895.89
+  },
+  {
+   "date": "2026-06-20",
+   "description": "NEFT/DR/3949464871/சக்தி மருந்தகம்/மொத்த சரக்கு",
+   "debit": 46000.0,
+   "credit": null,
+   "balance": 1864895.89
+  },
+  {
+   "date": "2026-06-23",
+   "description": "NEFT/CR/911616493514/PRIYA NAIR/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 7433.38,
+   "balance": 1872329.27
+  },
+  {
+   "date": "2026-06-24",
+   "description": "NEFT/CR/928487177587/லக்ஷ்மி ராமன்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 11899.4,
+   "balance": 1884228.67
+  },
+  {
+   "date": "2026-06-24",
+   "description": "NEFT/CR/009776601188/OM ENTERPRISES/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 9861.37,
+   "balance": 1894090.04
+  },
+  {
+   "date": "2026-06-24",
+   "description": "IMPS/835229734394/பிரியா வேலு/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 13345.87,
+   "balance": 1907435.91
+  },
+  {
+   "date": "2026-06-24",
+   "description": "NEFT/CR/158709171992/மீனா சுந்தரம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 12056.82,
+   "balance": 1919492.73
+  },
+  {
+   "date": "2026-06-26",
+   "description": "NEFT/CR/747272871285/சக்தி மருந்தகம்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 8838.78,
+   "balance": 1928331.51
+  },
+  {
+   "date": "2026-06-26",
+   "description": "IMPS/569855652016/CITY MEDICALS/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 13071.22,
+   "balance": 1941402.73
+  },
+  {
+   "date": "2026-06-26",
+   "description": "UPI/CR/752160512722/OM ENTERPRISES/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 11367.75,
+   "balance": 1952770.48
+  },
+  {
+   "date": "2026-06-26",
+   "description": "UPI/CR/982618896938/செல்வி ஸ்டோர்/வாடிக்கையாளர் பணம்",
+   "debit": null,
+   "credit": 10145.2,
+   "balance": 1962915.68
+  },
+  {
+   "date": "2026-06-26",
+   "description": "CASH DEP BY SELF/BR MUMBAI",
+   "debit": null,
+   "credit": 40423.0,
+   "balance": 2003338.68
+  },
+  {
+   "date": "2026-06-26",
+   "description": "UPI/DR/847441403371/CITY MEDICALS/VEGETABLES",
+   "debit": 3916.0,
+   "credit": null,
+   "balance": 1999422.68
+  },
+  {
+   "date": "2026-06-26",
+   "description": "UPI/DR/881581087930/NEHA KAPOOR/CLOTHES",
+   "debit": 4727.0,
+   "credit": null,
+   "balance": 1994695.68
+  },
+  {
+   "date": "2026-06-27",
+   "description": "UPI/CR/680600036622/CITY MEDICALS/ORDER PAYMENT",
+   "debit": null,
+   "credit": 14246.98,
+   "balance": 2008942.66
+  },
+  {
+   "date": "2026-06-27",
+   "description": "UPI/CR/509617095727/CITY MEDICALS/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 9537.29,
+   "balance": 2018479.95
+  },
+  {
+   "date": "2026-06-27",
+   "description": "IMPS/388673771670/செல்வி ஸ்டோர்/நிலுவை தொகை",
+   "debit": null,
+   "credit": 14740.25,
+   "balance": 2033220.2
+  },
+  {
+   "date": "2026-06-27",
+   "description": "UPI/CR/922655004366/NEHA KAPOOR/INVOICE PAYMENT",
+   "debit": null,
+   "credit": 9141.73,
+   "balance": 2042361.93
+  },
+  {
+   "date": "2026-06-30",
+   "description": "சேமிப்பு வட்டி/Q2",
+   "debit": null,
+   "credit": 935.0,
+   "balance": 2043296.93
+  },
+  {
+   "date": "2026-06-30",
+   "description": "MIN BAL CHGS/Q2",
+   "debit": 59.0,
+   "credit": null,
+   "balance": 2043237.93
+  }
+ ]
+}

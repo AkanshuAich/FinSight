@@ -1,0 +1,245 @@
+{
+  "bank_name": "Coastal Union Bank",
+  "account_holder": "KAVYA IYER",
+  "account_number": "3344556677",
+  "account_type": "SAVINGS",
+  "statement_period": {
+    "from": "2026-01-01",
+    "to": "2026-06-30"
+  },
+  "opening_balance": 85000.0,
+  "closing_balance": 182415.0,
+  "transactions": [
+    {
+      "date": "2026-01-03",
+      "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/588424745171",
+      "debit": null,
+      "credit": 40000.0,
+      "balance": 125000.0
+    },
+    {
+      "date": "2026-01-06",
+      "description": "UPI/MORE SUPERMARKET/more@ybl/405377351585",
+      "debit": 4496.0,
+      "credit": null,
+      "balance": 120504.0
+    },
+    {
+      "date": "2026-01-12",
+      "description": "BSE STAR MF/SIP/GROWW",
+      "debit": 5000.0,
+      "credit": null,
+      "balance": 115504.0
+    },
+    {
+      "date": "2026-01-18",
+      "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/643171390053",
+      "debit": 857.0,
+      "credit": null,
+      "balance": 114647.0
+    },
+    {
+      "date": "2026-01-24",
+      "description": "ATM WDL/CUB ATM ADYAR/931839",
+      "debit": 3000.0,
+      "credit": null,
+      "balance": 111647.0
+    },
+    {
+      "date": "2026-02-03",
+      "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/438156149784",
+      "debit": null,
+      "credit": 40000.0,
+      "balance": 151647.0
+    },
+    {
+      "date": "2026-02-06",
+      "description": "UPI/MORE SUPERMARKET/more@ybl/681645352181",
+      "debit": 8346.0,
+      "credit": null,
+      "balance": 143301.0
+    },
+    {
+      "date": "2026-02-12",
+      "description": "BSE STAR MF/SIP/GROWW",
+      "debit": 5000.0,
+      "credit": null,
+      "balance": 138301.0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/835523124329",
+      "debit": 913.0,
+      "credit": null,
+      "balance": 137388.0
+    },
+    {
+      "date": "2026-02-24",
+      "description": "ATM WDL/CUB ATM ADYAR/127799",
+      "debit": 5000.0,
+      "credit": null,
+      "balance": 132388.0
+    },
+    {
+      "date": "2026-03-03",
+      "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/932460953962",
+      "debit": null,
+      "credit": 40000.0,
+      "balance": 172388.0
+    },
+    {
+      "date": "2026-03-06",
+      "description": "UPI/MORE SUPERMARKET/more@ybl/054156676527",
+      "debit": 8075.0,
+      "credit": null,
+      "balance": 164313.0
+    },
+    {
+      "date": "2026-03-12",
+      "description": "BSE STAR MF/SIP/GROWW",
+      "debit": 5000.0,
+      "credit": null,
+      "balance": 159313.0
+    },
+    {
+      "date": "2026-03-18",
+      "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/584161692845",
+      "debit": 810.0,
+      "credit": null,
+      "balance": 158503.0
+    },
+    {
+      "date": "2026-03-24",
+      "description": "ATM WDL/CUB ATM ADYAR/154479",
+      "debit": 5000.0,
+      "credit": null,
+      "balance": 153503.0
+    },
+    {
+      "date": "2026-03-31",
+      "description": "SB INTEREST CREDIT",
+      "debit": null,
+      "credit": 870.0,
+      "balance": 154373.0
+    },
+    {
+      "date": "2026-04-03",
+      "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/229959001094",
+      "debit": null,
+      "credit": 40000.0,
+      "balance": 194373.0
+    },
+    {
+      "date": "2026-04-06",
+      "description": "UPI/MORE SUPERMARKET/more@ybl/327877470168",
+      "debit": 7745.0,
+      "credit": null,
+      "balance": 186628.0
+    },
+    {
+      "date": "2026-04-08",
+      "description": "NEFT/VIDYA MANDIR SCHOOL/TERM FEES",
+      "debit": 42000.0,
+      "credit": null,
+      "balance": 144628.0
+    },
+    {
+      "date": "2026-04-12",
+      "description": "BSE STAR MF/SIP/GROWW",
+      "debit": 5000.0,
+      "credit": null,
+      "balance": 139628.0
+    },
+    {
+      "date": "2026-04-18",
+      "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/339500479748",
+      "debit": 616.0,
+      "credit": null,
+      "balance": 139012.0
+    },
+    {
+      "date": "2026-04-24",
+      "description": "ATM WDL/CUB ATM ADYAR/162456",
+      "debit": 5000.0,
+      "credit": null,
+      "balance": 134012.0
+    },
+    {
+      "date": "2026-05-03",
+      "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/728962309130",
+      "debit": null,
+      "credit": 40000.0,
+      "balance": 174012.0
+    },
+    {
+      "date": "2026-05-06",
+      "description": "UPI/MORE SUPERMARKET/more@ybl/415747338484",
+      "debit": 5124.0,
+      "credit": null,
+      "balance": 168888.0
+    },
+    {
+      "date": "2026-05-12",
+      "description": "BSE STAR MF/SIP/GROWW",
+      "debit": 5000.0,
+      "credit": null,
+      "balance": 163888.0
+    },
+    {
+      "date": "2026-05-18",
+      "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/199330833016",
+      "debit": 1276.0,
+      "credit": null,
+      "balance": 162612.0
+    },
+    {
+      "date": "2026-05-24",
+      "description": "ATM WDL/CUB ATM ADYAR/712082",
+      "debit": 5000.0,
+      "credit": null,
+      "balance": 157612.0
+    },
+    {
+      "date": "2026-06-03",
+      "description": "IMPS/SRI LAKSHMI TRADERS/OWN AC/530174268414",
+      "debit": null,
+      "credit": 40000.0,
+      "balance": 197612.0
+    },
+    {
+      "date": "2026-06-06",
+      "description": "UPI/MORE SUPERMARKET/more@ybl/064039106518",
+      "debit": 4493.0,
+      "credit": null,
+      "balance": 193119.0
+    },
+    {
+      "date": "2026-06-12",
+      "description": "BSE STAR MF/SIP/GROWW",
+      "debit": 5000.0,
+      "credit": null,
+      "balance": 188119.0
+    },
+    {
+      "date": "2026-06-18",
+      "description": "UPI/APOLLO PHARMACY/apollo@hdfcbank/170462265676",
+      "debit": 1369.0,
+      "credit": null,
+      "balance": 186750.0
+    },
+    {
+      "date": "2026-06-24",
+      "description": "ATM WDL/CUB ATM ADYAR/182512",
+      "debit": 5000.0,
+      "credit": null,
+      "balance": 181750.0
+    },
+    {
+      "date": "2026-06-30",
+      "description": "SB INTEREST CREDIT",
+      "debit": null,
+      "credit": 665.0,
+      "balance": 182415.0
+    }
+  ]
+}
