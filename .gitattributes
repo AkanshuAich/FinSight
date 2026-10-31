@@ -1,0 +1,7 @@
+# Statements and test fixtures are byte-exact: line-ending conversion would corrupt them
+# and change the hashes and edit-risk signals that tests rely on.
+*.pdf binary
+*.xlsx binary
+*.png binary
+*.jpg binary
+* text=auto eol=lf
